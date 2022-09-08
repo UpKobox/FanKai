@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:02:42 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Le briseur du sort</title>
+  <originaltitle/>
+  <showtitle>Yu Yu Hakusho Kaï</showtitle>
+  <season>3</season>
+  <episode>10</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Le plan de Sensui continue, Kuwabara et ses amis sont à un concert de rock. Cependant, ils sont pris en embuscade par un sous-fifre de Sensui : Seaman.&#13;
+&#13;
+Ce film couvre les épisodes 75 à 83 soit les chapitres 124 à 136.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2019-08-14</premiered>
+  <aired>2019-08-14</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Titou - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-22 22:08:15</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>Yu Yu Hakusho - Film 10 - Le briseur de sort.mkv</original_filename>
+  <user_note/>
+</episodedetails>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:43 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Lallappallooza</title>
+  <originaltitle/>
+  <showtitle>Hajime No Ippo Henshû</showtitle>
+  <season>1</season>
+  <episode>16</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Nous retrouvons notre héros chez lui, dans sa chambre, il ne peut s'empêcher de penser au match qu'il vient de voir à Osaka, les accélérations de Sendô, ses coups si puissants et son expression de tueur sanguinaire l'ont effrayé. Les pensées d'Ippo sont soudainement stoppées par sa mère. Kumi, l'amie d'ippo veut lui parler au téléphone^^ Ho joie, Ho amour, Ippo s'empresse de prendre le combiné. Après une petite discussion entre timides, nos tourtereaux décident quand même d'un rendez-vous.&#13;
+&#13;
+Ce film couvre les épisodes 70 à 75 de la saison 1.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2021-09-17</premiered>
+  <aired>2021-09-17</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Livai - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 16:37:10</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Livaï] Hajime no Ippo Henshū 16 - Lallappallooza - 576p.VOSTFR.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

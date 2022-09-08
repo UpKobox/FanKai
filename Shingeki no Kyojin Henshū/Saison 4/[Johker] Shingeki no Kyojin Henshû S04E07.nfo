@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-24 22:15:19 - tinyMediaManager 4.3.2-->
+<episodedetails>
+  <title>Mains salies</title>
+  <originaltitle/>
+  <showtitle>Shingeki No Kyojin Henshû</showtitle>
+  <season>4</season>
+  <episode>7</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Si une même cause réunit aujourd'hui les anciens ennemis, elle n'efface pas pour autant les rancunes et les tensions qui menacent leur fragile alliance.
+
+Ce film couvre les épisodes 84 à 87.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Johker - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-24 18:13:24</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Johker] Shingeki no Kyojin Henshû S04E07.mkv</original_filename>
+  <user_note/>
+</episodedetails>

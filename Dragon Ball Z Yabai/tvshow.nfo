@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-27 17:09:17 - tinyMediaManager 4.3.3-->
+<tvshow>
+  <title>Dragon Ball Z Yabai</title>
+  <originaltitle/>
+  <showtitle>Dragon Ball Z Yabai</showtitle>
+  <sorttitle/>
+  <year>2009</year>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <outline/>
+  <plot>Dragon Ball Z reprend cinq ans après le mariage de Son Goku. Radditz, un mystérieux guerrier de l'espace, arrive sur Terre pour retrouver Goku, qui apprend alors qu'il vient d'une planète de guerriers dont il ne reste plus que quatre survivants. La trame de l'histoire repose sur une succession d'adversaires à combattre, de plus en plus forts, mais il y a aussi fréquemment un contexte de quête ou de voyage qui donne un intérêt autre que les simples duels.</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <thumb aspect="poster">https://static.wikia.nocookie.net/fan-kai/images/5/52/Dbz_yabai_affiche.webp/revision/latest?cb=20220114232916&amp;path-prefix=fr</thumb>
+  <thumb aspect="banner">https://artworks.thetvdb.com/banners/graphical/88031-g2.jpg</thumb>
+  <namedseason number="1">Saiyens</namedseason>
+  <namedseason number="2">Freezer</namedseason>
+  <namedseason number="3">Cell</namedseason>
+  <namedseason number="4">Boo</namedseason>
+  <thumb aspect="poster" season="1" type="season">https://artworks.thetvdb.com/banners/seasons/88031-1-4.jpg</thumb>
+  <thumb aspect="poster" season="2" type="season">https://artworks.thetvdb.com/banners/posters/88031-2.jpg</thumb>
+  <thumb aspect="poster" season="3" type="season">https://artworks.thetvdb.com/banners/seasons/88031-1-3.jpg</thumb>
+  <thumb aspect="poster" season="4" type="season">https://artworks.thetvdb.com/banners/series/88031/posters/60284281ce2de.jpg</thumb>
+  <fanart>
+    <thumb>https://artworks.thetvdb.com/banners/fanart/original/88031-7.jpg</thumb>
+  </fanart>
+  <mpaa/>
+  <certification/>
+  <id/>
+  <imdbid/>
+  <tmdbid/>
+  <premiered/>
+  <status>Unknown</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Animation</genre>
+  <genre>Anime</genre>
+  <genre>Comedy</genre>
+  <genre>Fantasy</genre>
+  <genre>Science Fiction</genre>
+  <studio>Mixouille - Fan-Kai</studio>
+  <country/>
+  <actor>
+    <name>Masako Nozawa</name>
+    <role>Goku</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/386118/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ryo Horikawa</name>
+    <role>Vegeta</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/7896829/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Toshio Furukawa</name>
+    <role>Piccolo</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/385208/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mayumi Tanaka</name>
+    <role>Krilin</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/412417/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ryuusei Nakao</name>
+    <role>Freezer</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/7965138/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Norio Wakamoto</name>
+    <role>Cell</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/362925/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kozo Shioya</name>
+    <role>Boo</role>
+    <thumb>https://www.themoviedb.org/t/p/w500/2IVg74G3MVGIhd3ImlAlo7IvE1P.jpg</thumb>
+  </actor>
+  <trailer/>
+  <dateadded>2009-05-04 16:13:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+</tvshow>

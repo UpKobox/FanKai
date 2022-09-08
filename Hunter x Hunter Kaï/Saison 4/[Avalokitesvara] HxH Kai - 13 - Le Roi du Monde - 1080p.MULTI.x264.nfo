@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:41:25 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Le Roi du Monde</title>
+  <originaltitle/>
+  <showtitle>Hunter X Hunter Kaï</showtitle>
+  <season>4</season>
+  <episode>13</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Après avoir envahi la république du Gorutô de l'Est et mangé l'aura d'un utilisateur de Nen, le roi devient de plus en plus puissant.&#13;
+&#13;
+Ce film couvre les épisodes 93 à 97 soit les chapitres 216 à 229.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2019-03-03</premiered>
+  <aired>2019-03-03</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Avalokitesvara - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 00:20:42</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Avalokitesvara] HxH Kai - 13 - Le Roi du Monde - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

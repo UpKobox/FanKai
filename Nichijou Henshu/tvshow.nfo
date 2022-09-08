@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-27 14:56:50 - tinyMediaManager 4.3.3-->
+<tvshow>
+  <title>Nichijou Henshû</title>
+  <originaltitle/>
+  <showtitle>Nichijou Henshû</showtitle>
+  <sorttitle/>
+  <year>2011</year>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <outline/>
+  <plot>La série suit la vie quotidienne de diverses personnes dans la ville de Tokisadame, notamment l'énergique Yūko Aioi, la brillante et joyeuse Mio Naganohara, la calme et impassible Mai Minakami, l'androïde inquiète Nano Shinonome, sa jeune créatrice la professeure et Sakamoto, un chat doué de parole.</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <thumb aspect="poster">https://static.wikia.nocookie.net/fan-kai/images/1/11/Nichijou_henshu_affiche.webp/revision/latest?cb=20220115002613&amp;path-prefix=fr</thumb>
+  <thumb aspect="banner">https://artworks.thetvdb.com/banners/text/240291.jpg</thumb>
+  <thumb aspect="poster" season="1" type="season">https://artworks.thetvdb.com/banners/posters/240291-4.jpg</thumb>
+  <fanart>
+    <thumb>https://artworks.thetvdb.com/banners/fanart/original/240291-13.jpg</thumb>
+  </fanart>
+  <mpaa/>
+  <certification/>
+  <id/>
+  <imdbid/>
+  <tmdbid/>
+  <premiered/>
+  <status>Unknown</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Animation</genre>
+  <genre>Anime</genre>
+  <genre>Comedy</genre>
+  <studio>Roro - Fan-Kai</studio>
+  <country/>
+  <actor>
+    <name>Mariko Honda</name>
+    <role>Yuuko Aioi</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/7866018/620785fd423b9.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Misuzu Togashi</name>
+    <role>Mai Minakami</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/490985/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mai Aizawa</name>
+    <role>Mio Naganohara</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/397937/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shizuka Furuya</name>
+    <role>Nano Shinonome</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/596151/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiromi Konno</name>
+    <role>Hakase Shinonome</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/277068/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Minoru Shiraishi</name>
+    <role>Sakamoto</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/448668/6228add597f4c.jpg</thumb>
+  </actor>
+  <trailer/>
+  <dateadded>2011-03-04 13:10:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+</tvshow>

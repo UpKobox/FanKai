@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-25 00:30:00 - tinyMediaManager 4.3.2-->
+<episodedetails>
+  <title>La table des interdits</title>
+  <originaltitle/>
+  <showtitle>Sword Art Online Kaï</showtitle>
+  <season>4</season>
+  <episode>13</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Maintenant Disciple d'Elite avec Kirito, Eugeo lutte pour savoir comment devenir plus fort. Lorsqu'il est la cible des railleries de Raios, disciple d'élite du premier siège, et de Humbert, second siège, Eugeo décide d'accepter la demande de Humbert pour un duel.
+
+Ce film couvre les épisodes 9 à 12 soit le volume 11.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Roro - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-22 22:47:06</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Roro] Sword Art Online Kaï S04E03.mkv</original_filename>
+  <user_note/>
+</episodedetails>

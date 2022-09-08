@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:52:20 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Reborn débarque</title>
+  <originaltitle/>
+  <showtitle>Reborn! Kaï</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Un étrange bébé, Reborn, qui prétend être un tueur à gage de la mafia approche Tsunayoshi "Tsuna" Sawada. Pour Tsuna, c'est la consternation, il vient d'être choisi pour devenir le prochain boss des Vongola.&#13;&#13;
+&#13;&#13;
+Ce film couvre les épisodes 1 à 5.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/1/10/Reborn_kai_affiche_01.png/revision/latest/scale-to-width-down/1000?cb=20220830145126&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2020-02-13</premiered>
+  <aired>2020-02-13</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Kadero_san - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 18:12:50</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[kadero_san] REBORN! (Fan-Kai) - Cible 01. Reborn débarque.mkv</original_filename>
+  <user_note/>
+</episodedetails>

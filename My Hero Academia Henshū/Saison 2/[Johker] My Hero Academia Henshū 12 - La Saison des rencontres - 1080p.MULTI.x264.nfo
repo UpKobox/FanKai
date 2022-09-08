@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:45:15 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>La Saison des rencontres</title>
+  <originaltitle/>
+  <showtitle>My Hero Academia Henshû</showtitle>
+  <season>2</season>
+  <episode>12</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Après leur combat, Izuku et Katsuki sont assignés à résidence, et ratent donc la reprise des cours. Cela ne représente que quelques jours dans une vie, mais dans un cursus scolaire aussi exigent que celui de Yuei, c'est ce qui peut faire toute la différence. D'autant plus que cette rentrée apporte son lot de nouveautés...&#13;&#13;
+&#13;&#13;
+Ce film couvre les épisodes 62 à 69.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/4/44/My_hero_academia_henshu_affiche_12.webp/revision/latest?cb=20220810234523&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2020-04-01</premiered>
+  <aired>2020-04-01</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Johker - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-20 17:09:44</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Johker] My Hero Academia Henshū 12 - La Saison des rencontres - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

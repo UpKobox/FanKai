@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-28 17:57:44 - tinyMediaManager 4.3.3-->
+<tvshow>
+  <title>Hikaru No Go Henshû</title>
+  <originaltitle/>
+  <showtitle>Hikaru No Go Henshû</showtitle>
+  <sorttitle/>
+  <year>2001</year>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <outline/>
+  <plot>Le jeune Hikaru découvre un jour dans le grenier de son grand-père un goban (plateau de jeu de go). L'objet se révèle hanté par un fantôme nommé Saï, ancien professeur de go de l'empereur sous l'ère Heian. Saï se retrouve piégé dans l'esprit de Hikaru et lui donne peu à peu le goût du go. Se laissant guider dans ses débuts par Saï, Hikaru rencontre et vainc Akira, un jeune prodige. Dès lors, les deux jeunes garçons ne vont cesser de progresser et de se poursuivre.</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <thumb aspect="poster">https://static.wikia.nocookie.net/fan-kai/images/b/b4/Hikaru_kai_affiche.webp/revision/latest?cb=20220114234450&amp;path-prefix=fr</thumb>
+  <thumb aspect="poster" season="1" type="season">https://artworks.thetvdb.com/banners/posters/72905-3.jpg</thumb>
+  <fanart>
+    <thumb>https://artworks.thetvdb.com/banners/fanart/original/72905-1.jpg</thumb>
+  </fanart>
+  <mpaa/>
+  <certification/>
+  <id/>
+  <imdbid/>
+  <tmdbid/>
+  <premiered/>
+  <status>Unknown</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Adventure</genre>
+  <genre>Animation</genre>
+  <genre>Anime</genre>
+  <genre>Drama</genre>
+  <genre>Fantasy</genre>
+  <genre>Sport</genre>
+  <studio>Trafalgarwater - Fan-Kai</studio>
+  <country/>
+  <actor>
+    <name>Tomoko Kawakami</name>
+    <role>Hikaru Shindo</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/271001/61efc7b88d29d.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Susumu Chiba</name>
+    <role>Sai</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/343389/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sanae Kobayashi</name>
+    <role>Akira Touya</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/294826/61b725125a6ae.jpg</thumb>
+  </actor>
+  <trailer/>
+  <dateadded>2001-10-10 17:33:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+</tvshow>

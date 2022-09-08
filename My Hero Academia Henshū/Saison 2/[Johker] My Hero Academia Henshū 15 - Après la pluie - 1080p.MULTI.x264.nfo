@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:45:06 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Après la Pluie</title>
+  <originaltitle/>
+  <showtitle>My Hero Academia Henshû</showtitle>
+  <season>2</season>
+  <episode>15</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Certains élèves de rattrapage au permis sont sélectionnés selon leur profil pour un cours spécial : parvenir à dompter une classe sur laquelle plus aucune forme d'autorité ne fonctionne. Pour réussir l'exercice, il ne faudra pas compter sur sa force uniquement, même si les Alters sont la clé. Puis le temps passe à Yuei et d'autres liens pourraient bien se nouer entre les élèves.&#13;&#13;
+&#13;&#13;
+Ce film couvre les épisodes 80 à 86.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/5/58/My_hero_academia_henshu_affiche_15.webp/revision/latest?cb=20220810234523&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2020-08-25</premiered>
+  <aired>2020-08-25</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Johker - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-20 17:09:44</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Johker] My Hero Academia Henshū 15 - Après la pluie - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:19:40 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Shimotsuki Yasuie</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>9</season>
+  <episode>119</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Luffy profite du Sumo Inferno pour expérimenter de nouvelles techniques de combat, et ce, même contre deux Gifters de l'équipage de Kaido, Alpagaman et Madilloman. Pendant ce temps, Zoro se réveille après son combat contre Kamazo. Il a été soigné par Komurasaki et O-Toko, qu'il a sauvé de l'assassin d'Orochi.&#13;
+&#13;
+Ce film couvre les épisodes 935 à 940 soit les chapitres 939 à 942.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/7/75/One_piece_kai_affiche_119.webp/revision/latest/scale-to-width-down/1000?cb=20220811193202&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2020-12-06</premiered>
+  <aired>2020-12-06</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:22</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Kaï - 119 - Shimotsuki Yasuie - 1080p.VOSTFR.x264 [Livaï].mkv</original_filename>
+  <user_note/>
+</episodedetails>

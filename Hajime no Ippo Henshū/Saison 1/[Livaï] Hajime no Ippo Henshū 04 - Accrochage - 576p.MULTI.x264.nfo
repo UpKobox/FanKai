@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:42 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Accrochage</title>
+  <originaltitle/>
+  <showtitle>Hajime No Ippo Henshû</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Ippo rejoint Takamura au Kourakuen hall, ils vont voir le combat de Miyata. Takamura est reconnu de tous, ce qui impressionne notre petit Ippo; une fois nos 2 compères installés, Ippo aperçoit la fille qu'il avait déjà repéré pendant ses footings et jubile, mais Takamura lui remet vite les pieds sur terre, le combat va commencer. Miyata affrontera Takada un boxeur corps à corps, tout comme Ippo. Le combat débute ! Miyata commence en provoquant son adversaire, il n'utilise pas son jeux de jambes.&#13;
+&#13;
+Ce film couvre les épisodes 16 à 19 soit les chapitres 36 à 50 de la saison 1.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2020-04-16</premiered>
+  <aired>2020-04-16</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Livai - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 16:37:10</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Livaï] Hajime no Ippo Henshū 04 - Accrochage - 576p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

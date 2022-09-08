@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:23 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Rewind City</title>
+  <originaltitle/>
+  <showtitle>D.Gray-Man Kaï</showtitle>
+  <season>2</season>
+  <episode>3</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Allen, accompagné de Lenalee, est envoyé dans une ville allemande qui revit sans arrêt la même journée ce qui prouverait la présence d'un fragment d'Innocence.&#13;
+&#13;
+Ce film couvre les épisodes 9 à 12.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/f/fc/D.gray_man_kai_affiche_03.webp/revision/latest/scale-to-width-down/1000?cb=20220810224719&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2020-03-25</premiered>
+  <aired>2020-03-25</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Johker - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 01:31:48</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Johker] D.Gray-man Kaï 03 - Rewind City - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

@@ -1,0 +1,2 @@
+S1 = Héros de Yuei
+S2 = L'Ascension du Mal

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:44 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Guerre sous-marine</title>
+  <originaltitle/>
+  <showtitle>Hajime No Ippo Henshû</showtitle>
+  <season>3</season>
+  <episode>23</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Après un horrible match, Takamura devient le champion du monde dans la catégorie WBC Jr. Middleweight, il commande une géante statue de lui en bronze pour le célébrer. Itagaki gagne son premier match officiel et Ippo rencontre sa famille.&#13;
+&#13;
+Ce film couvre les épisodes 25 à 26 de la saison 2 ainsi que les épisodes 1 à 2 de la saison 3.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2022-01-02</premiered>
+  <aired>2022-01-02</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Livai - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 16:37:10</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Livaï] Hajime no Ippo Henshū 23 - Guerre sous-marine - 1080p.VOSTFR.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

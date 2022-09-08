@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:41 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Makunouchi Ippo</title>
+  <originaltitle/>
+  <showtitle>Hajime No Ippo Henshû</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Makunouchi Ippo est le héros de la série. Ce jeune lycéen vit seul avec sa mère qui possède une entreprise de location de bateaux et de matériel de pêche. Au début de l'épisode, on voit le jeune Ippo portant simultanément plusieurs glacières remplies destinées aux pêcheurs, c'est sans doute ce qui lui procure une grande puissance dans ses bras. Assez discret à l'école il n'a pas d'amis vu qu'il ne sort jamais (cela vient du fait qu'il travaille avec sa mère tous les soirs).&#13;
+&#13;
+Ce film couvre les épisodes 1 à 7 soit les chapitres 1 à 13 de la saison 1.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2020-02-06</premiered>
+  <aired>2020-02-06</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Livai - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 16:37:09</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Livaï] Hajime no Ippo Henshū 01 - Makunouchi Ippo - 576p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

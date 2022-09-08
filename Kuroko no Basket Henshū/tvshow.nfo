@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-27 15:38:46 - tinyMediaManager 4.3.3-->
+<tvshow>
+  <title>Kuroko No Basket Henshû</title>
+  <originaltitle/>
+  <showtitle>Kuroko No Basket Henshû</showtitle>
+  <sorttitle/>
+  <year>2012</year>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <outline/>
+  <plot>La Génération Miracle, la fameuse équipe du collège Teikou composée de cinq génies. Une légende raconte qu'un sixième membre fantôme aurait fait partie de cette équipe, un membre que les cinq autres respectaient et considéraient comme leur supérieur. C'est la rentrée des classes au lycée Seirin et le club de basket compte désormais dans ses rangs Taiga Kagami, joueur impulsif et prometteur revenu d'Amérique, qui rêve d'écraser la Génération Miracle et devenir le numéro 1 du Japon, et Kuroko Tetsuya, garçon très effacé que personne ne remarque et peu doué pour le basket. Ce dernier aurait pourtant fait partie de la fameuse équipe de Teikou, à la grande surprise de tout le monde. Très vite, Kuroko s'intéressera à Kagami et décidera de l'aider à devenir le meilleur du Japon...</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <thumb aspect="poster">https://static.wikia.nocookie.net/fan-kai/images/9/9a/Kuroko_henshu_affiche.webp/revision/latest?cb=20220114234450&amp;path-prefix=fr</thumb>
+  <thumb aspect="banner">https://artworks.thetvdb.com/banners/graphical/257765-g.jpg</thumb>
+  <thumb aspect="poster" season="1" type="season">https://artworks.thetvdb.com/banners/series/257765/seasons/489131/posters/6040f9a1d535f.jpg</thumb>
+  <thumb aspect="poster" season="2" type="season">https://artworks.thetvdb.com/banners/series/257765/seasons/526308/posters/6040fa16049b2.jpg</thumb>
+  <thumb aspect="poster" season="3" type="season">https://artworks.thetvdb.com/banners/series/257765/seasons/604934/posters/6040fa58e08f0.jpg</thumb>
+  <fanart>
+    <thumb>https://artworks.thetvdb.com/banners/fanart/original/257765-5.jpg</thumb>
+  </fanart>
+  <mpaa/>
+  <certification/>
+  <id/>
+  <imdbid/>
+  <tmdbid/>
+  <premiered/>
+  <status>Unknown</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Animation</genre>
+  <genre>Anime</genre>
+  <genre>Comedy</genre>
+  <genre>Sport</genre>
+  <studio>Livai - Fan-Kai</studio>
+  <country/>
+  <actor>
+    <name>Kensho Ono</name>
+    <role>Kuroko Tetsuya</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/7875623/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuuki Ono</name>
+    <role>Kagami Taiga</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/7868622/61be440cb48df.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Jun'ichi Suwabe</name>
+    <role>Aomine Daiki</role>
+    <thumb>https://artworks.thetvdb.com/banners/v4/actor/309354/photo/62e22d918a92f.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroshi Kamiya</name>
+    <role>Akashi Seijuro</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/277078/6190e39157551.jpg</thumb>
+  </actor>
+  <trailer/>
+  <dateadded>2012-07-04 15:30:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+</tvshow>

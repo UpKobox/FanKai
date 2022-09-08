@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:52 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Siri</title>
+  <originaltitle/>
+  <showtitle>Lastman Henshû</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Dans une mégapole corrompue et violente comme Paxtown, la survie est une activité à plein temps. Richard ne s'en sortait pas trop mal, vivant de petits boulots et squattant le club de boxe de son vieux pote Dave. Mais un jour, ce dernier se fait kidnapper en pleine rue par des hommes masqués...&#13;
+&#13;
+Ce film couvre les épisodes 1 à 7.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2018-12-15</premiered>
+  <aired>2018-12-15</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Titou - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 01:17:25</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>Lastman (Fan-Kai) - Film 1 - Siri.mkv</original_filename>
+  <user_note/>
+</episodedetails>

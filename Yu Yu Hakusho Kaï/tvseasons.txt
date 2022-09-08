@@ -1,0 +1,4 @@
+S1 = Spirit Detective - Films 1 à 4
+S2 = Dark Tournament - Films 5 à 8
+S3 = Chapter Black - Films 9 à 11
+S4 = Three Kings - Films 12 à 13

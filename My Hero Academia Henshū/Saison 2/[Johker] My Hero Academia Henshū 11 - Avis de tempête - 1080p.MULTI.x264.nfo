@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:45:18 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Avis de tempête</title>
+  <originaltitle/>
+  <showtitle>My Hero Academia Henshû</showtitle>
+  <season>2</season>
+  <episode>11</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Les élèves ayant réussi la première épreuve au permis provisoire n'en ont pas encore fini. Une seconde épreuve les attend avant de recevoir le précieux sésame. Le nombre de candidats est désormais réduit à 100, mais ça ne veut pas dire pour autant qu'il faille relâcher ses efforts. Une mission de sauvetage de grande envergure commence !&#13;&#13;
+&#13;&#13;
+Ce film couvre les épisodes 57 à 61.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/e/ea/My_hero_academia_henshu_affiche_11.webp/revision/latest?cb=20220810234523&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2019-09-18</premiered>
+  <aired>2019-09-18</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Johker - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-20 17:09:44</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Johker] My Hero Academia Henshū 11 - Avis de tempête - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

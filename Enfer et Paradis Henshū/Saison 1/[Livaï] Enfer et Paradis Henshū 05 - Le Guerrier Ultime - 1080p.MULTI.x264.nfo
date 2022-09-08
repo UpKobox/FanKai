@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:34 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Le Guerrier Ultime</title>
+  <originaltitle/>
+  <showtitle>Enfer Et Paradis Henshû</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Après la raclée que ce sont pris Nagi et Bob face à Bunshichi, ils lui réclament des explications par rapport au passé. Maya ne leur à raconté que le début de l'histoire... Directement après sa sortie d'hôpital Shin décide de fonder un nouveau club avec Mitsuomi et Bunshichi afin de participer aux préliminaires du grand tournoi d'arts martiaux de l'école. Seulement, il manque deux personnes pour monter le club, Mitsuomi veut à tout prix qu'Aya rejoigne le club, mais elle ne va pas être facile à convaincre.&#13;
+&#13;
+Ce film couvre les épisodes 19 à 24.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/d/d1/Enfer_et_paradis_henshu_affiche_05.webp/revision/latest/scale-to-width-down/1000?cb=20220810230227&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2022-01-21</premiered>
+  <aired>2022-01-21</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Livai - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 00:59:27</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Livaï] Enfer et Paradis Henshū 5 - Le Guerrier Ultime - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:19:50 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Les ruines du château d'Oden</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>9</season>
+  <episode>116</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Luffy, accompagné de Trafalgar Law, découvre les ruines du château d'Oden, parti en fumée il y a 20 ans de cela. Au pied des ruines se dressent des pierres tombales portant des noms familiers... Les pirates y retrouvent alors de nombreuses connaissances. Pendant ce temps, Robin poursuit son infiltration à la Capitale des Fleurs...&#13;
+&#13;
+Ce film couvre les épisodes 909 à 916 soit les chapitres 919 à 924.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/6/63/One_piece_kai_affiche_116.webp/revision/latest/scale-to-width-down/1000?cb=20220811193159&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2020-04-03</premiered>
+  <aired>2020-04-03</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:28</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Kaï - 116 - Les ruines du château d'Oden - 1080p.VOSTFR.x264 [Livaï].mkv</original_filename>
+  <user_note/>
+</episodedetails>

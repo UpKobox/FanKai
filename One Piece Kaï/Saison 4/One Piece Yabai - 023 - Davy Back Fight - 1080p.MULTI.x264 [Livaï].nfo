@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:39:35 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Davy Back Fight</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>4</season>
+  <episode>23</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>L'équipage déguise le Vogue Merry en un navire de la marine afin de récupérer leur trésor. Avec l’or, ils décident d’embaucher un constructeur naval.&#13;
+&#13;
+Ce film couvre les épisodes 203 puis 207 à 219 soit les chapitres 303 à 318.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/b/b7/One_piece_ultime_pack_affiche_23.webp/revision/latest/scale-to-width-down/1000?cb=20220811200307&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2021-06-25</premiered>
+  <aired>2021-06-25</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:26</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Yabai - 023 - Davy Back Fight - 1080p.MULTI.x264 [Livaï].mkv</original_filename>
+  <user_note/>
+</episodedetails>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:11:01 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Battle Royale</title>
+  <originaltitle/>
+  <showtitle>Dragon Ball Super Kaï</showtitle>
+  <season>4</season>
+  <episode>9</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Le tournoi a commencé. Très rapidement, Goku, Freezer, Vegeta, C-17 et C-18 décident d’opérer dans leur coin et abandonnent le travail d’équipe.&#13;
+De son côté, Goku se bat tout en observant ses autres adversaires et cherche à combattre Toppo ou Jiren. Tout à coup, un guerrier de l’univers 4 l’immobilise par surprise et cherche à sortir du ring avec lui. Cependant, Goku parvient à se dégager de justesse puis se retrouve encerclé par plusieurs guerriers.&#13;
+&#13;
+Ce film couvre les épisodes 97 à 110.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2018-10-13</premiered>
+  <aired>2018-10-13</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Kaimisama - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-27 18:34:12</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Kaimisama] Dragon Ball Super (Fan-Kai) 09 - Battle royale ! - 720p.VOSTFR.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

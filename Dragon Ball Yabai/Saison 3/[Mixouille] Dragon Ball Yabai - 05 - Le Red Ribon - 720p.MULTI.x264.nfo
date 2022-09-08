@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:12:02 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Le Red Ribon</title>
+  <originaltitle/>
+  <showtitle>Dragon Ball Yabai</showtitle>
+  <season>3</season>
+  <episode>5</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Le tournoi étant terminé, nos amis se séparent et repartent chacun de leur côté. Krilin reste avec Kamé Sennin, Yamcha avec Bulma, Oolong et Puerh, Son Goku quant à lui repart à la recherche des Dragon Balls. En chemin, il traverse un désert dans lequel il retrouve Nam en fort mauvaise posture. Ce dernier cherche à comprendre pourquoi la rivière qui traverse son désert est asséchée. Son Goku vient en aide à son ami et lève le mystère sur la rivière asséchée.&#13;
+&#13;
+Ce film couvre les épisodes 29 à 42.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2018-06-01</premiered>
+  <aired>2018-06-01</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-27 17:18:00</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Mixouille] Dragon Ball Yabai - 05 - Le Red Ribon - 720p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 14:53:30 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>La flûte diabolique</title>
+  <originaltitle/>
+  <showtitle>Yu Yu Hakusho Kaï</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Yûsuke revient de son terrible entraînement auprès de Genkai et retrouve Kuwabara en ville. Ils se font soudainement agresser par un groupe d'hommes hypnotisés mais Botan parvient à vaincre le démon qui les contrôlait.&#13;
+&#13;
+Ce film couvre les épisodes 14 à 21 soit les chapitres 33 à 44.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2019-02-01</premiered>
+  <aired>2019-02-01</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Titou - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-22 22:08:00</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>Yu Yu Hakusho - Film 4 - Les frères Toguro.mkv</original_filename>
+  <user_note/>
+</episodedetails>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:44:07 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>La lance contre le bouclier</title>
+  <originaltitle/>
+  <showtitle>Kuroko No Basket Henshû</showtitle>
+  <season>2</season>
+  <episode>11</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Après le match contre To'o, les joueurs de Seirin se reposent chez Kagami. Ils rencontrent Alex Garcia, la coach américaine de basketball du garçon.&#13;&#13;
+&#13;&#13;
+Ce film couvre les épisodes 45 à 50 soit les chapitres 140 à 169.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2019-12-17</premiered>
+  <aired>2019-12-17</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Livai - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-27 15:30:05</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Livaï]Kuroko no Basket Henshū 11 - La lance contre le bouclier.mkv</original_filename>
+  <user_note/>
+</episodedetails>

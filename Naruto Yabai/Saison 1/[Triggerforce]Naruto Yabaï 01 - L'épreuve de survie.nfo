@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:56 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>L'épreuve de survie</title>
+  <originaltitle/>
+  <showtitle>Naruto Yabai</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Naruto est un jeune orphelin du village de Konoha. Possédant en lui le démon renard Kyûbi qui a ravagé le village au moment de sa naissance et a été scellé en lui, il est rejeté par les autres villageois, et fait de nombreuses frasques pour tenter de se faire remarquer. Il étudie les arts ninjas à l’académie du village, mais est le seul élève qui ne parvient pas à obtenir le grade de genin. Un de ses professeurs, Mizuki décide alors de profiter de son ressentiment pour lui faire voler le rouleau des techniques interdites conservé dans le bureau du chef du village, le Hokage. Parti seul dans la forêt, il parvient à apprendre la première technique du rouleau, le « Multi clonage ». Son autre professeur, Iruka le retrouve, mais ils sont attaqués par Mizuki. Mizuki dévoile à Naruto qu’il est possédé par le démon renard et que c'est pour ça qu’il est rejeté, mais lorsque Naruto comprend qu’Iruka ne le rejette pas et reconnaît sa valeur, il défait Mizuki avec sa nouvelle technique et reçoit son bandeau frontal, signe qu’il est un ninja à part entière.&#13;
+&#13;
+Ce film couvre les épisodes 1 à 5 soit les chapitres 1 à 8.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2021-06-21</premiered>
+  <aired>2021-06-21</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Triggerforce - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-19 16:52:20</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Triggerforce]Naruto Yabaï 01 - L'épreuve de survie.mkv</original_filename>
+  <user_note/>
+</episodedetails>

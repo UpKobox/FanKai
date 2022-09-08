@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-27 14:30:18 - tinyMediaManager 4.3.3-->
+<tvshow>
+  <title>Black Lagoon Henshû</title>
+  <originaltitle/>
+  <showtitle>Black Lagoon Henshû</showtitle>
+  <sorttitle/>
+  <year>2006</year>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <outline/>
+  <plot>Okajima Rokuro est un jeune diplômé qui mène une vie morose depuis qu'il a intégré une grande firme japonaise. Sa triste existence va brusquement être bouleversée lorsqu'il va être pris en otage par une bande de pirates des mers venus lui dérober un disque au contenu douteux. D'abord malmené par Levi, la tête brulée du groupe, puis trahi par ses employeurs, Rokuro va se montrer plus casse-cou qu'il en a l'air et prendre goût à cette vie de mercenaires rythmée par les montées d'adrénaline. C'est ainsi que sous le surnom Rock, notre héros va rejoindre Dutch, Levi et Benny trois pirates des temps modernes.</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <thumb aspect="poster">https://static.wikia.nocookie.net/fan-kai/images/b/b7/Black_lagoon_henshu_affiche.webp/revision/latest?cb=20220114230209&amp;path-prefix=fr</thumb>
+  <thumb aspect="banner">https://artworks.thetvdb.com/banners/graphical/79604-g2.jpg</thumb>
+  <namedseason number="1">Black Lagoon</namedseason>
+  <namedseason number="2">Black Lagoon : Second Barrage</namedseason>
+  <namedseason number="3">Black Lagoon : Roberta's Blood Trail</namedseason>
+  <thumb aspect="poster" season="1" type="season">https://artworks.thetvdb.com/banners/seasons/79604-1-16.jpg</thumb>
+  <thumb aspect="poster" season="2" type="season">https://artworks.thetvdb.com/banners/seasons/79604-1-3.jpg</thumb>
+  <thumb aspect="poster" season="3" type="season">https://artworks.thetvdb.com/banners/seasons/79604-1-4.jpg</thumb>
+  <fanart>
+    <thumb>https://artworks.thetvdb.com/banners/fanart/original/79604-10.jpg</thumb>
+  </fanart>
+  <mpaa/>
+  <certification/>
+  <id/>
+  <imdbid/>
+  <tmdbid/>
+  <premiered/>
+  <status>Unknown</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Animation</genre>
+  <genre>Anime</genre>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Thriller</genre>
+  <studio>Khyinn - Fan-Kai</studio>
+  <country/>
+  <actor>
+    <name>Megumi Toyoguchi</name>
+    <role>Revy</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/280703/61c5ce33ba51e.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Daisuke Namikawa</name>
+    <role>Rokuro Okajima</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/292928/61c5cf2112b7b.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tsutomu Isobe</name>
+    <role>Dutch</role>
+    <thumb>https://artworks.thetvdb.com/banners/v4/actor/574514/photo/61f6305e2d5f7.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroaki Hirata</name>
+    <role>Benny</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/400074/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Michie Tomizawa</name>
+    <role>Roberta Cisneros</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/343382/primary.jpg</thumb>
+  </actor>
+  <trailer/>
+  <dateadded>2006-09-04 14:40:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+</tvshow>

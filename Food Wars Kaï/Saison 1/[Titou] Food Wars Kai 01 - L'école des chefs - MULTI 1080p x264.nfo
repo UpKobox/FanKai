@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:40 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>L'école des chefs</title>
+  <originaltitle/>
+  <showtitle>Food Wars Kaï</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Sôma travaille dans le restaurant que tient son père, Jôichirô, et l'affronte régulièrement dans des concours de cuisine, espérant un jour enfin le dépasser et rêvant de prendre sa suite à la tête de l'établissement. L'arrivée d'une promotrice immobilière peu scrupuleuse ainsi qu'une surprenante décision de son père va chambouler la vie du jeune homme.&#13;
+&#13;
+Ce film couvre les épisodes 1 à 7 soit les chapitres 1 à 13.&#13;
+Il a été réalisé par Titou, la suite est faite par Roro.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/9/9d/Food_wars_kai_affiche_01.webp/revision/latest?cb=20220810230619&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2021-12-24</premiered>
+  <aired>2021-12-24</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Roro - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 18:49:39</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Titou] Food Wars Kai 01 - L'école des chefs - MULTI 1080p x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

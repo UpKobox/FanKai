@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:54 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Rencontre avec l'Inconnu</title>
+  <originaltitle/>
+  <showtitle>My Hero Academia Henshû</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>La formation des futurs super-héros continue au lycée Yuei, l'académie des héros. Les plus jeunes élèves s'habituent petit à petit à la vie sur le campus, bien qu'il soit assailli ces derniers temps par une foule de journalistes venus interviewer le numéro 1 des super-héros, le grand All Might. Mais alors que tout le monde déjeune tranquillement au réfectoire, une alarme retentit dans tout le lycée. L'alerte est lancée ! Quelqu'un s'est introduit dans l'établissement...&#13;
+&#13;
+Ce film couvre les épisodes 9 à 14.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/5/5b/My_hero_academia_henshu_affiche_03.webp/revision/latest?cb=20220810234522&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2019-05-22</premiered>
+  <aired>2019-05-22</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Johker - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-20 16:55:07</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Johker] My Hero Academia Henshū 3 - Rencontre avec l'Inconnu - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

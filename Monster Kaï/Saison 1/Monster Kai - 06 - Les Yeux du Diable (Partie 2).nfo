@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:54 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Les Yeux du Diable (Partie 2)</title>
+  <originaltitle/>
+  <showtitle>Monster Kaï</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Le docteur Leichwein a été sauvé par Kenzo Tenma. Ce premier va lui trouver une planque dans Munich et tout deux vont enquêter sur Johann. De son côté, le docteur Gillen, questionné par l'inspecteur Runge, tente de le persuader de l'innocence du docteur Tenma et de la culpabilité de Johann.&#13;
+&#13;
+Ce film couvre les épisodes 31 à 39 soit les tomes 7 à 9.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2021-04-13</premiered>
+  <aired>2021-04-13</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Avalokitesvara - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 00:27:52</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>Monster Kai - 06 - Les Yeux du Diable (Partie 2).mkv</original_filename>
+  <user_note/>
+</episodedetails>

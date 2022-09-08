@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 15:57:02 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Roberta, furie sanguinaire</title>
+  <originaltitle/>
+  <showtitle>Black Lagoon Henshû</showtitle>
+  <season>3</season>
+  <episode>8</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Le bienfaiteur de Roberta, le patriarche du clan Lovelace a été tué durant un rassemblement politique. La piste de l'assassin remonte à Roanapur, Roberta est donc de retour pour effectuer une mission de vengeance !&#13;
+&#13;
+Ce film couvre les OAV 1 à 5.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/f/fa/Black_lagoon_henshu_affiche_08.webp/revision/latest?cb=20220810221212&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2020-02-21</premiered>
+  <aired>2020-02-21</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Khyinn - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-20 14:40:42</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Khyinn] Black Lagoon Henshū 08 - Roberta, furie sanguinaire - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

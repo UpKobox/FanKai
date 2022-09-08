@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 14:53:27 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Aincrad</title>
+  <originaltitle/>
+  <showtitle>Sword Art Online Kaï</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Aujourd'hui est un grand jour : celui du lancement officiel de Sword Art Online, l'un des jeux vidéo les plus attendus de tous les temps.&#13;
+&#13;
+Ce film couvre les épisodes 1 à 14 soit les volumes 1 à 2.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/b/b2/Sword_art_online_kai_affiche_01.webp/revision/latest/scale-to-width-down/1000?cb=20220811004503&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2021-11-28</premiered>
+  <aired>2021-11-28</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Roro - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-22 22:47:06</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Roro] Sword Art Online Kai 01 - Aincrad - MULTI 1080p x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

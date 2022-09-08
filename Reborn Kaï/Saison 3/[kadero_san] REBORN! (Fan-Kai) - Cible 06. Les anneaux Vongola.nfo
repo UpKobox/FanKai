@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:53:16 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Les anneaux Vongola</title>
+  <originaltitle/>
+  <showtitle>Reborn! Kaï</showtitle>
+  <season>3</season>
+  <episode>6</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Deux événements fondamentaux vont marquer la journée qui commence pour Tsuna. Il apprend tout d'abord, avec stupéfaction, le retour prochain de son père, qu'il croyait mystérieusement disparu. Il tombe ensuite nez à nez avec un jeune homme qui le cherchait et qui lui remet une boîte contenant des anneaux. Le même jeune homme est poursuivi par un homme redoutable, qui se défait en un instant de Yamamoto et Gokudera...&#13;
+&#13;
+Ce film couvre les épisodes 34 à 39.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/5/55/Reborn_kai_affiche_06.png/revision/latest/scale-to-width-down/1000?cb=20220830145127&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2022-02-26</premiered>
+  <aired>2022-02-26</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Kadero_san - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 18:12:49</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[kadero_san] REBORN! (Fan-Kai) - Cible 06. Les anneaux Vongola.mkv</original_filename>
+  <user_note/>
+</episodedetails>

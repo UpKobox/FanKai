@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:02:39 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Le grand atavisme</title>
+  <originaltitle/>
+  <showtitle>Yu Yu Hakusho Kaï</showtitle>
+  <season>3</season>
+  <episode>11</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Yusuke et son entourage sont au domaine de Sensui. Leur combat pour sauver la race humaine vient seulement de commencer.&#13;
+&#13;
+Ce film couvre les épisodes 84 à 94 soit les chapitres 137 à 153.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2019-08-14</premiered>
+  <aired>2019-08-14</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Titou - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-22 22:08:14</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>Yu Yu Hakusho - Film 11 - Le grand atavisme.mkv</original_filename>
+  <user_note/>
+</episodedetails>

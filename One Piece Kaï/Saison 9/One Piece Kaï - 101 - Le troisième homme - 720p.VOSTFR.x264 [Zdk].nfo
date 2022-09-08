@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:21:02 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Le troisième homme</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>9</season>
+  <episode>101</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Pekoms dit à Luffy que son équipage n'aura pas à servir Big Mom, mais Sanji n'y fera plus parti. Cependant, il décide d'aller chez l'empereur pour demander à Sanji s'il veut se marier, forçant Pekoms à l'emmener malgré ses plaidoyers. En sortant de la maison, il rencontre Chavipère et il retrouve Law et son équipage. Ce dernier lui parle en privé et Luffy lui révèle son intention d'aller chez Big Mom, mais Law lui rappelle que Kaido connaît l'emplacement de Zo et il est très susceptible de les attaquer à l'avenir. Cela émeut les minks et ils décident d'organiser un banquet. Pendant ce temps, Robin, Franky et Brook gardent l'entrée de Zo afin d'empêcher Kinémon et Kanjuro d'entrer dans le pays, car ils croient que les minks s'en prendront aux alliés de Raizo. Cependant, ils s'endorment, et le lendemain matin, les samouraïs et Variété arrivent au sommet de l'éléphant. Le mink singe découvre alors leurs identités et il s'enfuit en larmes pour révéler l'arrivée des samouraïs.&#13;
+&#13;
+Ce film couvre les épisodes 766 à 770 soit les chapitres 815 à 818.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:25</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Kaï - 101 - Le troisième homme - 720p.VOSTFR.x264 [Zdk].mkv</original_filename>
+  <user_note/>
+</episodedetails>

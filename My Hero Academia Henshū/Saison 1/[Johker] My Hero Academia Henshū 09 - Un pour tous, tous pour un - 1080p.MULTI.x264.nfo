@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:54 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Un pour tous, tous pour un</title>
+  <originaltitle/>
+  <showtitle>My Hero Academia Henshû</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Après l'attaque musclée de l'Escadron Genesis au camp d'entraînement de Yuei, plusieurs élèves de seconde ont été blessés, plus ou moins gravement. Mais surtout, un d'eux a été enlevé par les super-vilains : Katsuki Bakugo. Tout le monde se doute de la raison de ce kidnapping, mais espère que Katsuki ne passera pas dans le camp ennemi. Quant à ses camarades, ils n'ont plus qu'une idée en tête, le sortir de là...&#13;
+&#13;
+Ce film couvre les épisodes 46 à 51.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/6/6b/My_hero_academia_henshu_affiche_09.webp/revision/latest?cb=20220810234522&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2019-09-18</premiered>
+  <aired>2019-09-18</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Johker - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-20 16:55:07</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Johker] My Hero Academia Henshū 9 - Un pour tous, tous pour un - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:39:30 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Défaite totale</title>
+  <originaltitle/>
+  <showtitle>Hokuto No Ken Kaï</showtitle>
+  <season>6</season>
+  <episode>20</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Ken est confontré à l'horreur et à la stupéfaction en progressant à travers le pays de Shura. Après avoir vaincu Han, troisième Général Suprême du pays, Ken apprend que Raoh, Toki et lui-même sont originaires de ce pays. Hyoh et Kaioh, les deux autres Généraux, s'apprêtent à entrer en scène, mais Ken est-il suffisamment fort pour les vaincre, alors que la légende prétend que seul Raoh en aurait la force ?&#13;
+&#13;
+Ce film couvre les épisodes 134 à 138 soit les chapitres 180 à 188.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2019-08-25</premiered>
+  <aired>2019-08-25</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Illuzionn - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 21:04:44</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>DVD</source>
+  <original_filename>Hokuto No Ken Fan-Kai - 20 - Défaite totale.1080p.DvdRip.x264.Illuzionn.mkv</original_filename>
+  <user_note/>
+</episodedetails>

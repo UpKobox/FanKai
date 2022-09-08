@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-27 14:43:01 - tinyMediaManager 4.3.3-->
+<tvshow>
+  <title>Jojo's Bizarre Adventure Henshû</title>
+  <originaltitle/>
+  <showtitle>Jojo's Bizarre Adventure Henshû</showtitle>
+  <sorttitle/>
+  <year>2012</year>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <outline/>
+  <plot>Cette longue série nous raconte le destin de la lignée Joestar. Tout commence avec Jonathan Joestar, fils d'un aristocrate anglais, qui vit une existence bien ordinaire. Tout change lorsque Lord Joestar prend sous son aile Dio Brando, jeune homme égocentrique et vaniteux, dont le père vient de décéder. Une rivalité entre les deux garçon s'installe alors, et Dio décide de tout faire pour mettre Jonathan plus bas que terre et s'emparer de l'héritage de Lord Joestar. La lutte entre les deux jeunes hommes atteint son paroxysme lorsque Dio enfile un mystérieux masque de pierre Aztèque le changeant en une créature sanguinaire et invincible. Pour Jonathan, il ne fait aucun doute qu'il doit se débarrasser de ce redoutable adversaire, et la bataille qui commence s'étendra jusqu'aux générations futures de la famille Joestar...</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <thumb aspect="poster">https://static.wikia.nocookie.net/fan-kai/images/3/35/Jojo_henshu_affiche.webp/revision/latest?cb=20220114234450&amp;path-prefix=fr</thumb>
+  <thumb aspect="banner">https://artworks.thetvdb.com/banners/graphical/262954-g.jpg</thumb>
+  <namedseason number="1">Phantom Blood</namedseason>
+  <namedseason number="2">Battle Tendency</namedseason>
+  <namedseason number="3">Stardust Crusaders</namedseason>
+  <namedseason number="4">Diamond is Unbreakable</namedseason>
+  <namedseason number="5">Golden Wind</namedseason>
+  <thumb aspect="poster" season="1" type="season">https://artworks.thetvdb.com/banners/v4/season/502370/posters/606ef4edadd4c.jpg</thumb>
+  <thumb aspect="poster" season="2" type="season">https://artworks.thetvdb.com/banners/v4/season/502370/posters/606ef51678173.jpg</thumb>
+  <thumb aspect="poster" season="3" type="season">https://artworks.thetvdb.com/banners/v4/season/565190/posters/606ef6b0508ac.jpg</thumb>
+  <thumb aspect="poster" season="4" type="season">https://artworks.thetvdb.com/banners/v4/season/649868/posters/606ef8ce6cd1d.jpg</thumb>
+  <thumb aspect="poster" season="5" type="season">https://artworks.thetvdb.com/banners/v4/season/769246/posters/606ef9fd0c7ec.jpg</thumb>
+  <fanart>
+    <thumb>https://artworks.thetvdb.com/banners/fanart/original/5d3e18915b33a.jpg</thumb>
+  </fanart>
+  <mpaa/>
+  <certification/>
+  <id/>
+  <imdbid/>
+  <tmdbid/>
+  <premiered/>
+  <status>Unknown</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Animation</genre>
+  <genre>Anime</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <genre>Fantasy</genre>
+  <genre>Horror</genre>
+  <genre>Thriller</genre>
+  <studio>Livai - Fan-Kai</studio>
+  <country/>
+  <actor>
+    <name>Kazuyuki Okitsu</name>
+    <role>Jonathan Joestar</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/292929/61f7dd8e3f553.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Youji Ueda</name>
+    <role>Speedwagon</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/292929/61f7dd8e3f553.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takehito Koyasu</name>
+    <role>Dio Brando</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/277098/61a63f303ea4d.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tomokazu Sugita</name>
+    <role>Joseph Joestar</role>
+    <thumb>https://artworks.thetvdb.com/banners/v4/actor/277107/photo/62dd9fd6183b0.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takuya Satou</name>
+    <role>Caesar Zeppeli</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/7878664/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kazuhiko Inoue</name>
+    <role>Kars</role>
+    <thumb>https://artworks.thetvdb.com/banners/v4/actor/343714/photo/62f9d17eef93b.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Daisuke Ono</name>
+    <role>Jotaro Kujo</role>
+    <thumb>https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rCo5Q3xMnOFMavs6YJAbP2ZRsqt.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Daisuke Hirakawa</name>
+    <role>Noriaki Kakyoin</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/301120/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuuki Ono</name>
+    <role>Josuke Higashikata</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/7868622/61be440cb48df.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuki Kaji</name>
+    <role>Koichi Hirose</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/293452/61e6e6287c8a8.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Toshiyuki Morikawa</name>
+    <role>Kira Yoshikage</role>
+    <thumb>https://artworks.thetvdb.com/banners/v4/actor/280728/photo/62e236fe09406.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kensho Ono</name>
+    <role>Giorno Giovanna</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/7875623/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuuichi Nakamura</name>
+    <role>Bruno Bucciarati</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/7864375/61a4e29c56d7d.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Katsuyuki Konishi</name>
+    <role>Boss</role>
+    <thumb>https://artworks.thetvdb.com/banners/v4/actor/271010/photo/62efd71a657b5.jpg</thumb>
+  </actor>
+  <trailer/>
+  <dateadded>2012-10-06 21:42:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+</tvshow>

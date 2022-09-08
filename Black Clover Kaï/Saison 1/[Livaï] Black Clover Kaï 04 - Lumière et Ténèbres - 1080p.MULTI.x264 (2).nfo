@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:18 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Lumière et Ténèbres</title>
+  <originaltitle/>
+  <showtitle>Black Clover Kaï</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Une mission particulièrement importante, voire tout à fait capitale, repose sur les épaules de Finral… Comment va-t-il donc s'y prendre pour faire en sorte que la soirée célibataire qu'il souhaite organiser soit un succès ?&#13;
+&#13;
+Ce film couvre les épisodes 28 à 39 soit les chapitres 38 à 56.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/1/12/Black_clover_kai_affiche_04.webp/revision/latest?cb=20220810220718&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2020-09-21</premiered>
+  <aired>2020-09-21</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Livai - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-19 03:15:33</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>30056</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Livaï] Black Clover Kaï 04 - Lumière et Ténèbres - 1080p.MULTI.x264 (2).mkv</original_filename>
+  <user_note/>
+</episodedetails>

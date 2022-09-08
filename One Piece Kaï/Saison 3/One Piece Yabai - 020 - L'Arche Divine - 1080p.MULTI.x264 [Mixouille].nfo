@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:40:38 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>L'Arche Divine</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>3</season>
+  <episode>20</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Chopper s'aventure dans les ruines où il rencontre le prélat Ohm et Holy son chien géant. Ohm lui annonce que dans son Ordalie du Fer, ses chances de survie sont de 0%. Luffy, de son côté, cherche toujours la sortie de la grotte.&#13;
+&#13;
+Ce film couvre les épisodes 175 à 184 soit les chapitres 266 à 282.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/d/db/One_piece_ultime_pack_affiche_20.webp/revision/latest/scale-to-width-down/1000?cb=20220811200307&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2019-08-01</premiered>
+  <aired>2019-08-01</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:28</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Yabai - 020 - L'Arche Divine - 1080p.MULTI.x264 [Mixouille].mkv</original_filename>
+  <user_note/>
+</episodedetails>

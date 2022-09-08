@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:02:32 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>La Loi du Plus Fort</title>
+  <originaltitle/>
+  <showtitle>Yu Yu Hakusho Kaï</showtitle>
+  <season>4</season>
+  <episode>13</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Ça va bientôt faire un an depuis que Yusuke, Hiei et Kurama sont arrivés dans le monde des démons. Les trois anciens compagnons ne sont pas d'accord entre eux et se disputent, ils semblent se diriger tout droit vers un combat entre eux inévitable.&#13;
+&#13;
+Ce film couvre les épisodes 103 à 112.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2020-02-15</premiered>
+  <aired>2020-02-15</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Titou - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-22 22:08:09</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>Yu Yu Hakusho - Film 13 - La loi du plus fort.mkv</original_filename>
+  <user_note/>
+</episodedetails>

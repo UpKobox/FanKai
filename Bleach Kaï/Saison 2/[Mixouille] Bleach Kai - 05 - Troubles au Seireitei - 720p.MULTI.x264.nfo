@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 15:58:00 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Troubles au Seireitei</title>
+  <originaltitle/>
+  <showtitle>Bleach Kaï</showtitle>
+  <season>2</season>
+  <episode>5</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Ichigo et ses compagnons sont toujours recherchés par les autres Shinigamis. Uryu et Orihime arrivent à échapper au capitaine de la 11ème Division, Kenpachi Zaraki et à son vice-capitaine Yachiru Kusajishi mais ils tombent nez à nez avec Jirobo, un Shinigami possédant une énergie spirituelle hors du commun. Ce dernier remarque immédiatement qu’Uryu est un Quincy. De son côté, la vanité gagne le cœur de Yumichika alors que Ganju lui tient vaillamment tête. Alors qu’Ichigo recherche Ganju dans le dédale du Seireitei, il est pris en chasse par une nouvelle unité de Shinigamis. La nouvelle de la défaite d’Ikkaku est arrivée aux oreilles du capitaine de la 12ème Division, Mayuri Kurotsuchi, qui semble très intéressé par la puissance de l’intrus. Il décide de partir à la rencontre du capitaine Zaraki…&#13;
+&#13;
+Ce film couvre les épisodes 28 à 35.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/d/d1/Bleach_kai_affiche_05.webp/revision/latest/scale-to-width-down/1000?cb=20220810222030&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-20 15:31:49</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Mixouille] Bleach Kai - 05 - Troubles au Seireitei - 720p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

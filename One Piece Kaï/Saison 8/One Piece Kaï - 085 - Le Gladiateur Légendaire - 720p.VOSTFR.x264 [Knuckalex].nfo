@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:29:08 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Le Gladiateur Légendaire</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>8</season>
+  <episode>85</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Toujours aux prises avec l'un des bras droits de Doflamingo, Zoro se bat en duel contre Pica afin que Luffy et Violette puissent avoir le temps de s'échapper et d'atteindre l'étage supérieur du Palais Royal où se trouve déjà le Soldat Fureur Éclair. Ce dernier se bat farouchement contre les gardes du palais leur infligeant de lourdes pertes grâce à l'aide apportée par Rambo et Kabu, les deux Nains qui l'accompagnent. Mais Gladius, l'un des subordonnés de Doflamingo, lui barre la route. Rambo et Kabu s'interposent pour laisser à leur chef le temps de redevenir humain et combattre Doflamingo. Mais la lutte est inégale pour les deux Nains qui sont rapidement capturés par Gladius.&#13;
+&#13;
+Ce film couvre les épisodes 673 à 676 soit les chapitres 740 à 742.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:24</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Kaï - 085 - Le Gladiateur Légendaire - 720p.VOSTFR.x264 [Knuckalex].mkv</original_filename>
+  <user_note/>
+</episodedetails>

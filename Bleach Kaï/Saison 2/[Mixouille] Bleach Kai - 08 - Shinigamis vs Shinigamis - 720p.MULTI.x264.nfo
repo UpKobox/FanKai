@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 15:58:09 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Shinigamis vs Shinigamis</title>
+  <originaltitle/>
+  <showtitle>Bleach Kaï</showtitle>
+  <season>2</season>
+  <episode>8</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Dans son rêve, Rukia se souvient de son passé, du vice capitaine Kaien et du capitaine Ukitake. Elle admirait beaucoup le vice capitaine et a énormément souffert de la décision qu’elle a dû prendre lorsque ce dernier est tombé sous l’emprise d’un Hollow...&#13;
+&#13;
+Ce film couvre les épisodes 49 à 56.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/e/e3/Bleach_kai_affiche_08.webp/revision/latest/scale-to-width-down/1000?cb=20220810222031&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-20 15:31:45</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Mixouille] Bleach Kai - 08 - Shinigamis vs Shinigamis - 720p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

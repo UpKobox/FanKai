@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:23 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Paroxysme</title>
+  <originaltitle/>
+  <showtitle>Busô Renkin Kyodai</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Tokiko raconte qu'une mystérieuse personne lui a donné le kakugane de Kazuki et qu'elle saurait comment inverser l'effet du kakugane noir.&#13;
+&#13;
+Ce film couvre les épisodes 18 à 21 soit les chapitres 58 à 74.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/9/97/Buso_renkin_kyodai_affiche_05.webp/revision/latest/scale-to-width-down/1000?cb=20220810223121&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2021-07-15</premiered>
+  <aired>2021-07-15</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Triggerforce - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-27 22:26:20</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Triggerforce] Busô Renkin Kyodai 05 - Paroxysme - 1080p.VOSTFR.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:46:05 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>L'encerclement de la justice</title>
+  <originaltitle/>
+  <showtitle>One Punch Man Henshū</showtitle>
+  <season>2</season>
+  <episode>6</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Un monstre s’infiltre dans le quartier général de l’Association des héros pour délivrer un message...&#13;&#13;
+&#13;&#13;
+Ce film couvre les épisodes 10 à 12 de la saison 2.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/a/a2/One_punch_man_henshu_affiche_06.webp/revision/latest?cb=20220811002259&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2022-08-02</premiered>
+  <aired>2022-08-02</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-18 20:10:22</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>3922</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>fra</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>jpn</language>
+      </subtitle>
+      <subtitle>
+        <language>jpn</language>
+      </subtitle>
+      <subtitle>
+        <language>fra</language>
+      </subtitle>
+      <subtitle>
+        <language>fra</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Livaï] One Punch Man Henshū 06 - L'encerclement de la Justice - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

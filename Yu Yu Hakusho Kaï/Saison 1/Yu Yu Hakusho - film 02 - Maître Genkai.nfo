@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:02:10 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Maître Genkai</title>
+  <originaltitle/>
+  <showtitle>Yu Yu Hakusho Kaï</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Plus qu'une journée pour Yûsuke et il pourra ressusciter. Cependant, lorsque son corps sera nimbé d'une aura dorée, quelqu'un qui tient à lui devra lui donner de l'énergie vitale en l'embrassant. Yûsuke met alors tous ses espoirs en Keiko. La jeune fille réussit à ramener Yûsuke à la vie in extremis. Le lendemain, Yûsuke redécouvre le plaisir d'être vivant. Il découvre que des voyous d'un lycée voisin au sien ont envahi le bar de son lycée.
+
+Ce film couvre les épisodes 5 à 13 soit les chapitres 18 à 32.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2019-01-15</premiered>
+  <aired>2019-01-15</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Titou - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-30 14:52:19</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>Yu Yu Hakusho - film 02 - Maître Genkai.mkv</original_filename>
+  <user_note/>
+</episodedetails>

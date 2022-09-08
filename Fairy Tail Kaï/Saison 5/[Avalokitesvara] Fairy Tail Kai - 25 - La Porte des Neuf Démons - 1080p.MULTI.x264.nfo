@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:35:11 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>La Porte des Neufs Démons</title>
+  <originaltitle/>
+  <showtitle>Fairy Tail Kaï</showtitle>
+  <season>5</season>
+  <episode>25</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>En plein réunion des neuf sages, le Conseil de la magie est détruit dans une gigantesque explosion. Rescapé, Dranbalt rend visite à Cobra en prison pour obtenir des informations sur Tartaros. De son côté, Natsu espère aussi en savoir plus sur la mystérieuse guilde clandestine et sur son démon E.N.D. qui, pense-t-il, pourrait le mener jusqu’à Ignir.&#13;
+&#13;
+Ce film couvre les épisodes 234 à 240 soit les chapitres 356 à 370.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2019-05-05</premiered>
+  <aired>2019-05-05</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Avalokitesvara - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 14:51:26</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Avalokitesvara] Fairy Tail Kai - 25 - La Porte des Neuf Démons - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

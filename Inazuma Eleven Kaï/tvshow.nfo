@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-28 00:12:47 - tinyMediaManager 4.3.3-->
+<tvshow>
+  <title>Inazuma Eleven Kaï</title>
+  <originaltitle/>
+  <showtitle>Inazuma Eleven Kaï</showtitle>
+  <sorttitle/>
+  <year>2008</year>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <outline/>
+  <plot>Inazuma eleven est à la base un RPG de football lorsqu'il se transpose par la suite en anime. Se basant sur le jeu, l'anime relate les aventures de Endou Mamoru, un gardien de but talentueux, inscrit dans le club de foot de son collège Raimon ainsi que 5 autres membres. Cependant, leur minorité actuelle et la nonchalance de ses coéquipiers les empêche d'être pris au sérieux par les autres clubs. En conséquence, le fille du directeur leur lance un ultimatum : ils doivent gagner un match contre l'académie de Teikoku, une équipe puissante. Endou, plus que jamais motivé se lance à la recherche d'autres membres dans l'espoir de garder son club et ensuite de participer au fameux tournoi du "Football Frontier".</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <thumb aspect="poster">https://static.wikia.nocookie.net/fan-kai/images/2/2e/Inazuma_kai_affiche.webp/revision/latest?cb=20220114234450&amp;path-prefix=fr</thumb>
+  <thumb aspect="banner">https://artworks.thetvdb.com/banners/graphical/146401-g.jpg</thumb>
+  <thumb aspect="poster" season="1" type="season">https://images.fanart.tv/fanart/inazuma-eleven-62361ad87ead4.jpg</thumb>
+  <thumb aspect="poster" season="2" type="season">http://images4.fanpop.com/image/photos/19200000/Inazuma-Eleven-thunder_heroezs-spot-19263643-508-720.jpg</thumb>
+  <fanart>
+    <thumb>https://artworks.thetvdb.com/banners/series/146401/backgrounds/5ecf36e2c8823.jpg</thumb>
+  </fanart>
+  <mpaa/>
+  <certification/>
+  <id/>
+  <imdbid/>
+  <tmdbid/>
+  <premiered/>
+  <status>Unknown</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Animation</genre>
+  <genre>Anime</genre>
+  <genre>Sport</genre>
+  <studio>Livai - Fan-Kai</studio>
+  <country/>
+  <actor>
+    <name>Junko Takeuchi</name>
+    <role>Mamoru Endou</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/7903091/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hirofumi Nojima</name>
+    <role>Shuuya Gouenji</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/292470/5f1924b01c634.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroyuki Yoshino</name>
+    <role>Yuuto Kidou</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/280713/61b06dcc509c9.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mamoru Miyano</name>
+    <role>Shirou Fubuki</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/292480/61f9414b80f68.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuka NIshigaki</name>
+    <role>Ichirouta Kazemaru</role>
+    <thumb>https://artworks.thetvdb.com/banners/actors/294780.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Megumi Tano</name>
+    <role>Heigorou Kabeyama</role>
+    <thumb>https://www.themoviedb.org/t/p/w300_and_h450_bestv2/eadVJaXIxQdYHXgY4KtkynnLdBz.jpg</thumb>
+  </actor>
+  <trailer/>
+  <dateadded>2008-10-05 23:38:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+</tvshow>

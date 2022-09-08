@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:18:38 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Mon nom</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>9</season>
+  <episode>127</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Les Fourreaux Rouges tentent de pénétrer dans le château d’Onigashima par la porte dérobée, mais devant eux se dresse leur ancien camarade, Kanjuro. Pendant ce temps, alors que le fils de Kaido, Yamato, montre à Luffy les menottes qui entravent sa liberté depuis des années. Ces derniers entendent alors Kaido annoncer son plan en fanfare.&#13;
+&#13;
+Ce film couvre les épisodes 993 à 1000 soit les chapitres 985 à 990.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/3/3e/One_piece_kai_affiche_127.webp/revision/latest/scale-to-width-down/1000?cb=20220811193203&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2022-03-12</premiered>
+  <aired>2022-03-12</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:28</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Kaï - 127 - Mon nom - 1080p.VOSTFR.x264 [Livaï].mkv</original_filename>
+  <user_note/>
+</episodedetails>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:45:34 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Un choc de titans</title>
+  <originaltitle/>
+  <showtitle>Naruto Yabai</showtitle>
+  <season>2</season>
+  <episode>12</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Orochimaru utilise une technique interdite pour ressusciter le 1er et le 2nd hokage et les obliger à le servir. Entre ces deux là et le 3e hokage, un terrible combat commence.&#13;
+&#13;
+Ce film couvre les épisodes 71 à 83 soit les chapitres 125 à 139.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2022-07-14</premiered>
+  <aired>2022-07-14</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Triggerforce - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-19 16:52:20</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Triggerforce]Naruto Yabaï 12 - Un choc de titans.mkv</original_filename>
+  <user_note/>
+</episodedetails>

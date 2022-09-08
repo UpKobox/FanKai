@@ -1,0 +1,4 @@
+S1 = Introduction - Films 1 à 2
+S2 = Dieu de la destruction Champa - Films 3 à 4
+S3 = Trunks du Futur - Films 5 à 6
+S4 = Survie de l'Univers - Films 7 à 11

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:38:26 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Fantômes d'Ishval</title>
+  <originaltitle/>
+  <showtitle>Fullmetal Alchemist Kaï</showtitle>
+  <season>2</season>
+  <episode>6</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Edward, Ling et Envy sont revenus dans le monde réel après avoir traversé la porte... A présent face au Père des Homonculus, cette réunion pourrait bien tourner en la faveur de l'un d'entre eux, même si d'autres pourraient ne pas le comprendre...&#13;&#13;
+&#13;&#13;
+Ce film couvre les épisodes 28 à 31.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/4/4c/Fullmetal_alchemist_affiche_06.webp/revision/latest?cb=20220810230910&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2019-12-30</premiered>
+  <aired>2019-12-30</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Johker - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 13:36:39</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>Fullmetal Alchemist Kaï 06 - Fantômes d'Ishval 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

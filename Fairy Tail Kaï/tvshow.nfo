@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-28 16:18:46 - tinyMediaManager 4.3.3-->
+<tvshow>
+  <title>Fairy Tail Kaï</title>
+  <originaltitle/>
+  <showtitle>Fairy Tail Kaï</showtitle>
+  <sorttitle/>
+  <year>2009</year>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <outline/>
+  <plot>Dans le royaume de Fiore, il existe parmi le commun des mortels des hommes et des femmes qui manipulent la magie : ils sont appelés mages. Pour mieux les contrôler, des guildes ont été créées. Une d’entre elles fait particulièrement parler d’elle, que ce soit par les actes réalisés par ses membres, mais aussi et surtout pour les dégâts matériels provoqués par ces derniers à chaque mission qu’ils effectuent. Il s’agit de Fairy Tail.</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <thumb aspect="poster">https://static.wikia.nocookie.net/fan-kai/images/0/08/Fairytail_kai_affiche.webp/revision/latest?cb=20220114232916&amp;path-prefix=fr</thumb>
+  <thumb aspect="poster" season="1" type="season">https://artworks.thetvdb.com/banners/seasons/114801-1-2.jpg</thumb>
+  <thumb aspect="poster" season="2" type="season">https://artworks.thetvdb.com/banners/seasons/114801-2.jpg</thumb>
+  <thumb aspect="poster" season="3" type="season">https://artworks.thetvdb.com/banners/seasons/114801-3.jpg</thumb>
+  <thumb aspect="poster" season="4" type="season">https://artworks.thetvdb.com/banners/seasons/114801-4.jpg</thumb>
+  <thumb aspect="poster" season="5" type="season">https://artworks.thetvdb.com/banners/seasons/114801-5-2.jpg</thumb>
+  <fanart>
+    <thumb>https://artworks.thetvdb.com/banners/fanart/original/114801-4.jpg</thumb>
+  </fanart>
+  <mpaa/>
+  <certification/>
+  <id/>
+  <imdbid/>
+  <tmdbid/>
+  <premiered/>
+  <status>Unknown</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Animation</genre>
+  <genre>Anime</genre>
+  <genre>Comedy</genre>
+  <genre>Fantasy</genre>
+  <studio>Avalokitesvara - Fan-Kai</studio>
+  <country/>
+  <actor>
+    <name>Tetsuya Kakihara</name>
+    <role>Natsu Dragnir</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/292924/61a7d09f2678e.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Aya Hirano</name>
+    <role>Lucy Heartfilia</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/292478/61b3506b30e5e.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Rie Kugimiya</name>
+    <role>Happy</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/322759/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sayaka Oohara</name>
+    <role>Erza Scarlet</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/7874988/5f22e0e6b9216.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuuichi Nakamura</name>
+    <role>Gray Fullbuster</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/7864375/61a4e29c56d7d.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mai Nakahara</name>
+    <role>Juvia Lokser</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/352973/61efba583abb6.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Wataru Hatano</name>
+    <role>Gajeel Redfox</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/7865642/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Satomi Satou</name>
+    <role>Wendy Marvell</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/303236/60960f73b2fd5.jpg</thumb>
+  </actor>
+  <trailer/>
+  <dateadded>2009-10-12 14:51:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+</tvshow>

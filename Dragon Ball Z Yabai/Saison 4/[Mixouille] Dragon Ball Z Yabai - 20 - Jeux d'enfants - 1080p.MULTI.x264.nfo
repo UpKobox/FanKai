@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:12:24 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Jeux d'enfants</title>
+  <originaltitle/>
+  <showtitle>Dragon Ball Z Yabai</showtitle>
+  <season>4</season>
+  <episode>20</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>L'autre Boo est en faite toute la partie maléfique, cruelle et mauvaise de Boo. Ne pouvant laisser cette partie dans la nature, Boo décide de l’affronter. Mr Satan lui ne comprend pas bien ce qu’il se passe. Hélas, le « gentil » Boo n’est pas de taille face à son double et celui-ci l’avale. Cette absorption a pour effet de créer une nouvelle transformation de Boo, plus puissant que jamais mais surtout plus avide de pouvoir et plus cruel que les précedents.&#13;
+&#13;
+Ce film couvre les épisodes 142 à 148.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2018-11-25</premiered>
+  <aired>2018-11-25</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-27 16:13:45</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Mixouille] Dragon Ball Z Yabai - 20 - Jeux d'enfants - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

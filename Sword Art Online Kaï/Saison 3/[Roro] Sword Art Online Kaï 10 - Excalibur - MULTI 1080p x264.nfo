@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:57:06 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Excalibur</title>
+  <originaltitle/>
+  <showtitle>Sword Art Online Kaï</showtitle>
+  <season>3</season>
+  <episode>10</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Kirito et ses amis affrontent un géant au cours de leur quête d'Excalibur et apprennent que l'échec de leur mission déclenchera l'apocalypse au sein du jeu.&#13;
+&#13;
+Ce film couvre les épisodes 40 à 42 soit le chapitre 2 du volume 8.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/f/f6/Sword_art_online_kai_affiche_10.webp/revision/latest/scale-to-width-down/1000?cb=20220811004505&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2022-02-17</premiered>
+  <aired>2022-02-17</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Roro - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-22 22:47:05</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Roro] Sword Art Online Kaï 10 - Excalibur - MULTI 1080p x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-27 14:25:09 - tinyMediaManager 4.3.3-->
+<tvshow>
+  <title>Black Clover Kaï</title>
+  <originaltitle/>
+  <showtitle>Black Clover Kaï</showtitle>
+  <sorttitle/>
+  <year>2017</year>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <outline/>
+  <plot>Asta est un jeune garçon turbulent qui a grandi dans une église au coté de Yuno, son meilleur ami, suite à leur abandon. Ils se font la promesse de devenir le prochain Roi Sorcier. Mais alors que Yuno semble être un prodige de la magie, Asta ne semble malheureusement pas avoir les capacités à en créer. De ce fait, Asta essaye de faire tout ce qu'il peut pour pouvoir participer à la prochaine cérémonie de remise de grimoire magique...</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <thumb aspect="poster">https://static.wikia.nocookie.net/fan-kai/images/c/c6/Black-clover_kai_affiche.webp/revision/latest?cb=20220114225900&amp;path-prefix=fr</thumb>
+  <thumb aspect="banner">https://artworks.thetvdb.com/banners/graphical/331753-g.jpg</thumb>
+  <thumb aspect="poster" season="1" type="season">https://artworks.thetvdb.com/banners/seasons/331753-1-2.jpg</thumb>
+  <fanart>
+    <thumb>https://artworks.thetvdb.com/banners/series/331753/backgrounds/62093613.jpg</thumb>
+  </fanart>
+  <mpaa/>
+  <certification/>
+  <id/>
+  <imdbid/>
+  <tmdbid/>
+  <premiered/>
+  <status>Unknown</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Animation</genre>
+  <genre>Anime</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <genre>Fantasy</genre>
+  <genre>Science Fiction</genre>
+  <genre>Thriller</genre>
+  <studio>Livai - Fan-Kai</studio>
+  <country/>
+  <actor>
+    <name>Gakuto Kajiwara</name>
+    <role>Asta</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/8018243/618f7febea41d.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Nobunaga Shimazaki</name>
+    <role>Yuno</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/292646/61e1ac7b7cefd.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Yuuki</name>
+    <role>Noelle Silva</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/7866012/620e13d2255b0.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Genki Muro</name>
+    <role>Magna Swing</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/531632/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Junichi Suwabe</name>
+    <role>Yami Sukehiro</role>
+    <thumb>https://artworks.thetvdb.com/banners/v4/actor/309354/photo/62e22d918a92f.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Daisuke Ono</name>
+    <role>William Vangeance</role>
+    <thumb>https://www.themoviedb.org/t/p/w300_and_h450_bestv2/rCo5Q3xMnOFMavs6YJAbP2ZRsqt.jpg</thumb>
+  </actor>
+  <trailer/>
+  <dateadded>2022-08-19 03:15:33</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+</tvshow>

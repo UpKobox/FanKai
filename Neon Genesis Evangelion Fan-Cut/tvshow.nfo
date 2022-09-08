@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-27 14:59:04 - tinyMediaManager 4.3.3-->
+<tvshow>
+  <title>Neon Genesis Evangelion Fan Cut</title>
+  <originaltitle/>
+  <showtitle>Neon Genesis Evangelion Fan Cut</showtitle>
+  <sorttitle/>
+  <year>1995</year>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <outline/>
+  <plot>En 2000, une gigantesque explosion se produit en Antarctique. Ce cataclysme, officiellement provoqué par la chute d’un astéroïde, entraîne une montée des eaux de plusieurs dizaines de mètres et dévaste une grande partie de la planète, provoquant la mort de deux milliards de personnes ainsi qu’une nouvelle guerre mondiale. Quinze ans plus tard, l’humanité a surmonté cet événement dramatique désigné comme le « Second Impact » mais de mystérieuses créatures géantes, les Anges, font leur apparition et tentent de détruire Tokyo-3, la nouvelle capitale-forteresse du Japon. Pour les combattre, l’organisation secrète NERV a mis au point les « Evangelion » (ou « EVA »), des géants humanoïdes d’apparence mécanique. Shinji Ikari, jeune garçon de 14 ans, se rend à Tokyo-3 sur l'invitation de son père, directeur de la NERV, qu'il n'a pas revu depuis dix ans. Il est loin de se douter qu'il a été appelé pour piloter une EVA et prendre part au combat contre le « Troisième Ange ». Celui-ci n'est que le premier d'une longue série où il sera accompagné par Rei Ayanami, et plus tard Asuka Soryu Langley, et où chaque affrontement peut conduire à la disparition de l'humanité. Mais ils devront également régler leurs propres conflits intérieurs alors que la mystérieuse organisation SEELE, qui dirige secrètement la NERV, tente de mettre en place son « Plan de complémentarité de l'Homme » dont le but est de faire évoluer le genre humain vers un nouveau stade.</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <thumb aspect="poster">https://static.wikia.nocookie.net/fan-kai/images/d/d6/Affiche_nge.webp/revision/latest?cb=20220710231128&amp;path-prefix=fr</thumb>
+  <thumb aspect="banner">https://artworks.thetvdb.com/banners/graphical/70350-g.jpg</thumb>
+  <thumb aspect="poster" season="1" type="season">https://artworks.thetvdb.com/banners/seasons/70350-1-4.jpg</thumb>
+  <fanart>
+    <thumb>https://artworks.thetvdb.com/banners/series/70350/backgrounds/60180e696a84c.jpg</thumb>
+  </fanart>
+  <mpaa/>
+  <certification/>
+  <id/>
+  <imdbid/>
+  <tmdbid/>
+  <premiered/>
+  <status>Unknown</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Action</genre>
+  <genre>Animation</genre>
+  <genre>Anime</genre>
+  <genre>Drama</genre>
+  <genre>Science Fiction</genre>
+  <studio>MECHAPOULPE - Fan-Kai</studio>
+  <country/>
+  <actor>
+    <name>Megumi Ogata</name>
+    <role>Shinji Ikari</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/271012/61eb92222522c.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Megumi Hayashibara</name>
+    <role>Rei Ayanami</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/282368/61be2cb675f8d.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuuko Miyamura</name>
+    <role>Asuka Langley Souryuu</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/7944577/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kotono Mitsuishi</name>
+    <role>Misato Katsuragi</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/343711/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Fumihiko Tachiki</name>
+    <role>Gendou Ikari</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/300982/61b34a72d5b44.jpg</thumb>
+  </actor>
+  <trailer/>
+  <dateadded>2022-08-19 03:57:42</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+</tvshow>

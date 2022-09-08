@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:30:30 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Otohime et Fisher Tiger</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>7</season>
+  <episode>65</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Jinbe débute son récit : un flaskback retraçant des évènements vieux de 16 ans sur l'île des Hommes-Poissons commence. Otohime interrompt la fuite d'un voleur en ville.&#13;
+&#13;
+Ce film couvre les épisodes 540 à 547 soit les chapitres 621 à 627.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:28</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Kaï - 065 - Otohime et Fisher Tiger - 720p.VOSTFR.x264 [Knuckalex].mkv</original_filename>
+  <user_note/>
+</episodedetails>

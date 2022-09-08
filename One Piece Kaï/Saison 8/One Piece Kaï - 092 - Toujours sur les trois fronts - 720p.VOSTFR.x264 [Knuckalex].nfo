@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:27:50 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Toujours sur les trois fronts</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>8</season>
+  <episode>92</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Utilisant ses pouvoirs, Robin se charge de protéger Rebecca à la place de Kyros car l'ancien champion du Colisée Corrida se prépare à libérer sa colère sur Diamante qui est exaspéré de voir l'archéologue des Chapeaux de Paille se mêler à ses affaires. Au même instant, au troisième niveau, Bartolomeo remarque que deux soldats sont en train de transporter Gladius sur une civière et les laisse partir après avoir appris que son ennemi allait être inconscient pendant plusieurs jours.&#13;
+&#13;
+Ce film couvre les épisodes 714 à 720 soit les chapitres 774 à 779.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:26</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Kaï - 092 - Toujours sur les trois fronts - 720p.VOSTFR.x264 [Knuckalex].mkv</original_filename>
+  <user_note/>
+</episodedetails>

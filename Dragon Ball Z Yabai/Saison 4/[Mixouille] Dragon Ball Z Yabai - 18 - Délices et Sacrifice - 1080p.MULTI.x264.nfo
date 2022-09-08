@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:12:31 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Délices et Sacrifice</title>
+  <originaltitle/>
+  <showtitle>Dragon Ball Z Yabai</showtitle>
+  <season>4</season>
+  <episode>18</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Alors que tous s’attendaient à voir un monstre cruel et extrêmement puissant, ils s'aperçoivent que Boo est en faite un gros personnage ressemblant à un « chewing-gum géant ». Il se comporte comme un enfant mais Kaïo Shin n’est pas rassuré pour autant.&#13;
+&#13;
+Ce film couvre les épisodes 124 à 131.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2021-10-13</premiered>
+  <aired>2021-10-13</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-27 16:13:45</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Mixouille] Dragon Ball Z Yabai - 18 - Délices et Sacrifice - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

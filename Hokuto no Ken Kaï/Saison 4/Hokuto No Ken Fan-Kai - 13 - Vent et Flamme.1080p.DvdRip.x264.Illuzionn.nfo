@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:39:56 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Vent et Flamme</title>
+  <originaltitle/>
+  <showtitle>Hokuto No Ken Kaï</showtitle>
+  <season>4</season>
+  <episode>13</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Les cinq Étoiles FIlantes, protecteurs de la dernière étoile du Nanto Sei Ken, décident enfin de passer à l'action. Souhaitant par dessus tout ralentir Ken'Oh, deux d'entre eux, le Vent et la Flamme, partent affronter le terrible conquérant, pendant qu'un autre, la Montagne, part à la recherche de Kenshirô. Que veut le dernier Général du Nanto ? Est-il ami ou ennemi ?&#13;
+&#13;
+Ce film couvre les épisodes 84 à 88 soit les chapitres 110 à 113.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2019-04-14</premiered>
+  <aired>2019-04-14</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Illuzionn - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 21:04:44</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>DVD</source>
+  <original_filename>Hokuto No Ken Fan-Kai - 13 - Vent et Flamme.1080p.DvdRip.x264.Illuzionn.mkv</original_filename>
+  <user_note/>
+</episodedetails>

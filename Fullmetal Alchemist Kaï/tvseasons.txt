@@ -1,0 +1,4 @@
+S1 = Phase 1 - Noir (Saturne) - Films 1 à 3
+S2 = Phase 2 - Blanc (Lune) - Films 4 à 6
+S3 = Phase 3 - Jaune (Vénus) - Films 7 à 9
+S4 = Phase 4 - Rouge (Soleil) - Films 10 à 12

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:33:27 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Thriller Bark</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>5</season>
+  <episode>38</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>L'Équipage du Chapeau de Paille découvre un baril au milieu de l'océan. Après l'avoir ouvert,une fusée rouge décolle vers le ciel. Puis le Thousand Sunny se retrouve pris au piège dans le triangle de Florian où il rencontre un navire en ruine. Luffy,Nami et Sanji montent à bord et rencontrent un squelette vivant auquel Luffy demande immédiatement de rejoindre son équipage.&#13;
+&#13;
+Ce film couvre les épisodes 326 puis 337 à 343 soit les chapitres 442 à 449.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/2/21/One_piece_ultime_pack_affiche_38.webp/revision/latest/scale-to-width-down/1000?cb=20220811200308&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2022-01-30</premiered>
+  <aired>2022-01-30</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:26</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Yabai - 038 - Thriller Bark - 1080p.MULTI.x264 [Livaï].mkv</original_filename>
+  <user_note/>
+</episodedetails>

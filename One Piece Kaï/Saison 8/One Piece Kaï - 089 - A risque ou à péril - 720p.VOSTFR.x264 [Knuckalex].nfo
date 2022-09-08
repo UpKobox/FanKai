@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:28:13 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>À risque ou à péril</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>8</season>
+  <episode>89</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>La bataille entre Zoro et Pica est interrompue par l'arrivée du groupe de Robin qui demande à Zoro de retenir Pica suffisamment longtemps pour leur permettre d'arriver au niveau 4 du Plateau du Nouveau Roi. Alors que Pica lance son poing gigantesque sur le groupe, Zoro tranche le golem en deux et blesse également Pica tout en déclarant qu'il deviendra le meilleur escrimeur du monde. À l'Usine des Smiles, les nains continuent leur révolte mais sont stoppés par la directrice de l'usine, Shuuin. Cependant, Franky parvient à détourner l'attention de Senor Pink et à ouvrir les portes de l'usine...&#13;
+&#13;
+Ce film couvre les épisodes 692 à 699 soit les chapitres 754 à 760.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:26</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Kaï - 089 - A risque ou à péril - 720p.VOSTFR.x264 [Knuckalex].mkv</original_filename>
+  <user_note/>
+</episodedetails>

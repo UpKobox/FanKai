@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 14:53:29 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Jananda</title>
+  <originaltitle/>
+  <showtitle>To Your Eternity Henshū</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Imm a repris la route, le cœur lourd d’avoir perdu sa famille d’adoption. Désespéré, il interpelle directement l’Observateur et lui demande des explications. Le moins qu’on puisse dire, c’est que les réponses ne le satisfont pas, et il prend ses pattes à son cou…&#13;
+&#13;
+Ce film couvre les épisodes 13 à 20 (chapitres 32 à 54 du manga)</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2021-12-24</premiered>
+  <aired>2021-12-24</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Khyinn - Fankai</studio>
+  <trailer/>
+  <dateadded>2021-12-12 10:18:29</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <resume>
+    <position>0.000000</position>
+    <total>0.000000</total>
+  </resume>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>To Your Eternity Henshū - S01E03 - Jananda [Khyinn].mkv</original_filename>
+  <user_note/>
+</episodedetails>

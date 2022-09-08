@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-27 23:29:39 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Yotsuba</title>
+  <originaltitle/>
+  <showtitle>Death Note Kaï</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Le père de Light veut absolument faire libérer son fils, L lui demande alors de le tuer. Ayant passé le test, Light et Misa sont autorisés à sortir mais seront surveillés en permanence. D'ailleurs, L va jusqu'à s'attacher avec Light car il continue à croire en sa double personnalité.
+
+Ce film couvre les épisodes 17 à 24 soit les chapitres 37 à 54.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Roro - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-27 23:19:02</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Roro] Death Note Kaï S01E05.mkv</original_filename>
+  <user_note/>
+</episodedetails>

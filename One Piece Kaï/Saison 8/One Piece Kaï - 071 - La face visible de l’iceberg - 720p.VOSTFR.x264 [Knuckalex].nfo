@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:30:04 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>La face visible de l'iceberg</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>8</season>
+  <episode>71</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Nami et les autres essayant de trouver la sortie tombe nez à nez avec Smoker et Trafalgar. Ils font alors demi-tour tandis que Trafalgar et Smoker se mettent en garde...&#13;
+&#13;
+Ce film couvre les épisodes 585 à 593 soit les chapitres 660 à 667.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:28</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Kaï - 071 - La face visible de l’iceberg - 720p.VOSTFR.x264 [Knuckalex].mkv</original_filename>
+  <user_note/>
+</episodedetails>

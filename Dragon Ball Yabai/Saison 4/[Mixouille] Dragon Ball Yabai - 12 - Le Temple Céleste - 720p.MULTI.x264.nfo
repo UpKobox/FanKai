@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:11:38 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Le Temple Céleste</title>
+  <originaltitle/>
+  <showtitle>Dragon Ball Yabai</showtitle>
+  <season>4</season>
+  <episode>12</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Après la victoire de Son Goku face au démon Piccolo, Yajirobé transporte Son Goku jusqu'à la tour Karin pour que celui-ci soigne les blessures de Son Goku. Après avoir appris pour la mort de Shenron, Karin apprendra à Son Goku que Nyoibo était initialement conçu pour relier la tour Karin au temple dans lequel vit le Tout-Puissant.&#13;
+&#13;
+Ce film couvre les épisodes 123 à 135.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2018-06-01</premiered>
+  <aired>2018-06-01</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-27 17:18:00</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Mixouille] Dragon Ball Yabai - 12 - Le Temple Céleste - 720p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

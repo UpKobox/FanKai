@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:28:01 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Sur trois fronts</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>8</season>
+  <episode>91</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>En souvenir de Corazon, Law poursuit son combat contre Doflamingo qui semble invulnérable à toutes ses attaques. Pendant ce temps, Luffy, à bout de force, doit affronter à la fois Bellamy et un clone de Doflamingo. Alors que le Chapeau de Paille veut frapper ce dernier, Bellamy s'interpose pour l'attaquer. Luffy doit cesser de se battre pour ne pas blesser son ami qui est manipulé par le chef de la Famille Donquichotte. Au-dessus d'eux, Law continue son duel contre Doflamingo et lui dit que Luffy est un D, et que c'est peut-être par la volonté du destin qui l'a été envoyé ici, en raison de la haine qu'entretient Doflamingo envers les D, les ennemis jurés des Dieux.&#13;
+&#13;
+Ce film couvre les épisodes 707 à 713 soit les chapitres 768 à 773.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:24</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Kaï - 091 - Sur trois fronts - 720p.VOSTFR.x264 [Knuckalex].mkv</original_filename>
+  <user_note/>
+</episodedetails>

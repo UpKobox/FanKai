@@ -1,0 +1,4 @@
+S1 = Shinigami remplaçant - Films 1 à 3
+S2 = Soul Society - Films 4 à 9
+S3 = Arrancars - Films 10 à 25
+S4 = Fullbring - Films 26 à 28

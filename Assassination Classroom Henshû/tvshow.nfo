@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-27 14:17:12 - tinyMediaManager 4.3.3-->
+<tvshow>
+  <title>Assassination Classroom Henshû</title>
+  <originaltitle/>
+  <showtitle>Assassination Classroom Henshû</showtitle>
+  <sorttitle/>
+  <year>2015</year>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <outline/>
+  <plot>L'histoire se déroule au lycée Kunugigaoka. Koro-sensei est un alien responsable de la destruction d'une partie de la Lune. Il annonce alors au gouvernement de la Terre qu'il désire être le professeur de la classe 3-E, et rajoute que si aucun de ses élèves n'a réussi à le tuer à la fin de l'année, il détruirait la Terre. Les élèves de cette classe auront donc pour objectif d'assassiner leur professeur afin de sauver la Terre et d’empocher une récompense de 10 milliards de yens.</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <thumb aspect="poster">https://static.wikia.nocookie.net/fan-kai/images/a/af/AC_Henshu_Affiche.webp/revision/latest?cb=20220114224758&amp;path-prefix=fr</thumb>
+  <thumb aspect="banner">https://artworks.thetvdb.com/banners/v4/series/283947/banners/615ba1cf9e283.jpg</thumb>
+  <namedseason number="1">Saison 1</namedseason>
+  <thumb aspect="poster" season="1" type="season">https://artworks.thetvdb.com/banners/seasons/283947-1-2.jpg</thumb>
+  <fanart>
+    <thumb>https://artworks.thetvdb.com/banners/fanart/original/283947-7.jpg</thumb>
+  </fanart>
+  <mpaa/>
+  <certification/>
+  <id/>
+  <imdbid/>
+  <tmdbid/>
+  <premiered/>
+  <status>Unknown</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Action</genre>
+  <genre>Animation</genre>
+  <genre>Anime</genre>
+  <genre>Comedy</genre>
+  <studio>Elfenomomo - Fan-Kai</studio>
+  <country/>
+  <actor>
+    <name>Jun Fukuyama</name>
+    <role>Koro-sensei</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/302324/61c97a6e83c7f.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mai Fuchigami</name>
+    <role>Nagisa Shiota</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/303206/61ab18c0f26b2.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Nobuhiko Okamoto</name>
+    <role>Karma Akabane</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/303207/5f6e1a73d949d.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tomokazu Sugita</name>
+    <role>Tadaomi Karasuma</role>
+    <thumb>https://artworks.thetvdb.com/banners/v4/actor/277107/photo/62dd9fd6183b0.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shizuka Itou</name>
+    <role>Irina Jelavic</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/303214/6190f79a6bf00.jpg</thumb>
+  </actor>
+  <trailer/>
+  <dateadded>2022-08-19 02:45:23</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+</tvshow>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-24 22:13:26 - tinyMediaManager 4.3.2-->
+<episodedetails>
+  <title>Choc des Titans</title>
+  <originaltitle/>
+  <showtitle>Shingeki No Kyojin Henshû</showtitle>
+  <season>2</season>
+  <episode>6</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Eren qui a été vaincu lors de son affrontement contre le Titan Cuirassé, se réveille dans la forêt des arbres géants. Ceux qui recherchent son pouvoir de titan sont là, face à lui. Ayant perdu beaucoup d'énergie en affrontant Eren, Reiner et Bertolt prévoient d'attendre la nuit pour reprendre leur route une fois que Reiner aura de nouveau la force de se transformer en Titan Cuirassé.
+
+Ce film couvre les épisodes 34 à 37.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Johker - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-24 18:13:23</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Johker] Shingeki no Kyojin Henshû S02E06.mkv</original_filename>
+  <user_note/>
+</episodedetails>

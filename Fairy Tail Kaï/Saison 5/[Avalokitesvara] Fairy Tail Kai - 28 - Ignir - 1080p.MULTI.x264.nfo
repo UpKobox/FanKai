@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:35:01 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Ignir</title>
+  <originaltitle/>
+  <showtitle>Fairy Tail Kaï</showtitle>
+  <season>5</season>
+  <episode>28</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Deux dragons s’affrontent dans le ciel de Magnolia. D’un côté, Acnologia dont Zilkonis avait naguère conté l’histoire ; de l’autre, Ignir, à peine sorti du corps de Natsu, et qui fait subir à son adversaire un déluge de flammes. À terre, tous les mages de Fairy Tail doivent se contenter d'assister au terrible spectacle. Tous sauf Natsu, qui vient demander avec virulence des explications au roi des dragons de feu.&#13;
+&#13;
+Ce film couvre les épisodes 258 à 265 soit les chapitres 400 à 416.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2019-05-05</premiered>
+  <aired>2019-05-05</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Avalokitesvara - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 14:51:26</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Avalokitesvara] Fairy Tail Kai - 28 - Ignir - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:03:01 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Des invités prometteurs</title>
+  <originaltitle/>
+  <showtitle>Yu Yu Hakusho Kaï</showtitle>
+  <season>2</season>
+  <episode>5</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Après que Kuwabara ait vaincu les frères Toguro avec l'aide de Yûsuke, Hiei a massacré les serviteurs de Tarukane et frappe violemment ce dernier pour venger Yukina qui n'est autre que sa soeur, ce qu'elle ignore. Mais les Toguro ne sont pas morts, ils ont joué la comédie pour que Sakyo gagne son pari car il est leur employeur. Sur ordre de Sakyo, Toguro tue Tarukane en le décapitant en un coup de pied. Par la suite, Toguro Junior vient à la rencontre de Yûsuke au collège et l'invite au tournoi des arts martiaux de l'ombre. En cas de refus, Yûsuke mourra...&#13;&#13;
+&#13;&#13;
+Ce film couvre les épisodes 26 à 33 soit les chapitres 52 à 61.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2019-02-14</premiered>
+  <aired>2019-02-14</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Titou - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-22 22:08:15</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>Yu Yu Hakusho - film 05 - Des invités prometteurs.mkv</original_filename>
+  <user_note/>
+</episodedetails>

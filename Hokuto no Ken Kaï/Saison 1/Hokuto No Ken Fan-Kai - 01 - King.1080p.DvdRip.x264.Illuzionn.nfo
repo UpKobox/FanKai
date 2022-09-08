@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:44 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>King</title>
+  <originaltitle/>
+  <showtitle>Hokuto No Ken Kaï</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Kenshirô, le successeur d'un art martial vieux de 2000 ans, parcourt le désert, sans but. Sa rencontre avec deux jeunes orphelins, Lynn et Batt, va changer son destin. Que représentent les 7 cicatrices sur le torse de Ken ? Qui est derrière le gang "King" qui terrorise la région ?&#13;
+&#13;
+Ce film couvre les épisodes 1 à 5 ainsi que le 22, soit les chapitres 1 à 10.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2019-01-06</premiered>
+  <aired>2019-01-06</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Illuzionn - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 21:04:45</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>DVD</source>
+  <original_filename>Hokuto No Ken Fan-Kai - 01 - King.1080p.DvdRip.x264.Illuzionn.mkv</original_filename>
+  <user_note/>
+</episodedetails>

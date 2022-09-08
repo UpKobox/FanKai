@@ -1,0 +1,4 @@
+S1 = Introduction/Pays des Vagues (Vous pouvez garder Introduction) - Films 1-3
+S2 = Examen Chûnin - Films 4-12
+S3 = Recherche de Tsunade - Films 13-14
+S4 = Fuite de Sasuke - Films 15-18

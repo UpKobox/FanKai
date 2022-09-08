@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:42:29 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>L'Attaquant de feu</title>
+  <originaltitle/>
+  <showtitle>Inazuma Eleven Kaï</showtitle>
+  <season>2</season>
+  <episode>15</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Les Raimon arrivent sur l'île d'Agato et en profitent pour s'entraîner. Ils rencontrent Hurley Kane, un surfeur qui se révèle être un joueur de football exceptionnel.&#13;
+&#13;
+Ce film couvre les épisodes 47 à 52.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/f/fe/Inazuma_eleven_kai_affiche_15.webp/revision/latest/scale-to-width-down/1000?cb=20220810232520&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2022-03-10</premiered>
+  <aired>2022-03-10</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Livai - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-27 23:38:29</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Livaï] Inazuma Eleven 15 (Fan-kai) - L'Attaquant de Feu - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

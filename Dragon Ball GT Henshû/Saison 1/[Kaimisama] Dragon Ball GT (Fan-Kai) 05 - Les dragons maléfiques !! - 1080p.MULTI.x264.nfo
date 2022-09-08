@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:27 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Les Dragons Maléfiques</title>
+  <originaltitle/>
+  <showtitle>Dragon Ball GT Henshû</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Dans le combat qui l'oppose à C.17, Son Goku se retrouve en bien mauvaise posture et alors que tout semblait perdu, C.18 intervient, fermement décidée à venger la mort de Krilin.&#13;
+&#13;
+Ce film couvre les épisodes 47 à 64.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2020-02-16</premiered>
+  <aired>2020-02-16</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Kaimisama - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-27 17:48:57</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Kaimisama] Dragon Ball GT (Fan-Kai) 05 - Les dragons maléfiques !! - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

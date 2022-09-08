@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:42:48 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Les Extraterrestres débarquent</title>
+  <originaltitle/>
+  <showtitle>Inazuma Eleven Kaï</showtitle>
+  <season>2</season>
+  <episode>9</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>L'équipe du collège Raimon est au fond du gouffre. Alors que la finale vient à peine de débuter, Mark et ses amis sont déjà menés 3 buts à 0. Seule une force incroyable peut surpasser le pouvoir des dieux...&#13;
+&#13;
+Ce film couvre les épisodes 27 à 30.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/5/5b/Inazuma_eleven_kai_affiche_09.webp/revision/latest/scale-to-width-down/1000?cb=20220810232520&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2021-05-12</premiered>
+  <aired>2021-05-12</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Livai - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-27 23:38:29</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Livaï] Inazuma Eleven 09 (Fan-kai) - Les Extraterrestres débarquent - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

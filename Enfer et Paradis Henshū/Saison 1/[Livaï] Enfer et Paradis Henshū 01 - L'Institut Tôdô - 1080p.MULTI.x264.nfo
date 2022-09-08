@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:34 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>L'institut Tôdô</title>
+  <originaltitle/>
+  <showtitle>Enfer Et Paradis Henshû</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Une nouvelle année commence à l'école Tôdo. Nagi et Bob sont deux nouveaux arrivants et ils comptent bien faire leur loi. Mais ils vont rapidement voir qu'ils ne sont pas les plus forts dans cette école. Les soeurs Natsume et Takayanagi du club Juken ne vont pas les laisser faire.&#13;
+&#13;
+Ce film couvre les épisodes 1 à 5.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/b/b0/Enfer_et_paradis_henshu_affiche_01.webp/revision/latest/scale-to-width-down/1000?cb=20220810230226&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2022-01-17</premiered>
+  <aired>2022-01-17</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Livai - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 00:59:27</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Livaï] Enfer et Paradis Henshū 1 - L'Institut Tôdô - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

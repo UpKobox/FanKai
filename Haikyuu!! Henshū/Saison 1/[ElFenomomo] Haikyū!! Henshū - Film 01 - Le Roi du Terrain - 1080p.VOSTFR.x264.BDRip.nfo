@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:41 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Le roi du Terrain</title>
+  <originaltitle/>
+  <showtitle>Haikyuu!! Henshû</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Hinata commence le volley-ball pour suivre les pas de son idole. En dernière année au collège, il monte une équipe improvisée pour participer à des matchs. Seulement, pour son premier et dernier défi, son adversaire n'est autre que le passeur de génie «le Roi du terrain». L'école Kageyama est donnée favorite pour le tournoi...&#13;
+&#13;
+Ce film couvre les épisodes 1 à 5 soit les chapitres 1 à 10.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2020-05-30</premiered>
+  <aired>2020-05-30</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Elfenomomo - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 20:23:54</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>BLURAY</source>
+  <original_filename>[ElFenomomo] Haikyū!! Henshū - Film 1 - Le Roi du Terrain - 1080p.VOSTFR.x264.BDRip.mkv</original_filename>
+  <user_note/>
+</episodedetails>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-27 15:03:08 - tinyMediaManager 4.3.3-->
+<tvshow>
+  <title>Naruto Yabai</title>
+  <originaltitle/>
+  <showtitle>Naruto Yabai</showtitle>
+  <sorttitle/>
+  <year>2002</year>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <outline/>
+  <plot>Dans le village de Konoha vit Naruto, un jeune garçon détesté et craint des villageois. Il est craint du fait qu'il détient en lui Kyuubi (démon renard à neuf queues) d'une incroyable force, qui a tué un grand nombre de personnes. Le ninja le plus puissant de Konoha à l'époque, le quatrième Hokage, Minato Namikaze, réussit à sceller ce démon dans le corps de Naruto. Malheureusement il y laissa la vie. C'est ainsi que douze ans plus tard, Naruto rêve de devenir le plus grand Hokage de Konoha afin que tous le reconnaissent à sa juste valeur. Mais la route pour devenir Hokage est très longue et Naruto sera confronté à un bon nombre d'épreuves et devra affronter de nombreux ennemis pour atteindre son but !</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <thumb aspect="poster">https://static.wikia.nocookie.net/fan-kai/images/f/f3/Naruto_yabai_affiche.png/revision/latest/scale-to-width-down/1000?cb=20220315134728&amp;path-prefix=fr</thumb>
+  <thumb aspect="banner">https://artworks.thetvdb.com/banners/graphical/78857-g3.jpg</thumb>
+  <thumb aspect="poster" season="1" type="season">https://artworks.thetvdb.com/banners/posters/78857-10.jpg</thumb>
+  <thumb aspect="poster" season="2" type="season">https://artworks.thetvdb.com/banners/posters/78857-2.jpg</thumb>
+  <fanart>
+    <thumb>https://artworks.thetvdb.com/banners/fanart/original/78857-31.jpg</thumb>
+  </fanart>
+  <mpaa/>
+  <certification/>
+  <id/>
+  <imdbid/>
+  <tmdbid/>
+  <premiered/>
+  <status>Unknown</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Animation</genre>
+  <genre>Anime</genre>
+  <genre>Comedy</genre>
+  <genre>Fantasy</genre>
+  <studio>Triggerforce - Fan-Kai</studio>
+  <country/>
+  <actor>
+    <name>Junko Takeuchi</name>
+    <role>Naruto Uzumaki</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/7903091/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Noriaki Sugiyama</name>
+    <role>Sasuke Uchiwa</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/380646/61ee30109a26e.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Chie Nakamura</name>
+    <role>Sakura Haruno</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/447190/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kazuhiko Inoue</name>
+    <role>Kakashi Hatake</role>
+    <thumb>https://artworks.thetvdb.com/banners/v4/actor/343714/photo/62f9d17eef93b.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Houchuu Ootsuka</name>
+    <role>Jiraya</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/303142/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hideo Ishikawa</name>
+    <role>Itachi Uchiwa</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/292491/62fb4d6f63045.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tomoyuki Dan</name>
+    <role>Kisame Hoshigaki</role>
+    <thumb>https://artworks.thetvdb.com/banners/actors/548398.jpg</thumb>
+  </actor>
+  <trailer/>
+  <dateadded>2002-03-10 16:52:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+</tvshow>

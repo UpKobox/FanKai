@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:51 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Green Day et Oasis</title>
+  <originaltitle/>
+  <showtitle>Jojo's Bizarre Adventure Henshû</showtitle>
+  <season>5</season>
+  <episode>7</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Après la perte d'un membre important, l'équipe de Bucciarati a vécu un coup dur, mais elle ne lâche rien. Giorno et Bucciarati continuent les recherchent sur le boss mais ne trouvent rien. Mais au moment où ils pensaient tout espoir perdu, une voix les contacte depuis leur ordinateur. La personne de l'autre côté est-elle amie ou ennemie ?&#13;
+&#13;
+Ce film couvre les épisodes 29 à 33 de Golden Wind soit les chapitres 551 à 571.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2022-08-08</premiered>
+  <aired>2022-08-08</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Livai - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-19 21:42:14</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Livaï] Jojo’s Bizarre Adventure Golden Wind Henshū 7 - Green Day et Oasis - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

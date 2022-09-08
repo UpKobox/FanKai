@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-28 18:44:49 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>La bataille finale</title>
+  <originaltitle/>
+  <showtitle>Reborn! Kaï</showtitle>
+  <season>7</season>
+  <episode>23</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Zakuro, après avoir ouvert sa boîte, neutralise Gamma et Lal Mirch. Gokudera ouvre sa boîte en version Cambio Forma qui se révèle être l'arc de G et affronte Zakuro. Ce dernier fonce vers Gokudera, pendant qu'il essaie d'en finir avec un dernier tir.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Kadero_san - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 18:12:50</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Kadero_san] Reborn! Kaï S07E02.mkv</original_filename>
+  <user_note/>
+</episodedetails>

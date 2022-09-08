@@ -1,0 +1,6 @@
+S1 = L'Homme du Hokuto - Films 1 à 4
+S2 = Tigre et Dragon - Films 5 à 9
+S3 = Conquête du Monde Barbare - Films 10 à 12
+S4 = Dernier Général du Nanto - Films 13 à 16
+S5 = L'Empereur Céleste - Films 17 à 18
+S6 = Pays du Hokuto originel - Films 19 à 22

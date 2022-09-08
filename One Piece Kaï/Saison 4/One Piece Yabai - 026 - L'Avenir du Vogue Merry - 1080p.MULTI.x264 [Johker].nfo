@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:39:26 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>L'avenir du Vogue Merry</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>4</season>
+  <episode>26</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Luffy refuse de croire que le Vogue Merry n'est pas réparable. Ensuite, Luffy et Nami se rendent vite compte que non seulement Usopp a disparu mais que les deux valises sont vides. Nami décide de se rendre à la Franky House, et trouve Usopp sur la route dans un état ​​pitoyable. Comme elle se dirige vers le navire pour demander de l'aide, Usopp va à la Franky House lui-même.&#13;
+&#13;
+Ce film couvre les épisodes 233 à 236 soit les chapitres 328 à 333.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/a/a4/One_piece_ultime_pack_affiche_26.webp/revision/latest/scale-to-width-down/1000?cb=20220811200307&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2021-07-06</premiered>
+  <aired>2021-07-06</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:28</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Yabai - 026 - L'Avenir du Vogue Merry - 1080p.MULTI.x264 [Johker].mkv</original_filename>
+  <user_note/>
+</episodedetails>

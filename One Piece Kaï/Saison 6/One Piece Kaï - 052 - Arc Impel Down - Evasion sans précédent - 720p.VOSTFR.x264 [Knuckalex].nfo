@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:31:58 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Évasion sans précédent</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>6</season>
+  <episode>52</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Luffy, Jinbe, Crocodile, Mr. 2, Mr. 1, Ivankov, Inazuma et les New Kamas continuent de se battre au niveau 4. Pendant se temps, Barbe Noire, s'étant introduit lui aussi dans Impel Down, rencontre Shiliew au niveau 1.&#13;
+&#13;
+Ce film couvre les épisodes 445 à 451 soit les chapitres 542 à 548.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:28</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Kaï - 052 - Arc Impel Down - Evasion sans précédent - 720p.VOSTFR.x264 [Knuckalex].mkv</original_filename>
+  <user_note/>
+</episodedetails>

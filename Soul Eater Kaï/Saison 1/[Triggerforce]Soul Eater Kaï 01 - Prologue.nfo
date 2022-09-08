@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 14:53:26 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Prologue</title>
+  <originaltitle/>
+  <showtitle>Soul Eater Kaï</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Après avoir chassé 99 âmes maléfiques, Maka Albarn et son compagnon Soul Eater doivent capturer l'âme d'une sorcière afin de transformer le jeune homme en une arme que Maître Shinigami, le dieu de la mort, pourra lui même utiliser. Leur choix se porte sur Blair, une jeune femme sans-gêne passée maître dans l'art d'utiliser les citrouilles...&#13;
+&#13;
+Ce film couvre les épisodes 1 à 3 soit les chapitres 0.1 à 0.3.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/2/2b/Soul_eater_kai_affiche_01.webp/revision/latest?cb=20220811004100&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2021-01-10</premiered>
+  <aired>2021-01-10</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Triggerforce - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2021-10-01 16:08:00</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Triggerforce]Soul Eater Kaï 01 - Prologue.mkv</original_filename>
+  <user_note/>
+</episodedetails>

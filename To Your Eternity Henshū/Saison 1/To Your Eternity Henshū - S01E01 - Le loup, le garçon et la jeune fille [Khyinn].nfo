@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 14:53:28 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Le loup, le garçon et la jeune fille</title>
+  <originaltitle/>
+  <showtitle>To Your Eternity Henshū</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Un être mystérieux est envoyé sur Terre par un autre, encore plus énigmatique, sous la forme d’une sphère capable de prendre l’apparence de tout ce qu’elle touche. Ayant atterri dans un lieu reculé et inhospitalier, cet être va pourtant finir par entrer en contact avec un animal sur le point de mourir…&#13;
+&#13;
+Ce film couvre les épisodes 1 à 5 (chapitres 1 à 11 du manga)</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2021-12-22</premiered>
+  <aired>2021-12-22</aired>
+  <watched>true</watched>
+  <playcount>1</playcount>
+  <lastplayed>2021-12-19 00:00:00</lastplayed>
+  <studio>Khyinn - Fankai</studio>
+  <trailer/>
+  <dateadded>2021-11-24 18:55:16</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <resume>
+    <position>0.000000</position>
+    <total>0.000000</total>
+  </resume>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>To Your Eternity Henshū - S01E01 - Le loup, le garçon et la jeune fille [Khyinn].mkv</original_filename>
+  <user_note/>
+</episodedetails>

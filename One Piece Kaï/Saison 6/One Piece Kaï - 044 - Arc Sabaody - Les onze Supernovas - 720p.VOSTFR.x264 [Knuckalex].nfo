@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:32:25 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Sabaody - Les onze Supernovas</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>6</season>
+  <episode>44</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Luffy et son groupe tentent de trouver Rayleigh, mais devient vite distraits par le Sabaody Park. Zoro, ayant été impoli envers Saint Charlos, a failli être tué ou plutôt le contraire. Il évite le boulet qui lui était destiné et avant d'avoir pu couper en deux le Dragon Céleste, Jewelry Bonney intervient en le poussant par terre. Par la suite, Sanji reçoit un appel de Chopper déclarant que Camie s'est fait kidnappé.&#13;
+&#13;
+Ce film couvre les épisodes 393 à 398 soit les chapitres 499 à 504.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:23</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Kaï - 044 - Arc Sabaody - Les onze Supernovas - 720p.VOSTFR.x264 [Knuckalex].mkv</original_filename>
+  <user_note/>
+</episodedetails>

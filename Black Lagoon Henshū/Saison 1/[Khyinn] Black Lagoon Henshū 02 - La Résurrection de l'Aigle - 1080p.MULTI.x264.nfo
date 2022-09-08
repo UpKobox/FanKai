@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:18 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>La résurrection de l'Aigle</title>
+  <originaltitle/>
+  <showtitle>Black Lagoon Henshû</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Cet épisode commence par un flash back datant de 1945 qui montre le naufrage du sous marin allemand U-234 au large du Cap Vert. Un peu plus de 50 ans plus tard, la compagnie Black Lagoon est contacté par un mystérieux commanditaire lui demandant de récupérer le tableau "Les 12 rois guidés par Brunehilde" qui se trouverait dans un sous marin échoué au fond de la mer d'Asie du sud-Est ...&#13;
+&#13;
+Ce film couvre les épisodes 4 à 7.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/6/6e/Black_lagoon_henshu_affiche_02.webp/revision/latest?cb=20220810221212&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2019-04-28</premiered>
+  <aired>2019-04-28</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Khyinn - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-20 14:40:41</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Khyinn] Black Lagoon Henshū 02 - La Résurrection de l'Aigle - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

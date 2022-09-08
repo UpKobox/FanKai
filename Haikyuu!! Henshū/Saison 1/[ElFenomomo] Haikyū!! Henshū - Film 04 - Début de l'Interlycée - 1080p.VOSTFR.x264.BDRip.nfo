@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-28 20:43:25 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Début de l'interlycée</title>
+  <originaltitle/>
+  <showtitle>Haikyuu!! Henshû</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Il reste deux semaines avant le tournoi interlycées et la pression se fait sentir au club de volley de Karasuno. De plus, les matchs de sélections ont été annoncés et dans la même poule, il y a le lycée Date Kôgyô, surnommé le mur de fer, et le lycée Aoba Jôsai. Mais il va d'abord falloir que Karasuno se concentre sur son premier adversaire...
+
+Ce film couvre les épisodes 14 à 16 soit les chapitres 35 à 41.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Elfenomomo - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 20:23:54</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Elfenomomo] Haikyuu!! Henshû S01E04.mkv</original_filename>
+  <user_note/>
+</episodedetails>

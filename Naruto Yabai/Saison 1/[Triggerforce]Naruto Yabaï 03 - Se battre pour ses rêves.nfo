@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:56 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Se battre pour ses rêves</title>
+  <originaltitle/>
+  <showtitle>Naruto Yabai</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Haku révèle sa technique héréditaire à Sasuke et le combat s’intensifie entre l’équipe n°7 et le duo Zabuza/Haku.&#13;
+&#13;
+Ce film couvre les épisodes 13 à 19 soit les chapitres 23 à 33.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2021-09-23</premiered>
+  <aired>2021-09-23</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Triggerforce - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-19 16:52:20</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Triggerforce]Naruto Yabaï 03 - Se battre pour ses rêves.mkv</original_filename>
+  <user_note/>
+</episodedetails>

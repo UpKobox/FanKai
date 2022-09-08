@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 15:59:22 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Bas les masques</title>
+  <originaltitle/>
+  <showtitle>Bleach Kaï</showtitle>
+  <season>3</season>
+  <episode>10</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Ichigo, Orihime, Uryû et Chad retournent au lycée. Un nouvel élève arrive dans leur classe, il se nomme Shinji Hirako et est un peu spécial : il écrit son nom à l'envers au tableau et exige d'être placé à côté d'une jolie fille. Finalement, c'est à côté d'Ichigo qu'il s'assoit et lui dit qu'il a hâte de devenir son ami.&#13;
+&#13;
+Ce film couvre les épisodes 110 à 116.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/d/dc/Bleach_kai_affiche_10.webp/revision/latest/scale-to-width-down/1000?cb=20220810222031&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-20 15:31:49</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Mixouille] Bleach Kai - 10 - Bas les masques - 720p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

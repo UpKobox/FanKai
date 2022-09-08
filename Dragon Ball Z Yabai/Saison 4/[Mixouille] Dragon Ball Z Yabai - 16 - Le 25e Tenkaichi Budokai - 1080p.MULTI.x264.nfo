@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:12:51 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Le 25e Tenkaichi Budokai</title>
+  <originaltitle/>
+  <showtitle>Dragon Ball Z Yabai</showtitle>
+  <season>4</season>
+  <episode>16</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Shin raconte à Son Goku et ses amis l'histoire de la création de Boo, une créature invincible créée par Bibidi, un sorcier. Après avoir vaincu ce dernier, il a appris que Bibidi a eu un fils : Babidi. Kibito soigne Son Gohan, affaibli, et le remet sur pied. Videl accompagne Son Gohan et Kibito, mais n'arrive pas à les suivre. Son Gohan lui conseille de retourner au stade, mais Videl est triste de ne pas pouvoir rester avec lui. C'est à ce moment-là que Videl tombe amoureuse de Son Gohan et réciproquement. Kibito et Gohan parviennent à rattraper Shin et les autres. Ils finissent par retrouver le vaisseau de Babidi et sont surpris de découvrir que Dabra, le prince des ténèbres, a rejoint les rangs du sorcier.&#13;
+&#13;
+Ce film couvre les épisodes 106 à 113.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2018-09-18</premiered>
+  <aired>2018-09-18</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-27 16:13:45</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Mixouille] Dragon Ball Z Yabai - 16 - Le 25e Tenkaichi Budokai - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

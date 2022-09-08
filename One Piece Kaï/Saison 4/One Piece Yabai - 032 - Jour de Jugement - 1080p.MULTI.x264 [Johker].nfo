@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:38:51 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Jour de Jugement</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>4</season>
+  <episode>32</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Robin suit Blueno à l'intérieur de sa porte improvisée, Sanji et Sogeking se retrouvent seuls. Pendant ce temps, Blueno nous apprend un peu du passé de Robin et du Buster Call. De retour sur le Rocket-Man, Yokozuna grimpe à l'avant du train et le fait dérailler. Kokoro vient le voir et lui explique la situation, Yokozuna se joint au groupe. Le CP9, accompagné de Franky et Robin, arrive à Enies Lobby.&#13;
+&#13;
+Ce film couvre les épisodes 264 à 273 soit les chapitres 376 à 388.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/c/ca/One_piece_ultime_pack_affiche_32.webp/revision/latest/scale-to-width-down/1000?cb=20220811200308&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2021-08-25</premiered>
+  <aired>2021-08-25</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:28</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Yabai - 032 - Jour de Jugement - 1080p.MULTI.x264 [Johker].mkv</original_filename>
+  <user_note/>
+</episodedetails>

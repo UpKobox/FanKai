@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:50 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Iggy</title>
+  <originaltitle/>
+  <showtitle>Jojo's Bizarre Adventure Henshû</showtitle>
+  <season>3</season>
+  <episode>5</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>En plein milieu du désert, notre fine équipe attend l’arrivée d’un nouvel allié, au caractère quelque peu difficile. Mais ce dernier tombe à pic car une nouvelle menace semble peser sur nos héros.&#13;
+&#13;
+Ce film couvre les épisodes 25 à 27 de Stardust Crusaders soit les chapitres 183 à 192.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2020-12-10</premiered>
+  <aired>2020-12-10</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Livai - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-19 21:42:14</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Livaï] Jojo’s Bizarre Adventure Stardust Crusaders Henshū 5 - Iggy - 1080p.VOSTFR.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

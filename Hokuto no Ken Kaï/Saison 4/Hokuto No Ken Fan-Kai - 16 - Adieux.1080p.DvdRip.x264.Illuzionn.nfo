@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:39:48 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Adieux</title>
+  <originaltitle/>
+  <showtitle>Hokuto No Ken Kaï</showtitle>
+  <season>4</season>
+  <episode>16</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Raoh, tétanisé suite à son combat contre Kenshirô, décide de prendre des mesures désespérées et d'affronter Fudoh, le seul être qui lui avait inspiré la peur dans sa jeunesse... Kenshirô, gravement blessé, souhaite en finir au plus vite avec Raoh, avant que les dégâts ne soient irréversibles... Quel sera le vainqueur de cette lutte finale pour l'avenir du monde ? Ce film correspond à la dernière partie sur 4 de l'arc "Dernier Général du Nanto".&#13;
+&#13;
+Ce film couvre les épisodes 102 à 108 soit les chapitres 129 à 136.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2019-05-12</premiered>
+  <aired>2019-05-12</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Illuzionn - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 21:04:45</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>DVD</source>
+  <original_filename>Hokuto No Ken Fan-Kai - 16 - Adieux.1080p.DvdRip.x264.Illuzionn.mkv</original_filename>
+  <user_note/>
+</episodedetails>

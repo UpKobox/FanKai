@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 14:53:18 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Seigneur de Guerre</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Don Krieg ne compte pas en rester là : ses hommes attaquent le Baratie. Luffy contre aussitôt cette première salve. Pearl, un sbire à la solde de Krieg, monte sur le Baratie et affronte alors Sanji. Ce dernier ne se bat qu'avec la partie basse de son corps : ses genoux, jambes et ses pieds afin de ne pas abimer ses mains qui lui servent à cuisiner.&#13;
+&#13;
+Ce film couvre les épisodes 25 à 30 soit les chapitres 53 à 68.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/3/32/One_piece_ultime_pack_affiche_04.webp/revision/latest/scale-to-width-down/1000?cb=20220811200306&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2019-01-16</premiered>
+  <aired>2019-01-16</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:24</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Yabai - 004 - Seigneur de Guerre - 1080p.MULTI.x264 [Mixouille].mkv</original_filename>
+  <user_note/>
+</episodedetails>

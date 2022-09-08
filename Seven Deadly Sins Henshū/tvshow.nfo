@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-27 15:07:49 - tinyMediaManager 4.3.3-->
+<tvshow>
+  <title>Seven Deadly Sins Henshû</title>
+  <originaltitle/>
+  <showtitle>Seven Deadly Sins Henshû</showtitle>
+  <sorttitle/>
+  <year>2014</year>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <outline/>
+  <plot>Il y a dix ans, un groupe de Chevaliers Sacrés renégats appelé les Seven Deadly Sins s'est rebellé contre les Chevaliers Sacrés, la garde du royaume. Depuis, ils ont disparu et personne ne sait ce qu'ils sont devenus. Un beau jour, une mystérieuse jeune fille s'écroule dans la taverne de Meliodas, un garçon enjoué qui parcourt le monde en compagnie de son cochon loquace. Très vite, elle va découvrir que Meliodas n'est pas un simple patron de taverne mais un guerrier à la puissance exceptionnelle…</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <thumb aspect="poster">https://static.wikia.nocookie.net/fan-kai/images/d/df/7DS_kai_affiche.webp/revision/latest?cb=20220115004149&amp;path-prefix=fr</thumb>
+  <thumb aspect="banner">https://artworks.thetvdb.com/banners/graphical/284131-g3.jpg</thumb>
+  <thumb aspect="poster" season="1" type="season">https://artworks.thetvdb.com/banners/posters/284131-2.jpg</thumb>
+  <fanart>
+    <thumb>https://artworks.thetvdb.com/banners/fanart/original/284131-10.jpg</thumb>
+  </fanart>
+  <mpaa/>
+  <certification/>
+  <id/>
+  <imdbid/>
+  <tmdbid/>
+  <premiered/>
+  <status>Unknown</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Animation</genre>
+  <genre>Anime</genre>
+  <genre>Comedy</genre>
+  <genre>Fantasy</genre>
+  <studio>Hokage - Fan-Kai</studio>
+  <country/>
+  <actor>
+    <name>Yuki Kaji</name>
+    <role>Meliodas/Zeldris</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/293452/61e6e6287c8a8.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sora Amamiya</name>
+    <role>Elizabeth Liones</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/463628/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Misaki Kuno</name>
+    <role>Hawk</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/467606/62231f415c66a.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tatsuhisa Suzuki</name>
+    <role>Ban</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/353404/61e6e6dce34a0.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Aoi Yuuki</name>
+    <role>Diane</role>
+    <thumb>https://artworks.thetvdb.com/banners/v4/actor/7864377/photo/619d0ed6bb40f.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Jun Fukuyama</name>
+    <role>King</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/302324/61c97a6e83c7f.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Maaya Sakamoto</name>
+    <role>Merlin</role>
+    <thumb>https://artworks.thetvdb.com/banners/v4/actor/292474/photo/62ebdba6da415.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tomokazu Sugita</name>
+    <role>Escanor</role>
+    <thumb>https://artworks.thetvdb.com/banners/v4/actor/277107/photo/62dd9fd6183b0.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuuhei Takagi</name>
+    <role>Gowther</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/8043564/primary.jpg</thumb>
+  </actor>
+  <trailer/>
+  <dateadded>2014-05-10 13:53:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+</tvshow>

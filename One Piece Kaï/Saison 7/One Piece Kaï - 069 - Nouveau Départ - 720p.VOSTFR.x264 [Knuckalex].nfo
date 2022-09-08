@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:30:15 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Nouveau Départ</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>7</season>
+  <episode>69</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Luffy et son équipage quittent la place. En effet, Luffy et Zoro ont peur d'être considérés comme des héros et ainsi de partager la nourriture et le saké. Sur le Sunny, Jinbe repousse l'offre de Luffy, en lui disant qu'il a encore des choses à régler. Cependant, il promet à Luffy de venir à sa rencontre lorsque cela sera réglé et rejoindra son équipage si Luffy est toujours consentant.&#13;
+&#13;
+Ce film couvre les épisodes 569 à 573 soit les chapitres 649 à 653.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:24</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Kaï - 069 - Nouveau Départ - 720p.VOSTFR.x264 [Knuckalex].mkv</original_filename>
+  <user_note/>
+</episodedetails>

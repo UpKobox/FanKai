@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:35:21 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Destin</title>
+  <originaltitle/>
+  <showtitle>Fairy Tail Kaï</showtitle>
+  <season>4</season>
+  <episode>22</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Au Palais des Enfers, Natsu et ses compagnons ont rencontré le sosie de Lucy. Affirmant venir du futur, la jeune fille leur annonce que le pays risque de disparaître le lendemain. Dans l’ultime épreuve des Grands Jeux magiques, Minerva, opposée à Erza et Kagura, retient toujours Miliana prisonnière. Pendant ce temps, la princesse Hisui explique à Datong que la Porte d’Éclipse est prête à être ouverte, maintenant qu’elle l’a déverrouillée.&#13;
+&#13;
+Ce film couvre les épisodes 185 à 191 soit les chapitres 313 à 326.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2018-10-07</premiered>
+  <aired>2018-10-07</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Avalokitesvara - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 14:51:25</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Avalokitesvara] Fairy Tail Kai - 22 - Destin - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

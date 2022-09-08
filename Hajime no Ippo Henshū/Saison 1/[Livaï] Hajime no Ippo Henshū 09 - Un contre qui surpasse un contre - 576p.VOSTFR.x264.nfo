@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:42 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Un Contre qui surpasse un Contre</title>
+  <originaltitle/>
+  <showtitle>Hajime No Ippo Henshû</showtitle>
+  <season>1</season>
+  <episode>9</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>En Thaïlande, Miyata fait match nul contre un boxeur de seconde zone. Décision de l'arbitre bien discutable, les japonais ne sont pas les bienvenus là-bas, et Miyata semble être la cible des combattants désirant gagner des points facilement. Mais notre jeune prodige n'a pas l'intention de se défiler et accepte un nouveau défi, contre le gré de son père, qui préfèrerait le voir monter dans la catégorie poids léger. Pour Miyata, ce changement est impossible, il ne DOIT PAS éviter Ippo, question de dignité, il refuse de fuir face aux obstacles.&#13;
+&#13;
+Ce film couvre les épisodes 39 à 40 soit les chapitres 124 à 131 de la saison 1.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2021-09-12</premiered>
+  <aired>2021-09-12</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Livai - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 16:37:10</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Livaï] Hajime no Ippo Henshū 09 - Un contre qui surpasse un contre - 576p.VOSTFR.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

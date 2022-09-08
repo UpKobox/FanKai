@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-27 15:05:27 - tinyMediaManager 4.3.3-->
+<tvshow>
+  <title>My Hero Academia Henshû</title>
+  <originaltitle/>
+  <showtitle>My Hero Academia Henshû</showtitle>
+  <sorttitle/>
+  <year>2016</year>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <outline/>
+  <plot>Dans un monde où 80% de la population mondiale possède des super-pouvoirs, ici nommés "Alters", n'importe qui peut devenir un héros ou, s'il le souhaite, un criminel. Nous suivons les aventures d'Izuku Midoriya, l'un des rares humains ne possédant pas d'alter, qui rêve pourtant de rejoindre la filière super-héroïque de la grande académie Yuei et de devenir un jour un des plus grands héros de son époque, à l'image de son héros, All Might !</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <thumb aspect="poster">https://static.wikia.nocookie.net/fan-kai/images/2/29/Mha_henshu_affiche.webp/revision/latest?cb=20220115002613&amp;path-prefix=fr</thumb>
+  <thumb aspect="banner">https://artworks.thetvdb.com/banners/graphical/305074-g2.jpg</thumb>
+  <namedseason number="1">Héros de Yuei</namedseason>
+  <namedseason number="2">L'Ascension du Mal</namedseason>
+  <thumb aspect="poster" season="1" type="season">https://artworks.thetvdb.com/banners/posters/305074-4.jpg</thumb>
+  <thumb aspect="poster" season="2" type="season">https://artworks.thetvdb.com/banners/v4/series/305074/posters/61217937d6a15.jpg</thumb>
+  <fanart>
+    <thumb>https://artworks.thetvdb.com/banners/fanart/original/5bb671445b898.jpg</thumb>
+  </fanart>
+  <mpaa/>
+  <certification/>
+  <id/>
+  <imdbid/>
+  <tmdbid/>
+  <premiered/>
+  <status>Unknown</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Animation</genre>
+  <genre>Anime</genre>
+  <genre>Comedy</genre>
+  <genre>Science Fiction</genre>
+  <studio>Johker - Fan-Kai</studio>
+  <country/>
+  <actor>
+    <name>Akeno Watanabe</name>
+    <role>Izuku Midoriya</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/306390/61a66cd70031c.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Sachi Kokuryuu</name>
+    <role>Katsuki Bakugou</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/303207/5f6e1a73d949d.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ayane Sakura</name>
+    <role>Ochako Uraraka</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/307452/61a62ddf7c7ef.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kenta Miyake</name>
+    <role>All Might</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/303226/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuki Kaji</name>
+    <role>Shouto Todoroki</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/293452/61e6e6287c8a8.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kouki Uchiyama</name>
+    <role>Tomura Shigaraki</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/7884585/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Akio Ootsuka</name>
+    <role>All for One</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/7913792/primary.jpg</thumb>
+  </actor>
+  <trailer/>
+  <dateadded>2016-03-04 16:55:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+</tvshow>

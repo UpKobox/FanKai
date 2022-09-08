@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-28 18:22:38 - tinyMediaManager 4.3.3-->
+<tvshow>
+  <title>Reborn! Kaï</title>
+  <originaltitle/>
+  <showtitle>Reborn! Kaï</showtitle>
+  <sorttitle/>
+  <year>2006</year>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <outline/>
+  <plot>Tsunayoshi "Tsuna" Sawada est un jeune collégien particulièrement incapable, que ce soit en études, en sport, ou en relations sociales. Un jour, un tuteur lui est envoyé d'Italie, il s'agit de Reborn, un bébé tueur à gages, homme de main de la famille mafieuse Vongola, venu pour le rendre apte à devenir le prochain parrain de la famille dont il s'avère qu'il est l'héritier lointain.</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <thumb aspect="poster">https://static.wikia.nocookie.net/fan-kai/images/d/d6/Reborn_kai_affiche.webp/revision/latest?cb=20220115004150&amp;path-prefix=fr</thumb>
+  <thumb aspect="poster" season="1" type="season">https://artworks.thetvdb.com/banners/series/80975/seasons/619828/posters/5f3c217f7cd83.jpg</thumb>
+  <thumb aspect="poster" season="2" type="season">https://artworks.thetvdb.com/banners/series/80975/seasons/29735/posters/5f3c2158e6844.jpg</thumb>
+  <thumb aspect="poster" season="3" type="season">https://artworks.thetvdb.com/banners/posters/80975-2.jpg</thumb>
+  <thumb aspect="poster" season="4" type="season">https://artworks.thetvdb.com/banners/series/80975/posters/62013522.jpg</thumb>
+  <thumb aspect="poster" season="5" type="season">https://artworks.thetvdb.com/banners/series/80975/posters/5f3c22e0ed199.jpg</thumb>
+  <thumb aspect="poster" season="6" type="season">https://artworks.thetvdb.com/banners/series/80975/posters/62013526.jpg</thumb>
+  <thumb aspect="poster" season="7" type="season">https://artworks.thetvdb.com/banners/series/80975/posters/601822d8d048f.jpg</thumb>
+  <fanart>
+    <thumb>https://artworks.thetvdb.com/banners/fanart/original/80975-4.jpg</thumb>
+  </fanart>
+  <mpaa/>
+  <certification/>
+  <id/>
+  <imdbid/>
+  <tmdbid/>
+  <premiered/>
+  <status>Unknown</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Animation</genre>
+  <genre>Anime</genre>
+  <genre>Comedy</genre>
+  <genre>Fantasy</genre>
+  <studio>Kadero_san - Fan-Kai</studio>
+  <country/>
+  <actor>
+    <name>Neeko</name>
+    <role>Reborn</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/7943453/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yukari Kokubun</name>
+    <role>Tsuna Sawada</role>
+    <thumb>https://artworks.thetvdb.com/banners/actors/549531.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hidekazu Ichinose</name>
+    <role>Hayato Gokudera</role>
+    <thumb>https://artworks.thetvdb.com/banners/actors/551471.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Suguru Inoue</name>
+    <role>Takeshi Yamamoto</role>
+    <thumb>https://artworks.thetvdb.com/banners/actors/513658.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hidenobu Kiuchi</name>
+    <role>Ryōhei Sasagawa</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/280709/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Junko Takeuchi</name>
+    <role>Lambo (enfant)</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/7903091/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kenjirou Tsuda</name>
+    <role>Lambo (adulte)</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/303154/61a0c5b34437f.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Satomi Akesaka</name>
+    <role>Chrome Dokuro</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/7924219/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Takashi Kondou</name>
+    <role>Kyouya Hibari</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/7882282/620e1123a7722.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Toshinobu Iida</name>
+    <role>Mukuro Rokudo</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/7997732/primary.jpg</thumb>
+  </actor>
+  <trailer/>
+  <dateadded>2022-08-28 18:12:49</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+</tvshow>

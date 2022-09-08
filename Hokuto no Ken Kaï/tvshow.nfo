@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-28 21:50:33 - tinyMediaManager 4.3.3-->
+<tvshow>
+  <title>Hokuto No Ken Kaï</title>
+  <originaltitle/>
+  <showtitle>Hokuto No Ken Kaï</showtitle>
+  <sorttitle/>
+  <year>1984</year>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <outline/>
+  <plot>Dans les années 1990, une guerre nucléaire dévaste la surface de la terre. Le désert recouvre une grande partie du monde, l'eau est devenue bien plus précieuse que l'or et l'argent. L'anarchie règne. Dans ce monde erre, solitaire, Kenshirô (dit Ken). Il est l'héritier du Hokuto Shinken, un kung fu d'assassins transmis de génération en génération depuis 1800 ans à une seule personne. Cependant, Ken utilise cet art pour défendre les innocents face aux hordes de bandits, tyrans, et autres maîtres d'arts martiaux.</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <thumb aspect="poster">https://static.wikia.nocookie.net/fan-kai/images/9/9e/Hnk_kai_affiche.webp/revision/latest?cb=20220114234450&amp;path-prefix=fr</thumb>
+  <thumb aspect="poster" season="1" type="season">https://artworks.thetvdb.com/banners/posters/5c320a2d54359.jpg</thumb>
+  <thumb aspect="poster" season="2" type="season">https://artworks.thetvdb.com/banners/posters/5c320a137ba93.jpg</thumb>
+  <thumb aspect="poster" season="3" type="season">https://artworks.thetvdb.com/banners/posters/5c320a2055b48.jpg</thumb>
+  <thumb aspect="poster" season="4" type="season">https://artworks.thetvdb.com/banners/posters/5c277ef06fa90.jpg</thumb>
+  <thumb aspect="poster" season="5" type="season">https://artworks.thetvdb.com/banners/posters/79156-1.jpg</thumb>
+  <thumb aspect="poster" season="6" type="season">https://artworks.thetvdb.com/banners/posters/5c277efd040f4.jpg</thumb>
+  <fanart>
+    <thumb>https://artworks.thetvdb.com/banners/fanart/original/79156-14.jpg</thumb>
+  </fanart>
+  <mpaa/>
+  <certification/>
+  <id/>
+  <imdbid/>
+  <tmdbid/>
+  <premiered/>
+  <status>Unknown</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Animation</genre>
+  <genre>Anime</genre>
+  <genre>Drama</genre>
+  <genre>Science Fiction</genre>
+  <studio>Illuzionn - Fan-Kai</studio>
+  <country/>
+  <actor>
+    <name>Akira Kamiya</name>
+    <role>Kenshirô</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/8161815/61fba1fd433ff.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Suzuki Tomiko</name>
+    <role>Lynn</role>
+    <thumb>https://static.wikia.nocookie.net/dragonball/images/1/14/Tomiko_Suzuki_2.jpg/revision/latest?cb=20220312202924&amp;path-prefix=fr</thumb>
+  </actor>
+  <actor>
+    <name>Teiyuu Ichiryuusai</name>
+    <role>Batt</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/7993792/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kaneto Shiozawa</name>
+    <role>Rei</role>
+    <thumb>https://m.media-amazon.com/images/M/MV5BNjI1YTZjY2UtMzNkMC00MDY5LWFiMjgtMDQ5NjM1Mjg2MWJmXkEyXkFqcGdeQXVyMzM4MjM0Nzg@._V1_UX178_CR0,0,178,264_AL_.jpg</thumb>
+  </actor>
+  <trailer/>
+  <dateadded>1984-10-11 21:04:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+</tvshow>

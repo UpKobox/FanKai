@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:39:16 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Les Artisans de Tom</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>4</season>
+  <episode>29</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>La transformation de Rob Lucci provient d'un Fruit du Démon de type Zoan : le Neko Neko no Mi, modèle: Léopard. Lucci se débarrasse rapidement de l'Équipage du Chapeau de Paille et les autres agents du CP9 attachent Pauly et Icebarg, les laissant à la merci du bâtiment en flamme. Dans l'entrepôt de Franky, Usopp raconte sa malheureuse histoire à Franky, ce dernier, ému, lui parle un petit peu des contributions de Tom pour Water Seven.&#13;
+&#13;
+Ce film couvre les épisodes 246 à 251 soit les chapitres 350 à 358.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/e/e3/One_piece_ultime_pack_affiche_29.webp/revision/latest/scale-to-width-down/1000?cb=20220811200307&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2021-07-27</premiered>
+  <aired>2021-07-27</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:21</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Yabai - 029 - Les Artisans de Tom - 1080p.MULTI.x264 [Johker].mkv</original_filename>
+  <user_note/>
+</episodedetails>

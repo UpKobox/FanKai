@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:21:15 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Le rideau se lève sur une nouvelle aventure</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>9</season>
+  <episode>98</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Alors que son navire vogue vers Zo, Bartolomeo raconte l'histoire de l'Équipage de Chapeau de paille à ses hommes. Pendant ce temps, au nouveau Quartier Général de la Marine, Kizaru parle avec des soldats des actions destructrices d'Edward Weeble sur les anciens alliés de Barbe Blanche. Luffy et Bartolomeo finissent par arriver à Zo, qui est un gigantesque éléphant.&#13;
+&#13;
+Ce film couvre les épisodes 747 puis 751 à 755 soit les chapitres 802 à 806.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:23</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Kaï - 098 - Le rideau se lève sur une nouvelle aventure - 720p.VOSTFR.x264 [Zdk].mkv</original_filename>
+  <user_note/>
+</episodedetails>

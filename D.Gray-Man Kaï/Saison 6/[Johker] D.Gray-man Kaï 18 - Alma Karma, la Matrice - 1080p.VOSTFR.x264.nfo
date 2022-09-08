@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:25 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Alma Karma, la Matrice</title>
+  <originaltitle/>
+  <showtitle>D.Gray-Man Kaï</showtitle>
+  <season>6</season>
+  <episode>18</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Des éléments du passé de Kanda refont surface, et viennent se mêler aux plans du Comte Millénaire...&#13;
+&#13;
+Ce film couvre les épisodes 107 à 112.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/5/5a/D.gray_man_kai_affiche_18.webp/revision/latest/scale-to-width-down/1000?cb=20220810224719&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2022-01-23</premiered>
+  <aired>2022-01-23</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Johker - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 01:31:48</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Johker] D.Gray-man Kaï 18 - Alma Karma, la Matrice - 1080p.VOSTFR.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

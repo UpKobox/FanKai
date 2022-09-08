@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-27 14:46:38 - tinyMediaManager 4.3.3-->
+<tvshow>
+  <title>Tower Of God Henshû</title>
+  <originaltitle/>
+  <showtitle>Tower Of God Henshû</showtitle>
+  <sorttitle/>
+  <year>2020</year>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <outline/>
+  <plot>Afin de retrouver Rachel, la seule personne chère à ses yeux, Bam décide de prendre tous les risques pour atteindre le sommet d’une mystérieuse tour. Pour passer chaque étage, il devra réussir un test complexe dans lequel il jouera à chaque fois sa vie. Bam en sortira t-il indemne ?</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <thumb aspect="poster">https://static.wikia.nocookie.net/fan-kai/images/c/c8/Tog_henshu_affiche.webp/revision/latest?cb=20220115004150&amp;path-prefix=fr</thumb>
+  <thumb aspect="banner">https://artworks.thetvdb.com/banners/series/376729/banners/5f2ec31bba107.jpg</thumb>
+  <thumb aspect="poster" season="1" type="season">https://artworks.thetvdb.com/banners/v4/season/1819691/posters/60be14c7b2fa4.jpg</thumb>
+  <fanart>
+    <thumb>https://artworks.thetvdb.com/banners/v4/series/376729/backgrounds/615f0b37151a9.jpg</thumb>
+  </fanart>
+  <mpaa/>
+  <certification/>
+  <id/>
+  <imdbid/>
+  <tmdbid/>
+  <premiered/>
+  <status>Unknown</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Animation</genre>
+  <genre>Anime</genre>
+  <genre>Drama</genre>
+  <genre>Fantasy</genre>
+  <genre>Mystery</genre>
+  <studio>Roro - Fan-Kai</studio>
+  <country/>
+  <actor>
+    <name>Taichi Ichikawa</name>
+    <role>Baam</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/7965252/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Saori Hayami</name>
+    <role>Rachel</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/7868605/61c86c09bab90.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Nobuhiko Okamoto</name>
+    <role>Aguero Agnis Khun</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/303207/5f6e1a73d949d.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kenta Miyake</name>
+    <role>Rak Wraithraiser</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/303226/primary.jpg</thumb>
+  </actor>
+  <trailer/>
+  <dateadded>2020-10-05 15:33:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+</tvshow>

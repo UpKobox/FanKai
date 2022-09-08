@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-27 14:45:25 - tinyMediaManager 4.3.3-->
+<tvshow>
+  <title>Monster Kaï</title>
+  <originaltitle/>
+  <showtitle>Monster Kaï</showtitle>
+  <sorttitle/>
+  <year>2004</year>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <outline/>
+  <plot>L'histoire se déroule en Allemagne, en 1986, à Düsseldorf. Kenzo Tenma, le personnage principal, est un jeune neurochirurgien très talentueux, destiné à une brillante carrière et fiancé à la fille du directeur de l'hôpital, Eva Heinman. Mais un jour il refuse de soigner le maire et préfère soigner un garçon blessé d'une balle dans la tête. Sa sœur jumelle est aussi internée dans l'hôpital car elle est très choquée. Leurs parents (adoptifs) ont été assassinés sauvagement. Le garçon s'en sort, mais le maire meurt, faute de soins. Tenma est alors rétrogradé par le directeur de l'hôpital et Eva le quitte. Peu de temps après, le garçon et sa sœur disparaissent. Neuf ans plus tard alors que Tenma est sur le point de devenir le directeur d'hôpital, il est accusé de meurtre qui ont en fait été commis par Johann, ce garçon de 11 ans qu'il avait sauvé. Dès lors l'inspecteur Rünge, un homme de caractère et de confiance prend en charge l'enquête. Il poursuit Tenma sans relâche tandis que ce-dernier poursuit Johann ; car Tenma, qui se demande s'il n'a pas sauvé un "Monstre", sait que les meurtres sont "l'œuvre" de son ancien patient.</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <thumb aspect="poster">https://static.wikia.nocookie.net/fan-kai/images/2/26/Monster_kai_affiche.webp/revision/latest?cb=20220115002613&amp;path-prefix=fr</thumb>
+  <thumb aspect="banner">https://artworks.thetvdb.com/banners/graphical/74599-g.jpg</thumb>
+  <namedseason number="1">Allemagne</namedseason>
+  <thumb aspect="poster" season="1" type="season">https://artworks.thetvdb.com/banners/posters/5cb10bc66cb9f.jpg</thumb>
+  <fanart>
+    <thumb>https://artworks.thetvdb.com/banners/v4/series/74599/backgrounds/6103be0289cb0.jpg</thumb>
+  </fanart>
+  <mpaa/>
+  <certification/>
+  <id/>
+  <imdbid/>
+  <tmdbid/>
+  <premiered/>
+  <status>Unknown</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Animation</genre>
+  <genre>Anime</genre>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Horror</genre>
+  <genre>Mystery</genre>
+  <genre>Thriller</genre>
+  <studio>Avalokitesvara - Fan-Kai</studio>
+  <country/>
+  <actor>
+    <name>Hidenobu Kiuchi</name>
+    <role>Kenzou Tenma</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/280709/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Nozomu Sasaki</name>
+    <role>Johan Liebert</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/271002/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mamiko Noto</name>
+    <role>Anna Liebert</role>
+    <thumb>https://artworks.thetvdb.com/banners/v4/actor/293451/photo/62ebe27cdce53.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Tsutomu Isobe</name>
+    <role>Heinrich Lunge</role>
+    <thumb>https://artworks.thetvdb.com/banners/v4/actor/574514/photo/61f6305e2d5f7.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mami Koyama</name>
+    <role>Eva Heinemann</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/343715/62aaf311c17af.jpg</thumb>
+  </actor>
+  <trailer/>
+  <dateadded>2004-06-04 00:27:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+</tvshow>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:36:18 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Lumière et Ténèbres</title>
+  <originaltitle/>
+  <showtitle>Fairy Tail Kaï</showtitle>
+  <season>2</season>
+  <episode>8</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Alors que Wendy vient de sauver Erza de justesse, une colonne de lumière noire s'envole vers le ciel ! Quel mauvais présage ! Serait-ce le début de la fin ?&#13;
+&#13;
+Ce film couvre les épisodes 57 à 62 soit les chapitres 141 à 152.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2018-10-06</premiered>
+  <aired>2018-10-06</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Avalokitesvara - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 14:51:25</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Avalokitesvara] Fairy Tail Kai - 08 - Lumière et Ténèbres - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

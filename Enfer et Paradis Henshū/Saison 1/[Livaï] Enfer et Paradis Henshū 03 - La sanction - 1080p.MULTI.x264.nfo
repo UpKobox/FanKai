@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:34 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>La sanction</title>
+  <originaltitle/>
+  <showtitle>Enfer Et Paradis Henshû</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Maya a terminé de revenir sur le passé. Maintenant, le club de Juyken est en danger, après l'incident du bowling, de nombreux groupes veulent prouver qu'ils sont plus fort que le club de Juyken et les professeurs du lycée décident de renvoyer Maya pour la sanctionner des dommages qu'elle a occasionnés.&#13;
+&#13;
+Ce film couvre les épisodes 16 à 18.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/0/0d/Enfer_et_paradis_henshu_affiche_03.webp/revision/latest/scale-to-width-down/1000?cb=20220810230227&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2022-01-19</premiered>
+  <aired>2022-01-19</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Livai - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 00:59:27</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Livaï] Enfer et Paradis Henshū 3 - La sanction - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

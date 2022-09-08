@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:40:56 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Le Jugement Divin</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>3</season>
+  <episode>18</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Le Vogue Merry est lancé jusqu'à la mer Blanche, où les Pirates du Chapeau de Paille rencontrent des créatures étranges et des personnes dangereuses, avant d'atteindre les portes de l'île céleste de Skypiea.&#13;
+&#13;
+Ce film couvre les 153 à 164 soit les chapitres 237 à 251.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/1/1d/One_piece_ultime_pack_affiche_18.webp/revision/latest/scale-to-width-down/1000?cb=20220811200307&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2019-05-30</premiered>
+  <aired>2019-05-30</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:25</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Yabai - 018 - Le Jugement Divin - 1080p.MULTI.x264 [Mixouille].mkv</original_filename>
+  <user_note/>
+</episodedetails>

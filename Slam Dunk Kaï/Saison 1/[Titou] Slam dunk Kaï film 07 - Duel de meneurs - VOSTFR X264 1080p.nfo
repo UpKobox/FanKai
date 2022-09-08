@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 14:53:26 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Duel de Meneurs</title>
+  <originaltitle/>
+  <showtitle>Slam Dunk Kaï</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Sakuragi est dans tous ses états suite aux évènements du match précédent, afin de se remettre, il décide de changer son apparence.&#13;
+&#13;
+Ce film couvre les épisodes 60 à 66.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2020-12-09</premiered>
+  <aired>2020-12-09</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Titou - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-22 21:16:07</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Titou] Slam dunk Kaï Film 7 - Duel de meneurs - VOSTFR X264 1080p.mkv</original_filename>
+  <user_note/>
+</episodedetails>

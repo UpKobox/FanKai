@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 15:58:27 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Fullbring</title>
+  <originaltitle/>
+  <showtitle>Bleach Kaï</showtitle>
+  <season>4</season>
+  <episode>26</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Dix-sept mois après la guerre contre les Arrancars et Aizen, Ichigo redevient un lycéen normal, incapable de voir les fantômes. C'est au fond la vie dont il a toujours rêvé. Les seules traces qu'il garde de son passé de Shinigami sont le badge de Shinigami remplaçant, l'adresse et la condition physique qu'il a acquises grâce à son entrainement. Désormais, en 3ème année au Lycée de Karakura, les équipes des différents clubs sportifs de la ville proposent à Ichigo de les rejoindre contre rémunération. Alors qu'il se balade dans la rue accompagné de Keigo et Mizuiro, un homme se fait voler son sac. Ichigo règle le compte du voleur et restitue le sac à sa victime. Les amis du voleur se rendent au lycée pour venger leur ami mais Ishida les éloigne. Dorénavant, Ishida est chargé de tuer les Hollows qui étaient à la charge de Kurosaki auparavant. De plus, la victime du vol connaît le nom d'Ichigo Kurosaki et recherche quelque chose à son sujet.&#13;
+&#13;
+Ce film couvre les épisodes 343 à 350.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-20 15:31:49</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Mixouille] Bleach Kai - 26 - Fullbring - 720p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

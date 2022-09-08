@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-28 18:54:43 - tinyMediaManager 4.3.3-->
+<tvshow>
+  <title>Food Wars Kaï</title>
+  <originaltitle/>
+  <showtitle>Food Wars Kaï</showtitle>
+  <sorttitle/>
+  <year>2015</year>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <outline/>
+  <plot>Sôma a grandi dans les cuisines du restaurant familial et se prépare depuis toujours à prendre la succession. Mais son quotidien est bouleversé quand son père accepte un poste dans un palace new-yorkais. Le jeune garçon est alors envoyé dans une prestigieuse école culinaire. Bien décidé à ne pas décevoir sa famille, Sôma devra rivaliser de génie pour s’imposer parmi les meilleurs espoirs.</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <thumb aspect="poster">https://static.wikia.nocookie.net/fan-kai/images/6/61/Food_wars_kai_affiche.webp/revision/latest?cb=20220114232915&amp;path-prefix=fr</thumb>
+  <thumb aspect="poster" season="1" type="season">https://artworks.thetvdb.com/banners/posters/289909-13.jpg</thumb>
+  <fanart>
+    <thumb>https://artworks.thetvdb.com/banners/fanart/original/289909-3.jpg</thumb>
+  </fanart>
+  <mpaa/>
+  <certification/>
+  <id/>
+  <imdbid/>
+  <tmdbid/>
+  <premiered/>
+  <status>Unknown</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Animation</genre>
+  <genre>Anime</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <genre>Fantasy</genre>
+  <genre>Nourriture</genre>
+  <genre>Thriller</genre>
+  <studio>Roro - Fan-Kai</studio>
+  <country/>
+  <actor>
+    <name>Yoshitsugu Matsuoka</name>
+    <role>Soma</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/292644/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hisako Kanemoto</name>
+    <role>Erina</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/289879/61a0cf5b49d13.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Minami Takahashi</name>
+    <role>Megumi</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/459842/61a4e0ffbdf85.jpg</thumb>
+  </actor>
+  <trailer/>
+  <dateadded>2015-03-03 18:49:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+</tvshow>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:32:29 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Duval</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>6</season>
+  <episode>43</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Sengoku, l'Amiral en chef de la Marine, se plaint de l'indulgence qu'a fait preuve Kuma envers les Chapeaux de Paille. Cependant, Garp, le grand père de Luffy est convaincu que son petit fils ne se vantera pas de sa victoire contre Moria. De leur côté, les Chapeaux de Paille atteignent Red Line, l'autre côté du monde, d'où ils sont entrés sur Grand Line, et réfléchissent brièvement par quel moyen ils sont venus et jusqu'où ils doivent aller.&#13;
+&#13;
+Ce film couvre les épisodes 385 à 392 soit les chapitres 490 à 498.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:28</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Kaï - 043 - Arc Duval - 720p.VOSTFR.x264 [Knuckalex].mkv</original_filename>
+  <user_note/>
+</episodedetails>

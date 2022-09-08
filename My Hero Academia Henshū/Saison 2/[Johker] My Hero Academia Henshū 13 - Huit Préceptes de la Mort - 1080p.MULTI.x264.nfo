@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:45:12 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Huit Préceptes de la Mort</title>
+  <originaltitle/>
+  <showtitle>My Hero Academia Henshû</showtitle>
+  <season>2</season>
+  <episode>13</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Maintenant que la mission de sauvetage d'Eri a été officiellement annoncée, il faut désormais trouver où la petite fille est retenue prisonnière. En attendant, les élèves en apprentissage ont interdiction d'en parler à qui que ce soit, même entre eux. Ce lourd secret et les révélations à répétition commencent à peser sur Izuku. Mais bientôt, l'alerte va sonner et il va être temps de passer à l'action...&#13;&#13;
+&#13;&#13;
+Ce film couvre les épisodes 70 à 78.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/c/c8/My_hero_academia_henshu_affiche_13.webp/revision/latest?cb=20220810234523&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2020-04-01</premiered>
+  <aired>2020-04-01</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Johker - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-20 17:09:45</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Johker] My Hero Academia Henshū 13 - Huit Préceptes de la Mort - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

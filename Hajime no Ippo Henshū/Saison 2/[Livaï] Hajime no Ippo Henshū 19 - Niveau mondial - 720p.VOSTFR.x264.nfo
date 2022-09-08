@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:39:13 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Niveau mondial</title>
+  <originaltitle/>
+  <showtitle>Hajime No Ippo Henshû</showtitle>
+  <season>2</season>
+  <episode>19</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>On retrouve notre boulimique de boxe en pleine pêche collective en mer. Les discussions s'orientent rapidement autour du sparring contre le champion mondial. Umezawa est persuadé qu' Ippo peut mettre à mal Martinez en donnant son maximum, ce dernier prend dès lors conscience de son opportunité. A l'aéroport de Tokyo, la presse est présente pour mitrailler l'arrivée de la légende impassible : Ricardo Martinez, ainsi que celle de son manager, Bill Stewart, connu pour avoir réussi à a mener 7 boxeurs au titre suprême.&#13;&#13;
+&#13;&#13;
+Ce film couvre les épisodes 5 à 8 de la saison 2.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2021-10-21</premiered>
+  <aired>2021-10-21</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Livai - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 16:37:10</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Livaï] Hajime no Ippo Henshū 19 - Niveau mondial - 720p.VOSTFR.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

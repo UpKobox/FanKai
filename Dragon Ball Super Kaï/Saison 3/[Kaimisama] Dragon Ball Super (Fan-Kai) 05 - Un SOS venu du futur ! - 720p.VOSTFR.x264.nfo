@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:11:14 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Un SOS venu du futur</title>
+  <originaltitle/>
+  <showtitle>Dragon Ball Super Kaï</showtitle>
+  <season>3</season>
+  <episode>5</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>17 ans dans le futur, Trunks fait face à un terrible nouvel ennemi. Un homme nommé "Black" apparaît. Trunks essaie de se défendre. Il se fait écraser, même en Super Saiyan. Bulma est alors résolu à recréer une machine à remonter le temps pour demander de l'aide à Goku et Vegeta du passé, mais 6 mois après, elle n'arrive toujours pas à terminer sa machine. Elle a juste assez de carburant pour faire un aller simple dans le passé... C'est alors que "Black" apparaît à nouveau devant Bulma et Trunks !!"&#13;
+&#13;
+Ce film couvre les épisodes 47 à 57.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2018-09-01</premiered>
+  <aired>2018-09-01</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Kaimisama - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-27 18:34:12</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Kaimisama] Dragon Ball Super (Fan-Kai) 05 - Un SOS venu du futur ! - 720p.VOSTFR.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

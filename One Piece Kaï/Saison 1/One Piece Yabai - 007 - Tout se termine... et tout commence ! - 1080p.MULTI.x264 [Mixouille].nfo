@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 14:53:19 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Tout se termine... et tout commence !</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>1</season>
+  <episode>7</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Kobby et Hermep sont désormais des membres à part entière de la Marine et essaie, tant bien que mal et chacun à leur manière, de s'adapter à leur nouvelles fonctions. Un jour, ils font partie de l'équipage du navire chargé de remettre Morgan, l'ancien chef de la base, au Vice-Amiral Garp du QG de la Marine. Mais les choses tournent mal...&#13;
+&#13;
+Ce film couvre les épisodes 68, 69, 46 et 47 puis 45 à 53 soit des couvertures de chapitres puis les chapitres 45 à 53.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/8/80/One_piece_ultime_pack_affiche_07.webp/revision/latest/scale-to-width-down/1000?cb=20220811200306&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2019-02-07</premiered>
+  <aired>2019-02-07</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:24</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Yabai - 007 - Tout se termine... et tout commence ! - 1080p.MULTI.x264 [Mixouille].mkv</original_filename>
+  <user_note/>
+</episodedetails>

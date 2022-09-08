@@ -1,0 +1,4 @@
+S1 = Son Goku - Films 1 à 2
+S2 = Tenkaichi Budokai - Films 3 à 4
+S3 = Red Ribon (ou Ruban Rouge) - Films 5 à 9
+S4 = Piccolo - Films 10 à 14

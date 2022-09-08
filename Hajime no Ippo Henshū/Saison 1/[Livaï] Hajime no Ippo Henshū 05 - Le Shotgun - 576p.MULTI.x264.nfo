@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:42 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Le Shotgun</title>
+  <originaltitle/>
+  <showtitle>Hajime No Ippo Henshû</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Face au champion en titre, Takamura a été mis en difficulté et s'est pris un down. Mais il s'est relevé, et le combat reprend.Le champion attaque, et Takamura évite tout ses coups en reculant. Il lance alors un uppercut surpuissant, et enchaîne les gauches-droites avec une extrême violence !! L'arbitre finit par s'interposer, le champion en titre s'effondre sur le ring, inconscient. Takamura s'empare donc de la ceinture de Champion National du Japon Catégorie poids Moyen en seulement 90 secondes...&#13;
+&#13;
+Ce film couvre les épisodes 20 à 22 soit les chapitres 50 à 64 de la saison 1.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2020-04-17</premiered>
+  <aired>2020-04-17</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Livai - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 16:37:10</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Livaï] Hajime no Ippo Henshū 05 - Le Shotgun - 576p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

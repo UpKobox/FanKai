@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:20:59 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Un serment entre hommes</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>9</season>
+  <episode>102</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Après avoir décrypté le Road Ponéglyphe, les Chapeau de Paille en apprennent plus sur Oden Kozuki, ce dernier s'était rendu sur Raftel avec le Roi des Pirates, Gol D. Roger, il a par la suite été exécuté des mains du Shogun du Pays des Wa et de l'Empereur Kaido qui occupe actuellement le Royaume des Samouraï. Momonosuké demande de l'aide auprès de Luffy pour terrasser Kaido, c'est alors que se forme l'Alliance Pirate-Minks-Samouraï-Ninja.&#13;
+&#13;
+Ce film couvre les épisodes 771 à 774 soit les chapitres 819 à 821.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:24</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Kaï - 102 - Un serment entre hommes - 720p.VOSTFR.x264 [Zdk].mkv</original_filename>
+  <user_note/>
+</episodedetails>

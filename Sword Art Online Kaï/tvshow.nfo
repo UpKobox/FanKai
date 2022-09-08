@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-22 23:46:44 - tinyMediaManager 4.3.2-->
+<tvshow>
+  <title>Sword Art Online Kaï</title>
+  <originaltitle/>
+  <showtitle>Sword Art Online Kaï</showtitle>
+  <sorttitle/>
+  <year>2012</year>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <outline/>
+  <plot>En 2022, l'humanité a réussi à créer une réalité virtuelle. Grâce à un casque, les humains peuvent se plonger entièrement dans le monde virtuel en étant comme déconnectés de la réalité, et Sword Art Online est le premier MMORPG a utiliser ce système. Mais voila que le premier jour de jeu, 10 000 personnes se retrouvent piégées dans cette réalité virtuelle par son créateur : Akihiko Kayaba. Le seul moyen d'en sortir est de finir le jeu. Mais ce ne sera pas facile de sortir de ce monde virtuel puisque si un joueur perd la partie, il meurt également dans la vraie vie. Kirito décide alors de partir à la conquête du jeu en solo, avec pour avantage le fait de faire partie des 1 000 ex-bêta-testeurs, mais arrivera-t-il à terminer les 99 donjons et leurs boss ?</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <thumb aspect="poster">https://static.wikia.nocookie.net/fan-kai/images/f/f0/Sao_kai_affiche.webp/revision/latest?cb=20220115004150&amp;path-prefix=fr</thumb>
+  <thumb aspect="banner">https://artworks.thetvdb.com/banners/graphical/259640-g6.jpg</thumb>
+  <namedseason number="1">Sword Art Online</namedseason>
+  <namedseason number="2">Gun Gale Online</namedseason>
+  <namedseason number="3">Aincrad - Caliber</namedseason>
+  <namedseason number="4">Alicization</namedseason>
+  <namedseason number="5">Alicization War of Underworld</namedseason>
+  <thumb aspect="poster" season="1" type="season">https://artworks.thetvdb.com/banners/posters/259640-7.jpg</thumb>
+  <thumb aspect="poster" season="2" type="season">https://artworks.thetvdb.com/banners/posters/259640-6.jpg</thumb>
+  <thumb aspect="poster" season="3" type="season">https://artworks.thetvdb.com/banners/series/259640/posters/62096370.jpg</thumb>
+  <thumb aspect="poster" season="4" type="season">https://artworks.thetvdb.com/banners/v4/series/259640/posters/61db4aa02d594.jpg</thumb>
+  <thumb aspect="poster" season="5" type="season">https://artworks.thetvdb.com/banners/series/259640/posters/62100045.jpg</thumb>
+  <fanart>
+    <thumb>https://artworks.thetvdb.com/banners/fanart/original/259640-7.jpg</thumb>
+  </fanart>
+  <mpaa/>
+  <certification/>
+  <id/>
+  <imdbid/>
+  <tmdbid/>
+  <premiered/>
+  <status>Unknown</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Animation</genre>
+  <genre>Anime</genre>
+  <genre>Fantasy</genre>
+  <genre>Romance</genre>
+  <genre>Science Fiction</genre>
+  <genre>Thriller</genre>
+  <studio>Roro - Fan-Kai</studio>
+  <country/>
+  <actor>
+    <name>Yoshitsugu Matsuoka</name>
+    <role>Kazuto Kirigaya</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/292644/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Haruka Tomatsu</name>
+    <role>Asuna Yuuki</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/715282/61c97a0f90cc6.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroaki Hirata</name>
+    <role>Klein</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/400074/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ayana Taketatsu</name>
+    <role>Suguha Kirigaya</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/302377/61e1ac092d2ca.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Miyuki Sawashiro</name>
+    <role>Sinon</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/292117/61b5c69902788.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ai Kayano</name>
+    <role>Alice</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/292641/5fa3f2947725e.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Nobunaga Shimazaki</name>
+    <role>Eugeo</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/292646/61e1ac7b7cefd.jpg</thumb>
+  </actor>
+  <trailer/>
+  <dateadded>2012-07-08 22:46:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+</tvshow>

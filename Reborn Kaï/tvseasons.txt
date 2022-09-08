@@ -1,0 +1,7 @@
+S1 = Daily Life - Films 1 à 3
+S2 = vs Kokuyô - Films 5 à 6
+S3 = vs VARIA - Films 6 à 11
+S4 = Futur (partie 1) : Introduction - Films 12 à 15
+S5 = Futur (partie 2) : La Base Melone - Films 16 à 19
+S6 = Futur (partie 3) : Choice - Films 20 à 21
+S7 = Futur (partie 4) : La bataille finale - Films 22 à 23

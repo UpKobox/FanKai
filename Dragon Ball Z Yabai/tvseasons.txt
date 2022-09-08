@@ -1,0 +1,6 @@
+S1 = Saiyens - Films 1 à 3
+S2 = Freezer - Films 4 à 8
+S3 = Cell - Films 9 à 14
+S4 = Boo - Films 15 à 22
+
+Le guide des épisodes inclus au sein des films sera à propos de Dragon Ball Z Kai officiel, duquel DBZ Yabai prend sa source.

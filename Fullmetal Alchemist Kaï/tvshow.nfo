@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-28 14:12:50 - tinyMediaManager 4.3.3-->
+<tvshow>
+  <title>Fullmetal Alchemist Kaï</title>
+  <originaltitle/>
+  <showtitle>Fullmetal Alchemist Kaï</showtitle>
+  <sorttitle/>
+  <year>2009</year>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <outline/>
+  <plot>Edward Elric et son frère Alphonse Elric sont de jeunes Alchimistes. En tentant de ramener leur mère à la vie, ils ont payé un lourd tribut, et ils tentent désormais de récupérer ce qu'ils ont perdu grâce à un objet légendaire : la Pierre Philosophale. Pour cela, Edward est devenu Alchimiste d'État : le Fullmetal Alchemist. Mais au cours de leurs recherches, bien des épreuves attendent les deux frères et des êtres étranges : les Homonculus, les poursuivent.</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <thumb aspect="poster">https://static.wikia.nocookie.net/fan-kai/images/8/82/Fma_kai_affiche.webp/revision/latest?cb=20220114232916&amp;path-prefix=fr</thumb>
+  <namedseason number="1">Phase 1 - Noir (Saturne)</namedseason>
+  <namedseason number="2">Phase 2 - Blanc (Lune)</namedseason>
+  <namedseason number="3">Phase 3 - Jaune (Vénus)</namedseason>
+  <namedseason number="4">Phase 4 - Rouge (Soleil)</namedseason>
+  <thumb aspect="poster" season="1" type="season">https://artworks.thetvdb.com/banners/posters/85249-12.jpg</thumb>
+  <thumb aspect="poster" season="2" type="season">https://artworks.thetvdb.com/banners/posters/5ca3b58b94b8b.jpg</thumb>
+  <thumb aspect="poster" season="3" type="season">https://artworks.thetvdb.com/banners/posters/85249-9.jpg</thumb>
+  <thumb aspect="poster" season="4" type="season">https://artworks.thetvdb.com/banners/v4/series/85249/posters/60aa221c60874.jpg</thumb>
+  <fanart>
+    <thumb>https://artworks.thetvdb.com/banners/fanart/original/85249-3.jpg</thumb>
+  </fanart>
+  <mpaa/>
+  <certification/>
+  <id/>
+  <imdbid/>
+  <tmdbid/>
+  <premiered/>
+  <status>Unknown</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Animation</genre>
+  <genre>Anime</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <genre>Fantasy</genre>
+  <genre>Science Fiction</genre>
+  <studio>Johker - Fan-Kai</studio>
+  <country/>
+  <actor>
+    <name>Romi Park</name>
+    <role>Edward Elric</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/7899825/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Rie Kugimiya</name>
+    <role>Alphonse Elric</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/322759/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Megumi Takamoto</name>
+    <role>Winry Rockbell</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/397949/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Shin'ichirou Miki</name>
+    <role>Roy Mustang</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/7874486/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kenta Miyake</name>
+    <role>Scar</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/303226/primary.jpg</thumb>
+  </actor>
+  <trailer/>
+  <dateadded>2009-04-05 13:36:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+</tvshow>

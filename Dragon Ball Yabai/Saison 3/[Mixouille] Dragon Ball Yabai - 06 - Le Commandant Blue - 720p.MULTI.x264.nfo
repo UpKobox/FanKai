@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:11:58 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Le Commandant Blue</title>
+  <originaltitle/>
+  <showtitle>Dragon Ball Yabai</showtitle>
+  <season>3</season>
+  <episode>6</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Avant son départ, un vieil homme annonce au jeune garçon que Kinto-un ne peut être détruit par une arme classique. Son Goku l'appelle et son nuage apparaît. Il fait ses adieux à tout le monde et part rejoindre Bulma pour qu'elle puisse réparer son radar. Arrivé en pleine ville, Son Goku est complètement perdu, trop de monde, trop de voitures, trop d'immeubles. Il n'est pas habitué à tout ça. Mais grâce à un policier, il retrouve la maison de Bulma : la Capsule Corporation. Pendant ce temps, le Général Red retrouve la trace de Son Goku.&#13;
+&#13;
+Ce film couvre les épisodes 43 à 57.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2018-06-01</premiered>
+  <aired>2018-06-01</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-27 17:18:00</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Mixouille] Dragon Ball Yabai - 06 - Le Commandant Blue - 720p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

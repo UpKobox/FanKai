@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:22 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>La Lune écarlate</title>
+  <originaltitle/>
+  <showtitle>Boruto Yabai</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>De retour à l'Académie Ninja après son exclusion de deux semaines, Boruto est soupçonné de favoritisme paternel par ses camarades. Parmi eux, le plus ouvertement critique est Iwabê, un élève aigri par ses échecs à l'examen final. Le fils du Hokage saura-t-il démontrer à tous qu'il n'est pas un "pistonné" ?&#13;
+&#13;
+Ce film couvre les épisodes 2 à 39.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/6/6b/Boruto_yabai_affiche_01.webp/revision/latest?cb=20220810222749&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2019-12-25</premiered>
+  <aired>2019-12-25</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Avalokitesvara - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 01:15:46</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Avalokitesvara] Boruto Yabai - 01 - La Lune Écarlate - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

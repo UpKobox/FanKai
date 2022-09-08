@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:44:54 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>My Vilain Academia</title>
+  <originaltitle/>
+  <showtitle>My Hero Academia Henshû</showtitle>
+  <season>2</season>
+  <episode>19</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>L'entraînement en commun entre les seconde A et seconde B est terminé. C'est la seconde A qui remporte la partie pour cette fois. Les élèves peuvent un peu décompresser et resserrer leurs liens. L'exercice aura été l'occasion pour Deku de se découvrir un nouveau pouvoir qu'il doit désormais apprendre à comprendre et maîtriser. Mais il n'est pas le seul, il faut également songer à aider Eri avec son Alter, au cas où ce dernier se réveillerait...&#13;&#13;
+&#13;&#13;
+Ce film couvre les épisodes 100, 102 et 108 à 113.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/a/aa/My_hero_academia_henshu_affiche_19.webp/revision/latest/scale-to-width-down/1000?cb=20220810234523&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2021-09-29</premiered>
+  <aired>2021-09-29</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Johker - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-20 17:09:44</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Johker] My Hero Academia Henshū 19 - My Villain Academia - 1080p.VOSTFR.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

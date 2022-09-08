@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:19:17 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Smile</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>9</season>
+  <episode>120</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Alors que les citoyens du village d'Ebisu pleurent la mort de Yasuie, Shinobu révèle la vérité les fruits SMILE, les fruits de démon artificiels créés par le scientifique César Clown. O-Toko court alors vers son père, de détresse. En voyant la petite fille, Orochi tente également de la tuer. Mais Zoro et Sanji interviennent et la sauvent.&#13;
+&#13;
+Ce film couvre les épisodes 941 à 949 soit les chapitres 943 à 949.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/0/03/One_piece_kai_affiche_120.webp/revision/latest/scale-to-width-down/1000?cb=20220811193202&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2021-03-30</premiered>
+  <aired>2021-03-30</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:22</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Kaï - 120 - Smile - 1080p.VOSTFR.x264 [Livaï].mkv</original_filename>
+  <user_note/>
+</episodedetails>

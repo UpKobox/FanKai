@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:38:56 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Un long, long voyage</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>4</season>
+  <episode>31</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Le train part du vieil entrepôt, passant par les égouts pour rejoindre la mer. Luffy, qui s'amuse comme toujours, la mamie essaye de placer le train sur les rails pour obtenir la vitesse maximale. Cependant, la petite fille qui s'était introduit sur le train, glisse et s'accroche désespérément. Alors Luffy arrive mais à ce moment-là, le train se met sur les rails et une fulgurante accélération fait envoler Luffy et Chimney mais ils sont rattraper par la Franky Family. Tout le monde se rejoint dans un wagon; Pauly, mais aussi les ingénieurs de la Galley-la Company sont à bords. Maintenant alliés, ils foncent dans la prochaine vague de l'Aqua Laguna. Pendant ce temps, Franky se remémore 4 ans auparavant, les retrouvailles avec Icebarg.&#13;
+&#13;
+Ce film couvre les épisodes 256 à 264 soit les chapitres 368 à 375.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/8/88/One_piece_ultime_pack_affiche_31.webp/revision/latest/scale-to-width-down/1000?cb=20220811200308&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2021-08-10</premiered>
+  <aired>2021-08-10</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:25</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Yabai - 031 - Un long, long voyage - 1080p.MULTI.x264 [Johker].mkv</original_filename>
+  <user_note/>
+</episodedetails>

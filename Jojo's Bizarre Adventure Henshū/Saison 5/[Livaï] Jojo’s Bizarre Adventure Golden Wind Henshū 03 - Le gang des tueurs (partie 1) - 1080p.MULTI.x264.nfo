@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:51 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Le Gang des tueurs (partie 1)</title>
+  <originaltitle/>
+  <showtitle>Jojo's Bizarre Adventure Henshû</showtitle>
+  <season>5</season>
+  <episode>3</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Pericolo, un capo de la famille Passione, est venu exprès sur l'île de Capri pour récupérer la fortune de Polpo. Buccellati la lui confiera, et se verra promu au rang de capo. Pericolo lui transmettra aussi le premier ordre du parrain : protéger sa fille.&#13;
+&#13;
+Ce film couvre les épisodes 9 à 15 de Golden Wind soit les chapitres 468 à 490.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2022-08-03</premiered>
+  <aired>2022-08-03</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Livai - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-19 21:42:14</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Livaï] Jojo’s Bizarre Adventure Golden Wind Henshū 3 - Le gang des tueurs (partie 1) - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

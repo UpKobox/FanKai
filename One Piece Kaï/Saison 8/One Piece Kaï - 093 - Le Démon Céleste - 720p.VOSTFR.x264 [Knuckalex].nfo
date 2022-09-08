@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:24:58 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Le Démon Céleste</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>8</season>
+  <episode>93</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Sur le Plateau du Roi, Viola annonce à tous que Luffy a vaincu Bellamy et qu'il ne restait plus que deux redoutables ennemis à abattre, à savoir Trebol et Doflamingo, et leur annonce froidement qu'ils viennent de perdre l'un des leurs. Il s'agit de Trafalgar Law dont le corps sans vie gît à même le sol sous le regard concupiscant de Doflamingo qui a hâte de voir comment va se comporter Luffy devant la perte de cet allié si cher.&#13;
+&#13;
+Ce film couvre les épisodes 721 à 728 soit les chapitres 780 à 786.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:23</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Kaï - 093 - Le Démon Céleste - 720p.VOSTFR.x264 [Knuckalex].mkv</original_filename>
+  <user_note/>
+</episodedetails>

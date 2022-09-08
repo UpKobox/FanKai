@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:57 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Statuettes</title>
+  <originaltitle/>
+  <showtitle>Nichijou Henshû</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Selamat pagi ! Des chèvres ? Qu'est ce qui ne va pas avec les chèvres ? Qu'est ce que KY signifie ? Je n'ai aucune capacité spéciale, mais mon orteil se détache.&#13;
+&#13;
+Ce film couvre les épisodes 1 à 6 puis 9, 11, 12, 15 et 17, soit le volume 1 du manga.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/1/1a/Nichijou_henshu_affiche_01.webp/revision/latest/scale-to-width-down/1000?cb=20220811002020&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2021-11-27</premiered>
+  <aired>2021-11-27</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Roro - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-19 13:11:02</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Roro] Nichijou Henshu 01 - Statuettes - VOSTFR 1080p x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

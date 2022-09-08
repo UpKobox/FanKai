@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 14:53:27 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Expérimentation</title>
+  <originaltitle/>
+  <showtitle>Soul Eater Kaï</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Maka et Black Star, bien décidés à devenir plus forts, demandent au professeur Stein de leur préparer un entrainement spécial. Pendant ce temps, Medusa est prise à parti par deux autres sorcières, Elka et Mizuné, qui ne voient pas d'un bon oeil son infiltration de Shibusen et ses expériences sur le Grand Dévoreur...&#13;
+&#13;
+Ce film couvre les épisodes 12 à 13 soit les chapitres 9 à 11.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/5/53/Soul_eater_kai_affiche_05.webp/revision/latest?cb=20220811004101&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2021-03-02</premiered>
+  <aired>2021-03-02</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Triggerforce - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-19 16:08:06</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Triggerforce]Soul Eater Kaï 05 - Expérimentation.mkv</original_filename>
+  <user_note/>
+</episodedetails>

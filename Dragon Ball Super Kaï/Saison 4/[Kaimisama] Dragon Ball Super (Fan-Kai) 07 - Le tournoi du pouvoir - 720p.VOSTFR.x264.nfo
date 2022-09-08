@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:11:07 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Le tournoi du pouvoir</title>
+  <originaltitle/>
+  <showtitle>Dragon Ball Super Kaï</showtitle>
+  <season>4</season>
+  <episode>7</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>La paix continue sur Terre et Goku sent son corps perdre en vitalité. Il décide d’aller sur la planète de Beerus pour s’entrainer de nouveau et se rappelle la promesse faîte par Zen’o : organiser un tournoi des arts martiaux inter-univers. Cependant, Beerus le déconseille d’en parler à Zen’o, les conséquences pouvant être catastrophiques.&#13;
+&#13;
+Ce film couvre les épisodes 77 à 82.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2018-09-29</premiered>
+  <aired>2018-09-29</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Kaimisama - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-27 18:34:12</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Kaimisama] Dragon Ball Super (Fan-Kai) 07 - Le tournoi du pouvoir - 720p.VOSTFR.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

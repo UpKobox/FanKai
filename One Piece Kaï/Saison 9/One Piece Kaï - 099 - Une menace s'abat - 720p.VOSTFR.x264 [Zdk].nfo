@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:21:12 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Une menace s'abat</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>9</season>
+  <episode>99</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Kinémon, Kanjuro et Bariete décident de rester sur le Thousand Sunny pour la nuit et de reprendre l'escalade le lendemain. Pendant ce temps, Brook, poursuivi par des minks chiens, rejoint le reste de l'équipage. Nami commence à raconter ce qu'il s'est passé 11 jours plus tôt, quand ils sont partis de Dressrosa après s'être faits attaqués par le navire de Big Mom. Elle révèle que Sanji a réussi à endommager le navire de leurs ennemis avant de s'échapper grâce à un brouillard créé par la navigatrice. Ils ont atteint Zo le lendemain et, selon Wanda, ils ont contribué à sauver le pays. Un mink chauve-souris les interrompt pour leur dire que le duc Caborage s'est réveillé. Alors que Chopper part à son chevet, Wanda révèle que le pays est gouverné par deux dirigeants : le Duc Caborage et le Maître Chavipère.&#13;
+&#13;
+Ce film couvre les épisodes 756 à 760 soit les chapitres 807 à 810.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:24</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Kaï - 099 - Une menace s'abat - 720p.VOSTFR.x264 [Zdk].mkv</original_filename>
+  <user_note/>
+</episodedetails>

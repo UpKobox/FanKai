@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 14:53:27 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Masamune, l'épée maudite</title>
+  <originaltitle/>
+  <showtitle>Soul Eater Kaï</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Tsubaki et Black Star partent chasser l'âme de Masamune, une arme démoniaque qui menace de se transformer en Grand Dévoreur. Toutefois, les habitants du village dans lequel ils arrivent croient reconnaître en Black Star un membre du Clan Astral, un groupe d'assassins, et les chassent tous deux. Alors qu'ils patientent à la lisière du village, Masamune fait son entrée et prend possession du corps de l'un des villageois...&#13;
+&#13;
+Ce film couvre les épisodes 10 à 11 soit les chapitres 7 à 8.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/a/a0/Soul_eater_kai_affiche_04.webp/revision/latest?cb=20220811004101&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2021-02-11</premiered>
+  <aired>2021-02-11</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Triggerforce - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-19 16:08:05</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Triggerforce]Soul Eater Kaï 04 - Masamune, l'épée maudite.mkv</original_filename>
+  <user_note/>
+</episodedetails>

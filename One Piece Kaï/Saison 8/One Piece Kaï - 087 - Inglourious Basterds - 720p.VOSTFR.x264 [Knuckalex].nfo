@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:28:44 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Inglorious Basterds</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>8</season>
+  <episode>87</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Alors que les civils et les marines sont forcés de se battre entre eux dans les rues de Dressrosa, Doflamingo révèle une liste de cibles à tuer qui consiste en les amis de l'équipage des Mugiwara ainsi que leurs alliés; étrangement, Usopp a la prime la plus haute. Robin, Usopp, Sabo, Koala et Hack se dirigent vers l'usine tandis que Bartolomeo retient les anciens jouets et que Kinemon se lance à la recherche de Kanjuro. Franky s'enfuit de la La Maison des Jouets pour aller détruire l'usine tandis que Trébol et Diamante rentrent au palais sur les ordres de Doflamingo. Au plateau de roi, Kyros quitte le groupe pour aller tuer Doflamingo. Tandis que Rebecca contacte Luffy pour savoir qui est réellement le Soldat Fureur Eclair, Luffy lui répond qu'il est en réalité son père. Il promet ensuite à la jeune fille d'aller tuer Doflamingo pour elle.&#13;
+&#13;
+Ce film couvre les épisodes 681 à 685 soit les chapitres 746 à 749.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:28</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Kaï - 087 - Inglourious Basterds - 720p.VOSTFR.x264 [Knuckalex].mkv</original_filename>
+  <user_note/>
+</episodedetails>

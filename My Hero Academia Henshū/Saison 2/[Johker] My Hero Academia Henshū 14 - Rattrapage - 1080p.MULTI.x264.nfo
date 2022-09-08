@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:45:09 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Rattrapage</title>
+  <originaltitle/>
+  <showtitle>My Hero Academia Henshû</showtitle>
+  <season>2</season>
+  <episode>14</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Après les événements perturbants liés au clan des Huit préceptes, il est temps pour les jeunes de Yuei de reprendre une vie normale, dans la mesure du possible. Mais le clan de yakuzas n'est pas la seule menace qui plane sur la société. L'Alliance des super-vilains court toujours et devient de plus en plus dangereuse...&#13;&#13;
+&#13;&#13;
+Ce film couvre les épisodes 78 à 80.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/e/ef/My_hero_academia_henshu_affiche_14.webp/revision/latest?cb=20220810234523&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2020-08-25</premiered>
+  <aired>2020-08-25</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Johker - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-20 17:09:45</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Johker] My Hero Academia Henshū 14 - Rattrapage - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

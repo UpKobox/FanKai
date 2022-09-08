@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-25 00:30:47 - tinyMediaManager 4.3.2-->
+<episodedetails>
+  <title>Dark Territory</title>
+  <originaltitle/>
+  <showtitle>Sword Art Online Kaï</showtitle>
+  <season>5</season>
+  <episode>16</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Le combat contre Administrator terminé, Alice vit aux abords de Rulid avec Kirito, qui a payé un lourd tribut au cours de son combat.
+
+Ce film couvre les épisodes 25 à 29 soit le volume 15.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Roro - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-22 22:47:14</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Roro] Sword Art Online Kaï S05E01.mkv</original_filename>
+  <user_note/>
+</episodedetails>

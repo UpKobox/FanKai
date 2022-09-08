@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:18 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Le Sanctuaire Englouti</title>
+  <originaltitle/>
+  <showtitle>Black Clover Kaï</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Petit séjour à la plage pour nos chevaliers du Taureau noir… Petit séjour ? Asta et ses compagnons ont l'air d'oublier le motif de leur venue dans cet endroit paradisiaque.&#13;
+&#13;
+Ce film couvre les épisodes 40 à 50 soit les chapitres 57 à 73.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/4/4a/Black_clover_kai_affiche_05.webp/revision/latest?cb=20220810220718&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2020-11-13</premiered>
+  <aired>2020-11-13</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Livai - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-19 03:15:33</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Livaï] Black Clover Kaï 05 - Le sanctuaire englouti - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

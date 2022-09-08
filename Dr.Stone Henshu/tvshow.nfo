@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-27 14:37:30 - tinyMediaManager 4.3.3-->
+<tvshow>
+  <title>Dr Stone Henshû</title>
+  <originaltitle/>
+  <showtitle>Dr Stone Henshû</showtitle>
+  <sorttitle/>
+  <year>2019</year>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <outline/>
+  <plot>Taiju, un lycéen comme les autres, raconte à son meilleur ami Senku, un génie des sciences, qu'il est sur le point de révéler ses sentiments à Yuzuriha, une fille dont il est secrètement amoureux depuis quelques années. Alors que le jeune homme s'apprête à lui déclarer sa flamme, une lumière brillante apparaît dans le ciel et transforme toute l'humanité en statues de pierres. Lorsque Taiju réussit finalement à se libérer, il se retrouve face à un monde complètement différent où la nature a repris ses droits. Mais il n'est pas le seul à s'être réveillé. Son ami Senku, qui l'a précédé dans son éveil, lui annonce que 3 700 ans se sont écoulés depuis le mystérieux événement. Ensemble ils devront allier les compétences scientifiques exceptionnelles de l'un et les aptitudes physiques de l'autre pour sauver les 7 milliards d'êtres humains encore pétrifiés et découvrir l'origine de cette catastrophe.</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <thumb aspect="poster">https://static.wikia.nocookie.net/fan-kai/images/3/3d/Dr_stone_henshu_affiche.webp/revision/latest?cb=20220114231800&amp;path-prefix=fr</thumb>
+  <thumb aspect="banner">https://artworks.thetvdb.com/banners/graphical/5d26ff1c1cb40.jpg</thumb>
+  <thumb aspect="poster" season="1" type="season">https://artworks.thetvdb.com/banners/series/355774/posters/62061988.jpg</thumb>
+  <fanart>
+    <thumb>https://artworks.thetvdb.com/banners/series/355774/backgrounds/62100678.jpg</thumb>
+  </fanart>
+  <mpaa/>
+  <certification/>
+  <id/>
+  <imdbid/>
+  <tmdbid/>
+  <premiered/>
+  <status>Unknown</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Animation</genre>
+  <genre>Anime</genre>
+  <genre>Comedy</genre>
+  <genre>Science Fiction</genre>
+  <studio>Khyinn - Fan-Kai</studio>
+  <country/>
+  <actor>
+    <name>Yuusuke Kobayashi</name>
+    <role>Senku Ishigami</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/459168/5f171531eb4e2.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Manami Numakura</name>
+    <role>Kohaku</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/303235/61a67785e7b68.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuuichi Nakamura</name>
+    <role>Tsukasa Shishiou</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/7864375/61a4e29c56d7d.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Gen Satou</name>
+    <role>Chrome</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/7878111/61dfef63bd5be.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Makoto Furukawa</name>
+    <role>Taiju Ooki</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/7869890/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kana Ichinose</name>
+    <role>Yuzuriha Ogawa</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/7868437/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kengo Kawanishi</name>
+    <role>Gen Asagiri</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/289883/61c5cd9ee6238.jpg</thumb>
+  </actor>
+  <trailer/>
+  <dateadded>2019-07-05 01:45:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+</tvshow>

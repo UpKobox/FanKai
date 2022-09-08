@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 14:53:18 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Cuisine et Déliquance</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>De nouveau sur les mers avec un nouveau navire et un nouveau membre, l’équipage au chapeau de paille continue son aventure. Luffy et ses amis débarquent alors sur une île au trésor, où ils font la connaissance de Gaimon, un personnage pour le moins étrange, accompagné de compagnons tout aussi étrange que lui…&#13;
+&#13;
+Ce film couvre les épisodes 18 à 24 soit les chapitres 22 puis 42 à 52.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/1/1e/One_piece_ultime_pack_affiche_03.webp/revision/latest/scale-to-width-down/1000?cb=20220811200306&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2019-01-09</premiered>
+  <aired>2019-01-09</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:28</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Yabai - 003 - Cuisine et Délinquance - 1080p.MULTI.x264 [Mixouille].mkv</original_filename>
+  <user_note/>
+</episodedetails>

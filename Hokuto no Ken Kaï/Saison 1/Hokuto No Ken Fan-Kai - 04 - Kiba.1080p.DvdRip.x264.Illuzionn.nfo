@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:44 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Kiba</title>
+  <originaltitle/>
+  <showtitle>Hokuto No Ken Kaï</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Ken, Batt et Lynn arrive dans un nouveau village, attaqué par un gang appelé Kiba. Ils y rencontrent Mamiya, leader du village, qui ressemble étrangement à Yuria, la fiancée de Ken. Bientôt, un nouveau mercenaire arrive dans le village, Rei. Il semble maitriser un art martial destructeur et est à la recherche d'un homme portant 7 cicatrices sur la poitrine. Après un dernier assaut meurtrier du clan Kiba, Ken, Rei et Mamiya partent affronter le gang sur leur territoire, mais cela pourrait bien se révéler plus compliqué que prévu...&#13;
+&#13;
+Ce film couvre les épisodes 23 à 29 soit les chapitres 26 à 37.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2019-01-27</premiered>
+  <aired>2019-01-27</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Illuzionn - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 21:04:45</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>DVD</source>
+  <original_filename>Hokuto No Ken Fan-Kai - 04 - Kiba.1080p.DvdRip.x264.Illuzionn.mkv</original_filename>
+  <user_note/>
+</episodedetails>

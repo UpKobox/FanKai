@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:13:25 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Le Commando Ginyu</title>
+  <originaltitle/>
+  <showtitle>Dragon Ball Z Yabai</showtitle>
+  <season>2</season>
+  <episode>5</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Alors que Son Goku progresse à vue d'œil, Kaio entre en contact avec lui pour lui annoncer que Yamcha, Ten Shin Han, Chaozu et Piccolo sont arrivés chez lui pour y suivre un entraînement encore plus difficile que lorsqu'il s'y trouvait lui-même. Ce dernier le met au courant de la situation sur Namek, laquelle inquiète grandement Kaio. En effet, connaissant la cruauté et la puissance colossales de Freezer et du danger qu'il pourrait représenter, il demande à notre héros d'éviter tout contact avec lui, sa force étant de loin supérieure à la sienne. Sur Namek, alors que Krilin et Dendé partent rejoindre le Doyen des Aînés, un combat s'engage entre Vegeta et Zabon. Le Saiyan a l'avantage jusqu'à ce que Zabon dévoile sa véritable et monstrueuse apparence.&#13;
+&#13;
+Ce film couvre les épisodes 24 à 30.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2018-05-20</premiered>
+  <aired>2018-05-20</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-27 16:13:45</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Mixouille] Dragon Ball Z Yabai - 05 - Le Commando Ginyu - 720p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

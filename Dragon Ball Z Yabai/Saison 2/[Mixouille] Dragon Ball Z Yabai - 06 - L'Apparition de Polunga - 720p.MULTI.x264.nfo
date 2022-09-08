@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:13:22 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>L'apparition de Polunga</title>
+  <originaltitle/>
+  <showtitle>Dragon Ball Z Yabai</showtitle>
+  <season>2</season>
+  <episode>6</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Son Goku est enfin arrivé sur Namek et porte rapidement secours à ses amis à l'aide des Senzus restants. Ce dernier est mis au courant de la situation et décide d'entamer le combat face au commando Ginyu mais seul. Ses amis comme ses adversaires estiment qu'il n'est pas de taille (les scouters indiquent une puissance de 5 000 à peine) mais à la surprise de tout le monde, Son Goku déploie une puissance colossale. En effet, ce dernier est capable d'augmenter sa force un bref instant afin de ne pas gaspiller inutilement son énergie. Résultat, il parvient à mettre Reacum au tapis en un seul coup et à tourner en ridicule les deux autres membres restants et déploie sa puissance à Burter ce qui le mettra KO.&#13;
+&#13;
+Ce film couvre les épisodes 31 à 36.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2018-05-25</premiered>
+  <aired>2018-05-25</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-27 16:13:45</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Mixouille] Dragon Ball Z Yabai - 06 - L'Apparition de Polunga - 720p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

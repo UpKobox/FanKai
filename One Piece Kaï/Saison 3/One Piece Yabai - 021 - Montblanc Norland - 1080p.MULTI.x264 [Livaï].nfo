@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:40:34 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Montblanc Norland</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>3</season>
+  <episode>21</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Usopp et Sanji arrivent sur le pont pour sauver Nami. Usopp tente d'abord de le faire, mais échoue et est aux portes de la mort à cause de l'attaque d'Ener. Usopp se relève et arrive à s'échapper avec Nami tandis que Sanji reste héroïquement en arrière pour leur permettre de prendre la fuite.&#13;
+&#13;
+Ce film couvre les épisodes 185 à 189 soit les chapitres 283 à 293.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/2/20/One_piece_ultime_pack_affiche_21.webp/revision/latest/scale-to-width-down/1000?cb=20220811200307&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2020-12-25</premiered>
+  <aired>2020-12-25</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:25</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Yabai - 021 - Montblanc Norland - 1080p.MULTI.x264 [Livaï].mkv</original_filename>
+  <user_note/>
+</episodedetails>

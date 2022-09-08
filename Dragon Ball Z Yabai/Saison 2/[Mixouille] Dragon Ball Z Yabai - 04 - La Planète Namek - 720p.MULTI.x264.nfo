@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:13:28 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>La Planète Namek</title>
+  <originaltitle/>
+  <showtitle>Dragon Ball Z Yabai</showtitle>
+  <season>2</season>
+  <episode>4</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Goku, Krilin, Son Gohan sont à l'hôpital pour se remettre de leur bataille avec Vegeta. Leurs amis et la famille viennent leur rendre visite. Lorsque le téléviseur est allumé, ils voient un rapport sur la navette spatiale de Nappa. Bulma, pensant avoir appuyé sur le bouton qui ferai décoller la navette jusqu'à eux, enclenche l'auto-destruction de l'appareil. Avant que tout le monde ne perde espoir, Mr. Popo arrive, et leur dit qu'il existe un autre vaisseau spatial à déplacement très rapide. C'est le navire Namek que Kami avait pris lors de sa venue sur Terre quand il était enfant. Bulma accepte à contrecœur de l'inspecter et ils se retrouvent tous deux au mont Yunzabit. Ils se rendent compte que le bâtiment est à commande vocale et qu'il faut donner ses instructions dans la langue Namek. Bulma convertit la langue en japonais. Quelques semaines plus tard, Son Gohan et Krilin décident de l'accompagner dans son voyage vers la planète Namek, à la recherche des Dragon Balls.&#13;
+&#13;
+Ce film couvre les épisodes 18 à 23.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2018-05-20</premiered>
+  <aired>2018-05-20</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-27 16:13:45</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Mixouille] Dragon Ball Z Yabai - 04 - La Planète Namek - 720p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

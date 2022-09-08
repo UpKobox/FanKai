@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-28 00:27:15 - tinyMediaManager 4.3.3-->
+<tvshow>
+  <title>Hunter X Hunter Kaï</title>
+  <originaltitle/>
+  <showtitle>Hunter X Hunter Kaï</showtitle>
+  <sorttitle/>
+  <year>2011</year>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <outline/>
+  <plot>Le jeune Gon vit sur une petite île avec sa tante. Abandonné par son père qui est un Hunter, à la fois un aventurier et un chasseur de primes, Gon décide à l'âge de 12 ans de partir pour devenir un Hunter. Cela ne sera pas chose aisée, il devra passer une suite de tests et examens en compagnie de milliers d'autres prétendants au titre de Hunter. Il sera aidé par de nouvelles connaissances qui aspirent au même but que lui tel que Kurapika, Leorio et Killua.</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <thumb aspect="poster">https://static.wikia.nocookie.net/fan-kai/images/c/cb/Hxh_kai_affiche.webp/revision/latest?cb=20220114234450&amp;path-prefix=fr</thumb>
+  <thumb aspect="banner">https://artworks.thetvdb.com/banners/graphical/252322-g2.jpg</thumb>
+  <namedseason number="1">Examen Hunter</namedseason>
+  <namedseason number="2">York Shin City</namedseason>
+  <namedseason number="3">Greed Island</namedseason>
+  <namedseason number="4">Kimera Ants</namedseason>
+  <namedseason number="5">Élections</namedseason>
+  <thumb aspect="poster" season="1" type="season">https://artworks.thetvdb.com/banners/v4/series/252322/posters/60808e76cd16f.jpg</thumb>
+  <thumb aspect="poster" season="2" type="season">https://artworks.thetvdb.com/banners/posters/252322-4.jpg</thumb>
+  <thumb aspect="poster" season="3" type="season">https://artworks.thetvdb.com/banners/posters/252322-11.jpg</thumb>
+  <thumb aspect="poster" season="4" type="season">https://artworks.thetvdb.com/banners/v4/series/252322/posters/60808e76cd16f.jpg</thumb>
+  <thumb aspect="poster" season="5" type="season">https://artworks.thetvdb.com/banners/v4/series/252322/posters/615fccd9ebf37.jpg</thumb>
+  <fanart>
+    <thumb>https://artworks.thetvdb.com/banners/series/252322/backgrounds/5ec8553b9f9f8.jpg</thumb>
+  </fanart>
+  <mpaa/>
+  <certification/>
+  <id/>
+  <imdbid/>
+  <tmdbid/>
+  <premiered/>
+  <status>Unknown</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Animation</genre>
+  <genre>Anime</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <genre>Fantasy</genre>
+  <studio>Avalokitesvara - Fan-Kai</studio>
+  <country/>
+  <trailer/>
+  <dateadded>2011-10-02 00:20:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+</tvshow>

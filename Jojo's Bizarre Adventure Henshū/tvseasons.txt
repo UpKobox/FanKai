@@ -1,0 +1,6 @@
+S1 = Phantom Blood
+S2 = Battle Tendency
+S3 = Stardust Crusaders
+S4 = Diamond is Unbreakable
+S5 = Golden Wind
+S6 = Stone Ocean

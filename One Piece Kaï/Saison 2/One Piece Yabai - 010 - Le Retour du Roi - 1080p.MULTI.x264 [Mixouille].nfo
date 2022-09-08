@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:41:50 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Le Retour du Roi</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>2</season>
+  <episode>10</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>L'équipage de Luffy parvient à échapper au poisson rouge gobeur d'îles grâce à l'aide de Dorry et Brogy. À la suite de leur aventure sur Little Garden, Nami tombe gravement malade. Ses amis s'inquiètent pour elle et souhaitent accoster sur l'île la plus proche pour trouver un médecin et ce, malgré la réticence d'une certaine personne...&#13;
+&#13;
+Ce film couvre les épisodes 78 à 84 soit les chapitres 128 à 140.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/8/80/One_piece_ultime_pack_affiche_10.webp/revision/latest/scale-to-width-down/1000?cb=20220811200306&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2019-03-06</premiered>
+  <aired>2019-03-06</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:23</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Yabai - 010 - Le Retour du Roi - 1080p.MULTI.x264 [Mixouille].mkv</original_filename>
+  <user_note/>
+</episodedetails>

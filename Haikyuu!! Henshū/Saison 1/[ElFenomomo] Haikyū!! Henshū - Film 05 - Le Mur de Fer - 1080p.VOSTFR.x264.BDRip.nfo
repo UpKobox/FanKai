@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-28 20:43:56 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Le Mur de Fer</title>
+  <originaltitle/>
+  <showtitle>Haikyuu!! Henshû</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Le deuxième match des sélections contre Date Kôgyô commence. Karasuno est prêt à détruire le mur de fer, mais n'y arrive pas et les points sont plus difficiles à gagner que prévu. Hinata et Kageyama décident donc de lancer une attaque imprévisible...
+
+Ce film couvre les épisodes 17 à 19 soit les chapitres 42 à 48.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Elfenomomo - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 20:23:54</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Elfenomomo] Haikyuu!! Henshû S01E05.mkv</original_filename>
+  <user_note/>
+</episodedetails>

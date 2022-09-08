@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:39:28 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Deux frères</title>
+  <originaltitle/>
+  <showtitle>Hokuto No Ken Kaï</showtitle>
+  <season>6</season>
+  <episode>21</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Hyoh s'apprête à retrouver la femme qu'il aime, Sayaka. Celle-ci, sœur de Kaioh, finira par subir la démence de son frère aîné. Devenu un véritable Dieu-Démon, Hyoh n'a plus qu'une idée en tête : faire payer à l'homme responsable de sa mort : Kenshirô ! Ce dernier est-il prêt à affronter à nouveau un des successeurs du Hokuto Ryû Ken, surtout après son combat contre Kaioh ?&#13;
+&#13;
+Ce film couvre les épisodes 139 à 145 soit les chapitres 188 à 197.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2019-09-01</premiered>
+  <aired>2019-09-01</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Illuzionn - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 21:04:45</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>DVD</source>
+  <original_filename>Hokuto No Ken Fan-Kai - 21 - Deux frères.1080p.DvdRip.x264.Illuzionn.mkv</original_filename>
+  <user_note/>
+</episodedetails>

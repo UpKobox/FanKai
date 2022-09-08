@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:39:43 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Retour en Enfer</title>
+  <originaltitle/>
+  <showtitle>Hokuto No Ken Kaï</showtitle>
+  <season>5</season>
+  <episode>17</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Plusieurs années se sont écoulées depuis le combat final entre Raoh et Kenshirô. Le monde est sur le point de sombrer dans une nouvelle ère des ténèbres. Lynn et Batt, désormais adultes et leaders de l'armée du Hokuto, tentent veinement de résister aux forces de l'Empereur Céleste, qui tente de conquérir le monde. Mais personne ne sait ce qu'est devenu Ken depuis toutes ces années. Est-il toujours en vie ? Viendra-t-il aider ses deux anciens compagnons de route ? Ce film correspond à la première partie sur 2 de l'arc "Empereur Céleste".&#13;
+&#13;
+Ce film couvre les épisodes 110 à 117 soit les chapitres 137 à 149.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2019-08-04</premiered>
+  <aired>2019-08-04</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Illuzionn - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 21:04:45</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>DVD</source>
+  <original_filename>Hokuto No Ken Fan-Kai - 17 - Retour en Enfer.1080p.DvdRip.x264.Illuzionn.mkv</original_filename>
+  <user_note/>
+</episodedetails>

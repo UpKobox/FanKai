@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-27 23:12:48 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Les Industries Haijima</title>
+  <originaltitle/>
+  <showtitle>Fire Force Henshû</showtitle>
+  <season>2</season>
+  <episode>3</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Alors que le capitaine Barns se retrouve face à Joker et Benimaru, il ne va pas les affronter, mais leur proposer son aide, et révéler le plus grand secret de l’Église du Saint-Soleil...
+
+Ce film couvre les épisodes 37 à 42 soit les chapitres 131 à 151.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Pourquoi - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-27 22:55:55</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Pourquoi] Fire Force Henshû S02E03.mkv</original_filename>
+  <user_note/>
+</episodedetails>

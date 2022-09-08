@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-27 14:15:03 - tinyMediaManager 4.3.3-->
+<tvshow>
+  <title>One Punch Man Henshū</title>
+  <originaltitle>One Punch Man</originaltitle>
+  <showtitle>One Punch Man Henshū</showtitle>
+  <sorttitle/>
+  <year>2015</year>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <outline/>
+  <plot>Saitama est un jeune homme sans emploi, déprimé et sans but profond dans sa vie. Un jour, il rencontre un homme-crabe qui recherche un jeune garçon « avec un menton fendu comme un cul » selon ses termes. Saitama finit par rencontrer ce jeune garçon et décide de le sauver de l'homme-crabe, qu'il arrive à battre difficilement. Dès lors, Saitama décide de devenir un super-héros et s’entraîne pendant trois ans très sérieusement : 100 pompes, 100 squats, 100 abdos et 10 km de course au quotidien et il n'y a pas de conditions de chauffage ni de climatisation . À la fin de son entrainement « si intense qu'il en perd ses cheveux », il remarque qu'il est devenu tellement fort qu'il parvient désormais à battre tous ses adversaires d'un seul coup de poing. Sa force démesurée est pour lui source de problèmes, puisqu'il ne trouve pas d'adversaires à sa taille et s'ennuie dans son métier de héros car les combats ne lui procurent plus aucune sensation ni aucune adrénaline... Bien qu'il ait mis un terme à un bon nombre de menaces toutes plus dangereuses les unes que les autres, personne ne semble remarquer l'incroyable capacité de Saitama, à l'exception de son ami et disciple Genos, un jeune homme devenu cyborg.</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <thumb aspect="poster">https://static.wikia.nocookie.net/fan-kai/images/4/48/Opm_henshu_affiche.webp/revision/latest?cb=20220115004150&amp;path-prefix=fr</thumb>
+  <thumb aspect="banner">https://artworks.thetvdb.com/banners/graphical/293088-g2.jpg</thumb>
+  <thumb aspect="clearlogo">https://artworks.thetvdb.com/banners/v4/series/293088/clearlogo/611bb0fee38ac.png</thumb>
+  <namedseason number="1">Saison 1</namedseason>
+  <namedseason number="2">Saison 2</namedseason>
+  <thumb aspect="poster" season="1" type="season">https://artworks.thetvdb.com/banners/v4/season/615993/posters/60a388ea6f86c.jpg</thumb>
+  <thumb aspect="poster" season="2" type="season">https://artworks.thetvdb.com/banners/v4/season/790398/posters/60a38a0d4d55d.jpg</thumb>
+  <fanart>
+    <thumb>https://artworks.thetvdb.com/banners/fanart/original/293088-9.jpg</thumb>
+  </fanart>
+  <mpaa/>
+  <certification/>
+  <id/>
+  <imdbid/>
+  <tmdbid/>
+  <premiered/>
+  <status>Unknown</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Action</genre>
+  <genre>Animation</genre>
+  <genre>Anime</genre>
+  <genre>Comedy</genre>
+  <genre>Fantasy</genre>
+  <genre>Science Fiction</genre>
+  <studio>Livai - Fan-Kai</studio>
+  <country/>
+  <actor>
+    <name>Makoto Furukawa</name>
+    <role>Saitama</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/7869890/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kaito Ishikawa</name>
+    <role>Genos</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/303231/5fc1fccb0ca8d.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuki Kaji</name>
+    <role>Sonic</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/293452/61e6e6287c8a8.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Aoi Yuuki</name>
+    <role>Tatsumaki</role>
+    <thumb>https://artworks.thetvdb.com/banners/v4/actor/7864377/photo/619d0ed6bb40f.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kazuhiro Yamaji</name>
+    <role>Bang</role>
+    <thumb>https://artworks.thetvdb.com/banners/actors/379585.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hikaru Midorikawa</name>
+    <role>Garou</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/303114/61502dd30ef96.jpg</thumb>
+  </actor>
+  <trailer/>
+  <dateadded>2015-04-10 17:34:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+</tvshow>

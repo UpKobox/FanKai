@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:42 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Speed Star</title>
+  <originaltitle/>
+  <showtitle>Hajime No Ippo Henshû</showtitle>
+  <season>1</season>
+  <episode>10</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Au coucher du soleil, Alors que la mère d'Ippo prépare le matériel pour la pèche, celui-ci arrive à peine de son entraînement, désolé d'être en retard pour aider sa mère. Le lendemain au club Kamogawa, tandis que tout le monde s'entraîne, le coach délivre quelques nouvelles : Aoki et Kimura sont inscrit au tournoi Classe A - une compétition de très haut niveau -. Ippo apprend avec stupeur qu'il est également inscrit à ce tournoi. Mais toujours avec étonnement, Geromichi apprend qu'il a été inscrit au test Pro.&#13;
+&#13;
+Ce film couvre les épisodes 41 à 44 soit les chapitres 132 à 146 de la saison 1.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2021-09-12</premiered>
+  <aired>2021-09-12</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Livai - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 16:37:10</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Livaï] Hajime no Ippo Henshū 10 - Speed Star - 576p.VOSTFR.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

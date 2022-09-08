@@ -1,0 +1,9 @@
+S1 = East Blue - Films 1 à 7
+S2 = Baroque Works - Films 8 à 16
+S3 = Île Céleste - Films 17 à 22
+S4 = CP-9 - Films 23 à 37
+S5 = Thriller Bark - Films 38 à 42
+S6 = Guerre au Sommet - Films 43 à 60
+S7 = Île des Hommes-Poissons - Films 61 à 69
+S8 = Dressrosa - Films 70 à 96
+S9 = Quatre Empereurs - Films 97 à 127

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:53:28 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Le combat pour les anneaux</title>
+  <originaltitle/>
+  <showtitle>Reborn! Kaï</showtitle>
+  <season>3</season>
+  <episode>7</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Les Varia ont déjoué plus rapidement que prévu le subterfuge préparé par Iemitsu. Ils savent que les vrais anneaux Vongola sont au Japon et ils sont bien décidés à les récupérer. Hélas, certains de leurs porteurs sont encore des novices et ne savent pas se battre. Reborn et Iemitsu sont donc inquiets pour leur sécurité. Le vrai combat pour désigner le prochain parrain de la famille va commencer...&#13;&#13;
+&#13;&#13;
+Ce film couvre les épisodes 40 à 46.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/1/18/Reborn_kai_affiche_07.png/revision/latest/scale-to-width-down/1000?cb=20220830145127&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2022-06-08</premiered>
+  <aired>2022-06-08</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Kadero_san - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 18:12:50</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[kadero_san] REBORN! (Fan-Kai) - Cible 07. Le combat pour les anneaux.mkv</original_filename>
+  <user_note/>
+</episodedetails>

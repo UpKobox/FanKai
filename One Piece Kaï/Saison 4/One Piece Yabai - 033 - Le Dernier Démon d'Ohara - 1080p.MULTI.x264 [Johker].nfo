@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:38:44 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Le Dernier Démon d'Ohara</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>4</season>
+  <episode>33</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Franky ne comprend pas pourquoi Robin refuse d'être sauvé après que Spandam a rompu sa promesse. Alors que Luffy leur hurle dessus, Franky décide de faire face à Robin. Il utilise son cola restant pour gonfler ses fesses. Avec son pet, il parvient à s'échapper avec Robin tout brisant ses chaînes dans le processus et à être à portée de Luffy. Luffy veut les rejoindre pour sauver Robin, mais elle lui dit de rester car elle veut mourir. Devant le tribunal, Yokozuna succombe aux attaques des Jurés. Les marines sont sur le point de pénétrer dans l'enceinte mais les géants arrivent alors reprendre le contrôle de la situation. Kashi jette Usopp dans les airs, où il rejoint l'équipage des Chapeaux de Paille. De nouveau rassemblés, ils font face à Robin et au CP9, en attendant que le pont-levis soit abaissé.&#13;
+&#13;
+Ce film couvre les épisodes 274 à 278 soit les chapitres 389 à 398.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/9/96/One_piece_ultime_pack_affiche_33.webp/revision/latest/scale-to-width-down/1000?cb=20220811200307&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2021-09-07</premiered>
+  <aired>2021-09-07</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:24</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Yabai - 033 - Le Dernier Démon d'Ohara - 1080p.MULTI.x264 [Johker].mkv</original_filename>
+  <user_note/>
+</episodedetails>

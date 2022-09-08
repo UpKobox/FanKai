@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:53 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Be My Baby</title>
+  <originaltitle/>
+  <showtitle>Monster Kaï</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Schumann était le seul médecin du village. Tenma et Dieter qu’il a sorti plus tôt des griffes de Hartmann et qui le suit dans ses déplacements se rendent au village et le rencontrent suite à un accident de la circulation dans lequel ils ont sauvé une victime. Heinz, le policier, fils de Petra, une femme dont Schumann s’occupe, soupçonne Tenma. Lui se fait aider par Schumann qui dit au policier que c’est une connaissance et Schumann lui demander de l’aide à Tenma pour s’occuper de patients du village. Il comprend alors que Schumann est un médecin qui à l’estime de tous. Tenma s’obstine à vouloir ausculter Petra et découvre qu’elle souffre d’une hémorragie cérébrale et décide qu’il faut opérer en urgence la malade. Heinz de son côté qui a reconnu pendant l’opération que Tenma étant le criminel, tente de l’arrêter alors qu’il opère sa mère mais Schumann s’interpose. Heinz laisse alors partir le docteur qui a sauvé la vie de sa mère…&#13;
+&#13;
+Ce film couvre les épisodes 13 à 18 soit les tomes 3 à 4.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2021-02-07</premiered>
+  <aired>2021-02-07</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Avalokitesvara - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 00:27:53</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>Monster Kaï - 03 - Be My Baby.mkv</original_filename>
+  <user_note/>
+</episodedetails>

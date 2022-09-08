@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 14:53:25 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Offensive</title>
+  <originaltitle/>
+  <showtitle>Shiki Henshû</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Quand l'ami de Megumi suspecte que les sombres activités se passent au manoir Kanemasa, c'est à dire le lieu où Megumi s'est rendue avant de mourir, Natsuno suggère de la déterrer pour obtenir des réponses.&#13;
+&#13;
+Ce film couvre les épisodes 7 à 10.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2020-12-18</premiered>
+  <aired>2020-12-18</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mocassino - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-23 16:30:25</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Mocassino] Shiki Henshū film 3 - Offensive 1080p.VOSTFR.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

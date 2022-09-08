@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:39:15 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Bloody Cross</title>
+  <originaltitle/>
+  <showtitle>Hajime No Ippo Henshû</showtitle>
+  <season>2</season>
+  <episode>18</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Après un combat disputé, Ippo sort victorieux de sa première défense du titre. Suite à cela, c'est un Ippo familier que l'on découvre, aidant comme auparavant sa mère à tenir l'entreprise familiale de location de bateaux de pêche. Une seule chose a changé, il est désormais reconnu comme un champion confirmé, statut qu'il a du mal à assumer. Au club Kamogawa, on retrouve toute la fine équipe : le coach Kamogawa, Takamura, Aoki et Kimura.&#13;&#13;
+&#13;&#13;
+Ce film couvre les épisodes 1 à 4 de la saison 2.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2021-10-17</premiered>
+  <aired>2021-10-17</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Livai - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 16:37:10</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Livaï] Hajime no Ippo Henshū 18 - Bloody Cross - 720p.VOSTFR.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

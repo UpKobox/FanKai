@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:35:25 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>L'Ordre des Loups Affamés</title>
+  <originaltitle/>
+  <showtitle>Fairy Tail Kaï</showtitle>
+  <season>4</season>
+  <episode>21</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Interrompant Natsu et Grey dans leur bagarre, Gajil demande au premier de le suivre, avec Wendy. Une marche souterraine mènera les trois Chasseurs de Dragons – accompagnés de quelques curieux – à un étrange cimetière.&#13;
+&#13;
+Ce film couvre les épisodes 176 à 184 soit les chapitres 300 à 312.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2018-10-07</premiered>
+  <aired>2018-10-07</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Avalokitesvara - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 14:51:25</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Avalokitesvara] Fairy Tail Kai - 21 - L’Ordre des Loups Affamés - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:50 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>La Lampe Merveilleuse</title>
+  <originaltitle/>
+  <showtitle>Jojo's Bizarre Adventure Henshû</showtitle>
+  <season>3</season>
+  <episode>4</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Souhaitant éviter l’Iran et l’Irak à cause de l’instabilité politique, nos héros vont tenter une percée à travers le désert. Il ne leur reste qu’à trouver le moyen de transport et à résister à la chaleur.&#13;
+&#13;
+Ce film couvre les épisodes 18 à 24 de Stardust Crusaders soit les chapitres 166 à 183.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2020-10-15</premiered>
+  <aired>2020-10-15</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Livai - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-19 21:42:14</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Livaï] Jojo’s Bizarre Adventure Stardust Crusaders Henshū 4 - La lampe merveilleuse - 1080p.VOSTFR.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

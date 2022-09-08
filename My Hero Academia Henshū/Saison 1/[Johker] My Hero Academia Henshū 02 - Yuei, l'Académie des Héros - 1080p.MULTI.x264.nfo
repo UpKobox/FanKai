@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:54 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Yuei, l'Académie des Héros</title>
+  <originaltitle/>
+  <showtitle>My Hero Academia Henshû</showtitle>
+  <season>1</season>
+  <episode>2</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>C'est le premier jour de cours pour les nouveaux élèves du lycée Yuei, mais une surprise attend Izuku et ses camarades pour cette rentrée !&#13;
+Leur professeur principal, un homme antipathique à première vue, n'est pas du genre à perdre du temps : il commence aussitôt par un test d'aptitudes pour évaluer ses élèves. Il va falloir faire attention à ne pas finir dernier sous peine d'être renvoyé du lycée !&#13;
+&#13;
+Ce film couvre les épisodes 5 à 8.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/c/ca/My_hero_academia_henshu_affiche_02.webp/revision/latest?cb=20220810234522&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2019-05-22</premiered>
+  <aired>2019-05-22</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Johker - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-20 16:55:07</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Johker] My Hero Academia Henshū 2 - Yuei, l'Académie des Héros - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-28 18:41:00 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Choice, le jeu commence</title>
+  <originaltitle/>
+  <showtitle>Reborn! Kaï</showtitle>
+  <season>6</season>
+  <episode>21</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Pendant que les six véritables couronnes funéraires se préparent au combat, Tsuna rend visite à Lal Mirch. Plus tard, tout le monde enfile leur costume, fait du fil de Leon. Ils arrivent au sanctuaire de Namimori, où Shoichi a préparé une base des opérations.
+
+Ce film couvre les épisodes 167 à 176.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Kadero_san - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 18:12:49</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Kadero_san] Reborn! Kaï S06E02.mkv</original_filename>
+  <user_note/>
+</episodedetails>

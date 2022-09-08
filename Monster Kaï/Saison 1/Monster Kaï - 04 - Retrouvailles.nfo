@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:53 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Retrouvailles</title>
+  <originaltitle/>
+  <showtitle>Monster Kaï</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Tenma rend visite au docteur Gillen, qui est un de ses camarades de faculté et qui est maintenant psychologue spécialiste en criminologie. A l’université, ils ne s’entendaient pas très bien. Docteur Gillen pensait que Tenma le méprisait car il l’avait vu tricher lors des examens. Tenma raconte à Gillen les détails de l’affaire concernant Johann et il lui demande de l’aider à prouver son innocence. Gillen complote en faisant semblant d’aider Tenma, et le signale à la police, puis il en fait son objet d’études après son arrestation. Mais quand Gillen fait écouter l’enregistrement de l’histoire de Tenma à Jürgens, un serial killer qui est son sujet d’étude en cours, il entend de sa bouche que le monstre existe. Gillen visite les lieux du crime d’une femme que Jürgens a assassiné à la suite de la demande d’un ami qu’il appellait le monstre. Là-bas, il découvre une lettre qu’on peut supposer provenir de Johann, et il est convaincu que le monstre dont Tenma a parlé existe réellement.&#13;
+&#13;
+Ce film couvre les épisodes 19 à 24 soit les tomes 5 à 6.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2021-02-14</premiered>
+  <aired>2021-02-14</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Avalokitesvara - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 00:27:53</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>Monster Kaï - 04 - Retrouvailles.mkv</original_filename>
+  <user_note/>
+</episodedetails>

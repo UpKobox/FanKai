@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:13:10 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Les Guerriers de Métal</title>
+  <originaltitle/>
+  <showtitle>Dragon Ball Z Yabai</showtitle>
+  <season>3</season>
+  <episode>10</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Devant la puissance de Vegeta, C-20 n'a d'autre choix que de dérober l'énergie de ses adversaires afin de le surpasser. Alors qu'il parvient à piéger Piccolo en premier, ce dernier parvient à s'en défaire grâce à l'intervention de Gohan, rejoint rapidement par les autres super combattants. Un affrontement s'engage par la suite entre Piccolo et C-20, mené d'une main de maître par le Namek. Alors qu'il s'apprête à en finir, Trunks fait une arrivée surprise et annonce à la stupéfaction de tous que les cyborgs C-19 et C-20 lui sont totalement étrangers. C-20, qui concocte un plan qui consiste à libérer C-17 et C-18, s'enfuit en faisant exploser les montagnes.&#13;
+&#13;
+Ce film couvre les épisodes 62 à 67.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2018-07-08</premiered>
+  <aired>2018-07-08</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-27 16:13:45</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Mixouille] Dragon Ball Z Yabai - 10 - Les Guerriers de Métal - 720p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

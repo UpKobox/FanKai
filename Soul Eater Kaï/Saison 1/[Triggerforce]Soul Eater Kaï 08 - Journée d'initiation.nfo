@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 14:53:27 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Journée d'initiation</title>
+  <originaltitle/>
+  <showtitle>Soul Eater Kaï</showtitle>
+  <season>1</season>
+  <episode>8</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Les Death Scythes écoutent le plan de Death pour s'occuper du Kishin qui s'est échappé. Death partage ses pensées quant à Dr.Stein, qui serait revenu à ses vieilles méthodes.&#13;
+&#13;
+Ce film couvre les épisodes 25 à 28 soit les chapitres 23 à 28.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/7/79/Soul_eater_kai_affiche_08.webp/revision/latest?cb=20220811004101&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2021-05-14</premiered>
+  <aired>2021-05-14</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Triggerforce - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-19 16:08:06</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Triggerforce]Soul Eater Kaï 08 - Journée d'initiation.mkv</original_filename>
+  <user_note/>
+</episodedetails>

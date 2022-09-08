@@ -1,0 +1,7 @@
+Pas de nom spécifique aux sagas, vous pouvez les renommer à votre guise.
+
+S1 = Films 1 à 6
+S2 = Films 7 à 12
+S3 = Films 13 à 17
+S4 = Films 18 à 23
+S5 = Films 24 à 29

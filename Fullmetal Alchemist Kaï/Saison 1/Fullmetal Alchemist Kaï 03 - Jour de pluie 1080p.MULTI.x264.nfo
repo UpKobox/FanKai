@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:40 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Jour de pluie</title>
+  <originaltitle/>
+  <showtitle>Fullmetal Alchemist Kaï</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Alors que les frères Elric font route vers la cité de Lior, Edward se rappelle des douloureux évènements qui l'ont mené jusqu'à aujourd'hui.&#13;
+&#13;
+Ce film couvre les épisodes 2 puis 9 à 14.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/f/fe/Fullmetal_alchemist_affiche_03.webp/revision/latest?cb=20220810230910&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2019-09-28</premiered>
+  <aired>2019-09-28</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Johker - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 13:36:39</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>Fullmetal Alchemist Kaï 3 - Jour de pluie 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

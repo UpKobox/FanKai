@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:38:31 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Trahison à Central</title>
+  <originaltitle/>
+  <showtitle>Fullmetal Alchemist Kaï</showtitle>
+  <season>2</season>
+  <episode>4</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Une mystérieuse petite fille prénommée Mei Chang est arrivée de l'Est en compagnie de son bébé panda et a été recueillie par Yoki, l'alchimiste corrompu à la botte de Scar. Du côté des frères Elric, c'est Alphonse qui trouve un étranger plutôt original du nom de Ling, à la recherche de la pierre philosophale...&#13;&#13;
+&#13;&#13;
+Ce film couvre les épisodes 15 à 19.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/b/bf/Fullmetal_alchemist_affiche_04.webp/revision/latest?cb=20220810230910&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2019-12-30</premiered>
+  <aired>2019-12-30</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Johker - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 13:36:39</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>Fullmetal Alchemist Kaï 04 - Trahison à Central 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

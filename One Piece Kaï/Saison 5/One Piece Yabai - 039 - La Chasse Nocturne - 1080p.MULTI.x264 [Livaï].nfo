@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:33:24 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>La Chasse Nocturne</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>5</season>
+  <episode>39</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Usopp, Nami et Chopper sont neutralisés sans effort par Ryuma et enfermés dans un cercueil. Luffy et les autres entrent dans le manoir et battent facilement les zombies surprises, mais Sanji disparaît, alors ils forcent Oinkchuck à agir comme leur guide en l'emmenant avec eux. Tandis que les zombies de Thriller Bark célèbrent le début du Raid Nocturne, Absalom réveille les autres Généraux Zombies pour s'occuper des Chapeaux de Paille.&#13;
+&#13;
+Ce film couvre les épisodes 344 à 354 soit les chapitres 450 à 459.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/d/da/One_piece_ultime_pack_affiche_39.webp/revision/latest/scale-to-width-down/1000?cb=20220811200309&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2022-02-13</premiered>
+  <aired>2022-02-13</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:26</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Yabai - 039 - La Chasse Nocturne - 1080p.MULTI.x264 [Livaï].mkv</original_filename>
+  <user_note/>
+</episodedetails>

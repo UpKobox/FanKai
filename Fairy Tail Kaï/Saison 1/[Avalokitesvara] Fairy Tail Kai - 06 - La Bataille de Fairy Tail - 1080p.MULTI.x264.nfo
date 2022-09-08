@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:35 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>La Bataille de Fairy Tail</title>
+  <originaltitle/>
+  <showtitle>Fairy Tail Kaï</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Alors que Magnolia se prépare pour la Fête des Moissons, Fairy Tail s'organise pour la parade annuelle, "Fantasia", le clou du spectacle du festival ! Lucy, toujours à court d'argent pour son loyer, décide de tenter sa chance au concours Miss Fairy Tail ... Mais l'ambiance va vite changer ...&#13;
+&#13;
+Ce film couvre les épisodes 42 à 48 soit les chapitres 106 à 129.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2018-10-06</premiered>
+  <aired>2018-10-06</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Avalokitesvara - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 14:51:26</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Avalokitesvara] Fairy Tail Kai - 06 - La Bataille de Fairy Tail - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

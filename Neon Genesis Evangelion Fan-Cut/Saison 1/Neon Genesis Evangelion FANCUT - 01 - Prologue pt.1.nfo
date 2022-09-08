@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:57 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Prologue pt.1</title>
+  <originaltitle/>
+  <showtitle>Neon Genesis Evangelion Fan Cut</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Un combat fait rage à Tokyo-3 entre les forces des Nations Unis et une créature inconnue soudainement surgie de nulle part. C'est dans ce contexte chaotique qu'arrive en ville l'introverti Shinji Ikari, convoqué par son père qui l'avait abandonné une décennie plus tôt.&#13;
+&#13;
+Ce film couvre les épisodes 1 à 4.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/b/bd/Neon_genesis_evangelion_fancut_affiche_01.webp/revision/latest/scale-to-width-down/1000?cb=20220810235434&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2022-07-11</premiered>
+  <aired>2022-07-11</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MECHAPOULPE - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-19 03:57:42</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>Neon Genesis Evangelion FANCUT - 01 - Prologue pt.1.mkv</original_filename>
+  <user_note/>
+</episodedetails>

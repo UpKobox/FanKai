@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:41:56 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>La Route de tous les Périls</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>2</season>
+  <episode>8</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Erik fait de nouveau face à Luffy et les siens mais est de nouveau battu. Après cette victoire, l'équipage de pirates dit au revoir à Apis et les membres de son village. Ils reprennent leur route en direction du Cap des Jumeaux. Une fois arrivés, ils commencent leur ascension du Cap, l'entrée de Grand Line étant une montagne ?!&#13;
+&#13;
+Ce film couvre les épisodes 55 puis 61 à 67 soit les chapitres 101 à 114.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/4/4b/One_piece_ultime_pack_affiche_08.webp/revision/latest/scale-to-width-down/1000?cb=20220811200306&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2019-02-14</premiered>
+  <aired>2019-02-14</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:28</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Yabai - 008 - La Route de tous les Périls - 1080p.MULTI.x264 [Mixouille].mkv</original_filename>
+  <user_note/>
+</episodedetails>

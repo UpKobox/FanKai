@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:46:10 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Super Fight</title>
+  <originaltitle/>
+  <showtitle>One Punch Man Henshū</showtitle>
+  <season>2</season>
+  <episode>5</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Alors que Saitama participe au Super Fight, une véritable invasion de monstres débute dans plusieurs villes en même temps...&#13;&#13;
+&#13;&#13;
+Ce film couvre les épisodes 5 à 9 de la saison 2.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/2/2a/One_punch_man_henshu_affiche_05.webp/revision/latest?cb=20220811002258&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2022-08-02</premiered>
+  <aired>2022-08-02</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-18 20:10:23</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.78</aspect>
+        <width>1920</width>
+        <height>1080</height>
+        <durationinseconds>7355</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <audio>
+        <codec>AAC</codec>
+        <language>fra</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>jpn</language>
+      </subtitle>
+      <subtitle>
+        <language>jpn</language>
+      </subtitle>
+      <subtitle>
+        <language>fra</language>
+      </subtitle>
+      <subtitle>
+        <language>fra</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Livaï] One Punch Man Henshū 05 - Super Fight - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

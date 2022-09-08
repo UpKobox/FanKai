@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:19 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Révolution Ciblée</title>
+  <originaltitle/>
+  <showtitle>Black Lagoon Henshû</showtitle>
+  <season>1</season>
+  <episode>4</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>La faction Black Lagoon est engagée par Chang, le responsable de la branche thaïlandaise de la triade de Hong Kong, afin de transmettre des documents sensibles à la C.I.A. concernant un groupe terroriste ayant commis un attenta au Zaïre. Ce groupe armé, après avoir fait sauter les locaux de la triade à Roanapura, attaque les bureaux de la compagnie Black Lagoon alors que Chang était en train de donner ses instructions aux membres de l'équipage qui partent alors pour accomplir leur mission.&#13;
+&#13;
+Ce film couvre les épisodes 11 à 12.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/1/19/Black_lagoon_henshu_affiche_04.webp/revision/latest?cb=20220810221212&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2019-05-05</premiered>
+  <aired>2019-05-05</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Khyinn - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-20 14:40:41</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Khyinn] Black Lagoon Henshū 04 - Révolution ciblée - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

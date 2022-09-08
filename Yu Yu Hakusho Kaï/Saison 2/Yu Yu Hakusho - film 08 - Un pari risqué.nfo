@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:02:51 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Un pari risqué</title>
+  <originaltitle/>
+  <showtitle>Yu Yu Hakusho Kaï</showtitle>
+  <season>2</season>
+  <episode>8</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Peu après le round final du Dark Tournament, le maître de Yusuke a été tué, lui laissant tout le pouvoir spirituel qu'elle possédait.&#13;&#13;
+&#13;&#13;
+Ce film couvre les épisodes 53 à 65 soit les chapitres 92 à 111.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2019-05-01</premiered>
+  <aired>2019-05-01</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Titou - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-22 22:08:06</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>Yu Yu Hakusho - film 08 - Un pari risqué.mkv</original_filename>
+  <user_note/>
+</episodedetails>

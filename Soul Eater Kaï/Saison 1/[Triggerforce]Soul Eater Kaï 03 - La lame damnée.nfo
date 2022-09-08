@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 14:53:27 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>La lame damnée</title>
+  <originaltitle/>
+  <showtitle>Soul Eater Kaï</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Lors d'une mission en Italie, Maka ressent une puissante énergie négative en provenance d'une église. Lorsqu'elle se rend sur les lieux en compagnie de Soul pour en déterminer l'origine, elle découvre que celle-c est émise par Ragnarok, une arme démoniaque qui se matérialise à partir du sang noir de son maitre Crona...&#13;
+&#13;
+Ce film couvre les épisodes 7 à 9 soit les chapitres 3 à 6.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/1/19/Soul_eater_kai_affiche_03.webp/revision/latest?cb=20220811004101&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2021-02-07</premiered>
+  <aired>2021-02-07</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Triggerforce - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-19 16:08:06</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Triggerforce]Soul Eater Kaï 03 - La lame damnée.mkv</original_filename>
+  <user_note/>
+</episodedetails>

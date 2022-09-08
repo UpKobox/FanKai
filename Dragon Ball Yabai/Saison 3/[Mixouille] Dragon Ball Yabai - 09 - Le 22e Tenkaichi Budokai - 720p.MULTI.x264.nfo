@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:11:47 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Le 22e Tenkaichi Budokai</title>
+  <originaltitle/>
+  <showtitle>Dragon Ball Yabai</showtitle>
+  <season>3</season>
+  <episode>9</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Alors que tout le monde s'est inscrit, Son Goku n'est toujours pas présent et ses amis commencent à s'inquiéter. On apprend également que Tenshihan et Chaozu sont les élèves de Tsuru Sennin, le rival de Tortue géniale depuis toujours.&#13;
+&#13;
+Ce film couvre les épisodes 84 à 101.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2018-06-01</premiered>
+  <aired>2018-06-01</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-27 17:18:00</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Mixouille] Dragon Ball Yabai - 09 - Le 22e Tenkaichi Budokai - 720p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

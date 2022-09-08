@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:38:49 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>A Passing Point</title>
+  <originaltitle/>
+  <showtitle>Hajime No Ippo Henshû</showtitle>
+  <season>3</season>
+  <episode>27</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Alors que Takamura atteint ses limites de perte de poids pour son prochain match, le champion américain David Eagle arrive au Japon. Talentueux, dédié, respectueux et honorable, il affiche une aura d'un vrai champion.&#13;&#13;
+&#13;&#13;
+Ce film couvre les épisodes 16 à 21 de la saison 3.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2022-01-07</premiered>
+  <aired>2022-01-07</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Livai - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 16:37:09</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Livaï] Hajime no Ippo Henshū 27 - A Passing Point - 1080p.VOSTFR.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-27 14:52:11 - tinyMediaManager 4.3.3-->
+<tvshow>
+  <title>Soul Eater Kaï</title>
+  <originaltitle/>
+  <showtitle>Soul Eater Kaï</showtitle>
+  <sorttitle/>
+  <year>2008</year>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <outline/>
+  <plot>Ce projet reprend les épisodes 1 à 36 de l'anime, la suite n'est cependant que constituée de fillers, veuillez vous référer au manga pour poursuivre l'oeuvre.&#13;
+&#13;
+Pour devenir une "Death Scyth", les "armes démoniaques" qui ont une apparence humaine doivent se repaître de 99 âmes de démon et d'une âme de sorcière. Ces armes sont pour cela accompagnées de Meister qui les manipule pour la chasse aux âmes. A Shibusen, une école pour jeune Meister dirigée par le grand Shinigami, Maka et Soul poursuivent ce but. Ils seront bientôt rejoint par d'autres Meisters et leurs armes : Black Star un jeune ninja qui ne cherche qu'à se faire remarquer avec son arme Tsubaki, Death the Kid le fils de Shinigami qui est un maniaque de la symétrie avec ses deux armes Liz et Patty, deux sœurs qui se transforment en revolvers. Mais de nombreux obstacles leur barre la route, à commencer par les sorcières...</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <thumb aspect="poster">https://static.wikia.nocookie.net/fan-kai/images/1/19/Soul_eater_kai_affiche.webp/revision/latest?cb=20220115004150&amp;path-prefix=fr</thumb>
+  <thumb aspect="banner">https://artworks.thetvdb.com/banners/graphical/81751-g.jpg</thumb>
+  <thumb aspect="poster" season="1" type="season">https://artworks.thetvdb.com/banners/v4/season/31763/posters/60b609ecb4754.jpg</thumb>
+  <fanart>
+    <thumb>https://artworks.thetvdb.com/banners/fanart/original/81751-15.jpg</thumb>
+  </fanart>
+  <mpaa/>
+  <certification/>
+  <id/>
+  <imdbid/>
+  <tmdbid/>
+  <premiered/>
+  <status>Unknown</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Animation</genre>
+  <genre>Anime</genre>
+  <genre>Comedy</genre>
+  <genre>Fantasy</genre>
+  <genre>Horror</genre>
+  <studio>Triggerforce - Fan-Kai</studio>
+  <country/>
+  <actor>
+    <name>Chiaki Omigawa</name>
+    <role>Maka Albarn</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/447183/619d0c4182c3a.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kouki Uchiyama</name>
+    <role>Soul Eater Evans</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/7884585/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Mamoru Miyano</name>
+    <role>Death the Kid</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/292480/61f9414b80f68.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Narumi Takahira</name>
+    <role>Patty Thompson</role>
+    <thumb>https://artworks.thetvdb.com/banners/actors/365835.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Akeno Watanabe</name>
+    <role>Liz Thompson</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/292473/6204caf40f297.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yumiko Kobayashi</name>
+    <role>Black☆Star</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/297200/61eb904272ebd.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kaori Nazuka</name>
+    <role>Tsubaki Nakatsukasa</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/400984/61e44963215e2.jpg</thumb>
+  </actor>
+  <trailer/>
+  <dateadded>2008-07-04 16:08:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+</tvshow>

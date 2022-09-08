@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:35:18 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>La Fin du Monde</title>
+  <originaltitle/>
+  <showtitle>Fairy Tail Kaï</showtitle>
+  <season>4</season>
+  <episode>23</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Lucy supplie la princesse Hisui de refermer la porte d’Éclipse, qu’elle soupçonne de constituer un passage avec l’époque où le monde était peuplé de dragons. Des craintes vite confirmées par l’apparition d’une gigantesque silhouette. D’après l’analyse de son esprit Crux, Lucy doit pouvoir fermer elle-même la porte grâce à ses pouvoirs de constellationniste.&#13;
+&#13;
+Ce film couvre les épisodes 192 à 201 soit les chapitres 327 à 340.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2018-10-07</premiered>
+  <aired>2018-10-07</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Avalokitesvara - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 14:51:26</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Avalokitesvara] Fairy Tail Kai - 23 - La Fin du Monde - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

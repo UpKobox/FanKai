@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:50 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Le Meurtrier</title>
+  <originaltitle/>
+  <showtitle>Jojo's Bizarre Adventure Henshû</showtitle>
+  <season>4</season>
+  <episode>4</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Alors qu’il cherche à retrouver la maison de son enfance, Rohan Kishibe invite Koichi à résoudre le mystère d’une rue qui ne figure sur aucun plan de la ville. Une fois à l’intérieur, ils découvrent une zone totalement déserte, où règne une atmosphère étrange. Les choses prennent une tournure encore plus angoissante lorsqu’ils comprennent qu’ils tournent en rond, sans possibilité de trouver le chemin du retour ! Seraient-ils victimes d’un nouveau Stand ?&#13;
+&#13;
+Ce film couvre les épisodes 17 à 24 de Diamond is Unbreakable soit les chapitres 330 à 364.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/3/30/Jojo%27s_bizarre_adventure_henshu_affiche_19.webp/revision/latest?cb=20220810233552&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2021-06-07</premiered>
+  <aired>2021-06-07</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Livai - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-19 21:42:13</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Livaï] Jojo’s Bizarre Adventure Diamond is Unbreakable Henshū 4 - Le Meurtrier - 1080p.VOSTFR.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

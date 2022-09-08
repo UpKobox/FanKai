@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:11:04 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Le recrutement</title>
+  <originaltitle/>
+  <showtitle>Dragon Ball Super Kaï</showtitle>
+  <season>4</season>
+  <episode>8</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Goku retourne sur Terre pour former l’équipe de l’univers 7. Il vient d’abord recruter Vegeta mais ce dernier est confronté à un problème : Bulma est enceinte et il ne bougera pas tant qu’elle n’aura pas accouché.&#13;
+&#13;
+Ce film couvre les épisodes 83 à 96.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2018-10-06</premiered>
+  <aired>2018-10-06</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Kaimisama - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-27 18:34:12</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Kaimisama] Dragon Ball Super (Fan-Kai) 08 - Le recrutement - 720p.VOSTFR.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

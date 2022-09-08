@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:26 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Nous brandirons la lumière de la science</title>
+  <originaltitle/>
+  <showtitle>Dr Stone Henshû</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Senku décide d'accompagner Kohaku, après qu'elle l'ait invité dans son village. Il a besoin de main-d’œuvre pour bâtir le royaume de la science, et il semblerait qu'elle connaisse l'homme parfait pour ça.&#13;
+&#13;
+Ce film couvre les épisodes 7 à 9 soit les chapitres 17 à 25.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/5/51/Dr.stone_henshu_affiche_03.webp/revision/latest/scale-to-width-down/1000?cb=20220810225742&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2021-11-06</premiered>
+  <aired>2021-11-06</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Khyinn - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 01:45:52</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Khyinn] Dr Stone Henshu - 03 - Nous brandirons la lumière de la science.mkv</original_filename>
+  <user_note/>
+</episodedetails>

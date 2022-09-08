@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 16:39:33 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Pays de Shura</title>
+  <originaltitle/>
+  <showtitle>Hokuto No Ken Kaï</showtitle>
+  <season>6</season>
+  <episode>19</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Lynn a été capturée et emmenée de force au pays de Shura, situé derrière la dernière mer présente sur ce monde désolé. Ce pays est habité par des hommes à la force monstrueuse appelés Shura. Ken et Falco décident de traverser la mer pour retrouver Lynn, mais quels nouveaux dangers rencontreront-ils dans ce pays de chaos ?&#13;
+&#13;
+Ce film couvre les épisodes 123 à 129 soit les chapitres 161 à 178.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2019-08-18</premiered>
+  <aired>2019-08-18</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Illuzionn - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 21:04:45</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>DVD</source>
+  <original_filename>Hokuto No Ken Fan-Kai - 19 - Pays de Shura.1080p.DvdRip.x264.Illuzionn.mkv</original_filename>
+  <user_note/>
+</episodedetails>

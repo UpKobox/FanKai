@@ -1,0 +1,5 @@
+S1 = Examen Hunter - Films 1 à 4
+S2 = York Shin City - Films 5 à 8
+S3 = Greed Island - Films 9 à 10
+S4 = Kimera Ants - Films 11 à 19
+S5 = Élections - Films 20 à 21

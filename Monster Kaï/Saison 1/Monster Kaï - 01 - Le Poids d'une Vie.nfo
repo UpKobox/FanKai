@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:53 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Le Poids d'une Vie</title>
+  <originaltitle/>
+  <showtitle>Monster Kaï</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>En Allemagne de l’Ouest, au Memorial Hospital de Eisler travaille un jeune neurochirurgien de génie, Tenma Kenzo. Jeune et promu chef, il est fiancé avec Eva, la fille du directeur de l’hôpital, M. Heinemann. Il a un avenir prometteur en tant que médecin et aucun nuage à l’horizon mais il s’agit en fait de la conséquence directe du sacrifice de son talent et de sa thèse au profit du directeur de l’hôpital. Tenma se sent tout de même frustré et irrité par les ordres du directeur Il regrettera ensuite de ne pas avoir aidé un homme d’origine turque pour avoir donné la priorité à un chanteur d’opéra opéré à l’hôpital. A cette époque, le couple Liebert qui venait, exilé de l’Allemagne de l’Est est assassiné et l’un de leur jumeau, Johan, est transporté gravement blessé à l’hôpital. Là, Tenma fait le choix lourd de conséquences d’ignorer l’ordre de l’hôpital de ne pas opérer le maire en priorité et retourne opérer le jeune garçon qui était arrivé d’abord.&#13;
+&#13;
+Ce film couvre les épisodes 1 à 7 soit les tomes 1 à 2.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2021-01-24</premiered>
+  <aired>2021-01-24</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Avalokitesvara - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 00:27:53</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>Monster Kaï - 01 - Le Poids d'une Vie.mkv</original_filename>
+  <user_note/>
+</episodedetails>

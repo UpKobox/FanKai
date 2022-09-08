@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-22 21:00:12 - tinyMediaManager 4.3.2-->
+<tvshow>
+  <title>One Piece Kaï</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <sorttitle/>
+  <year>1999</year>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <outline/>
+  <plot>Monkey D. Luffy rêve de retrouver ce trésor légendaire et de devenir le nouveau "Roi des Pirates". Après avoir mangé un fruit du démon, il possède un pouvoir lui permettant de réaliser son rêve. Il lui faut maintenant trouver un équipage pour partir à l'aventure !</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <thumb aspect="poster">https://static.wikia.nocookie.net/fan-kai/images/4/47/One_Piece_Yabai_Affiche.jpg/revision/latest?cb=20220806192826&amp;path-prefix=fr</thumb>
+  <thumb aspect="banner">https://artworks.thetvdb.com/banners/graphical/81797-g2.jpg</thumb>
+  <namedseason number="1">East Blue</namedseason>
+  <namedseason number="2">Baroque Works</namedseason>
+  <namedseason number="3">Île Céleste</namedseason>
+  <namedseason number="4">CP-9</namedseason>
+  <namedseason number="5">Thriller Bark</namedseason>
+  <namedseason number="6">Guerre au Sommet</namedseason>
+  <namedseason number="7">Île des Hommes-Poissons</namedseason>
+  <namedseason number="8">Dressrosa</namedseason>
+  <namedseason number="9">Quatre Empereurs</namedseason>
+  <thumb aspect="poster" season="1" type="season">https://artworks.thetvdb.com/banners/posters/5bfacd916190f.jpg</thumb>
+  <thumb aspect="poster" season="2" type="season">https://artworks.thetvdb.com/banners/posters/5bad651cbe951.jpg</thumb>
+  <thumb aspect="poster" season="3" type="season">https://i.pinimg.com/originals/d9/2c/03/d92c035277e0e9b64b739eb5db8ea92f.jpg</thumb>
+  <thumb aspect="poster" season="4" type="season">https://artworks.thetvdb.com/banners/posters/81797-2.jpg</thumb>
+  <thumb aspect="poster" season="5" type="season">https://artworks.thetvdb.com/banners/posters/81797-1.jpg</thumb>
+  <thumb aspect="poster" season="6" type="season">https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/255a7c63-b405-4edd-94ff-c44941c30bfe/df5h54u-a940aaeb-dc1a-4f28-acdb-68eaae3cb213.png/v1/fill/w_1280,h_1811,q_80,strp/op_marine_ford_by_zorodash_df5h54u-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTgxMSIsInBhdGgiOiJcL2ZcLzI1NWE3YzYzLWI0MDUtNGVkZC05NGZmLWM0NDk0MWMzMGJmZVwvZGY1aDU0dS1hOTQwYWFlYi1kYzFhLTRmMjgtYWNkYi02OGVhYWUzY2IyMTMucG5nIiwid2lkdGgiOiI8PTEyODAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.GPsItgg_LehO5hjrctW22IonQVP0oQyHXo0LEe2GqbA</thumb>
+  <thumb aspect="poster" season="7" type="season">https://artworks.thetvdb.com/banners/posters/81797-12.jpg</thumb>
+  <thumb aspect="poster" season="8" type="season">https://i.pinimg.com/originals/89/df/ee/89dfeeb7be857583fc61ea50a40f340a.jpg</thumb>
+  <thumb aspect="poster" season="9" type="season">https://artworks.thetvdb.com/banners/series/81797/posters/5eec847d52a04.jpg</thumb>
+  <fanart>
+    <thumb>https://artworks.thetvdb.com/banners/fanart/original/81797-33.jpg</thumb>
+  </fanart>
+  <mpaa/>
+  <certification/>
+  <id/>
+  <imdbid/>
+  <tmdbid/>
+  <premiered/>
+  <status>Unknown</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Action</genre>
+  <genre>Adventure</genre>
+  <genre>Animation</genre>
+  <genre>Anime</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <genre>Fantasy</genre>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <country/>
+  <actor>
+    <name>Mayumi Tanaka</name>
+    <role>Luffy</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/412417/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kazuya Nakai</name>
+    <role>Zoro</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/280725/61f8fbff71dff.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kappei Yamaguchi</name>
+    <role>Usopp</role>
+    <thumb>https://artworks.thetvdb.com/banners/v4/actor/277084/photo/61ee37862b218.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hiroaki Hirata</name>
+    <role>Sanji</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/400074/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Wakana Yamazaki</name>
+    <role>Nami</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/293318/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ikue Ootani</name>
+    <role>Chopper</role>
+    <thumb>https://artworks.thetvdb.com/banners/v4/actor/7930970/photo/62951f020748d.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yuriko Yamaguchi</name>
+    <role>Robin</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/349302/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kazuki Yao</name>
+    <role>Franky</role>
+    <thumb>https://artworks.thetvdb.com/banners/actors/367000.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Choo</name>
+    <role>Brook</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/7931214/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Daisuke Gouri/Katsuhisa Houki</name>
+    <role>Jinbe</role>
+    <thumb>https://s4.anilist.co/file/anilistcdn/character/large/b18938-eu1hhPSNMRWa.png</thumb>
+  </actor>
+  <trailer/>
+  <dateadded>1999-10-20 15:51:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+</tvshow>

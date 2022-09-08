@@ -1,0 +1,5 @@
+S1 = Sword Art Online - Films 1 à 4
+S2 = Gun Gale Online - Films 5 à 8
+S3 = Aincrad - Caliber - Films 9 et 10
+S4 = Alicization - Films 11 à 15
+S5 = Alicization War of Underworld - Films 16 à 19

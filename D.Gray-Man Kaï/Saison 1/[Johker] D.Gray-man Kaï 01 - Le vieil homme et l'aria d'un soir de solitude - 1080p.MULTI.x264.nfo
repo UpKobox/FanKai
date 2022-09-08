@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:23 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Le vieil homme et l'aria d'un soir de solitude</title>
+  <originaltitle/>
+  <showtitle>D.Gray-Man Kaï</showtitle>
+  <season>1</season>
+  <episode>1</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Un jeune garçon arrive à Londres : il a les cheveux blancs et une étrange cicatrice sur le côté gauche de son visage. Ce garçon, c’est Allen Walker et il se rend au quartier général des Exorcistes. Plus loin, l’agent de police Moore compte bien résoudre le mystère qui règne sur une église. On dit qu’elle est maudite à cause d’un évènement survenu il y a près de deux ans : les voyageurs s’arrêtant dans ce lieu disparaissent, ne laissant derrière eux que leurs vêtements. C’est là que l’agent Moore va rencontrer le jeune Allen Walker, partit à la poursuite du chat qui avait avalé son précieux Timcanpy. Malheureusement, Charles, le coéquipier de Moore va disparaître également lui aussi dans cette église. Suspecté Allen va être arrêté puis confié à la garde de Moore. Ensemble, ils vont découvrir ce qu’il se passe réellement dans cette église…&#13;
+&#13;
+Ce film couvre les épisodes 1 à 5.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/6/60/D.gray_man_kai_affiche_01.webp/revision/latest/scale-to-width-down/1000?cb=20220810224718&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2020-03-19</premiered>
+  <aired>2020-03-19</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Johker - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 01:31:47</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Johker] D.Gray-man Kaï 01 - Le vieil homme et l'aria d'un soir de solitude - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-25 00:30:33 - tinyMediaManager 4.3.2-->
+<episodedetails>
+  <title>Fin de partie</title>
+  <originaltitle/>
+  <showtitle>Sword Art Online Kaï</showtitle>
+  <season>4</season>
+  <episode>15</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Lorsque Kirito et Alice déchaînent leur puissance dans le jardin, l'impact perce un trou dans le mur réputé imprenable de la cathédrale centrale, ce qui les envoie tous les deux voler à l'extérieur.
+
+Ce film couvre les épisodes 17 à 24 soit les volumes 13 à 14.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Roro - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-22 22:47:06</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Roro] Sword Art Online Kaï S04E05.mkv</original_filename>
+  <user_note/>
+</episodedetails>

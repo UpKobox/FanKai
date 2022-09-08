@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:53 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Fin de partie</title>
+  <originaltitle/>
+  <showtitle>Mirai Nikki Henshû</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Emmené par une Yuno plus déterminée que jamais, Yukiteru sème la mort sur son passage, obsédé par l'idée de devenir dieu et de ramener ses parents à la vie. Cependant, il semble oublier qu'il ne peut y avoir qu'un seul vainqueur dans le jeu organisé par Deus. Qu’adviendrait il de sa relation avec Yuno si les deux adolescents parviennent à éliminer tous leurs adversaires ?&#13;
+&#13;
+Ce film couvre les épisodes 22 à 26 ainsi que l'OAV Redial soit les chapitres 49 à 59.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/b/b8/Mirai_nikki_henshu_affiche_06.webp/revision/latest?cb=20220810234027&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2021-05-24</premiered>
+  <aired>2021-05-24</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>MECHAPOULPE - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-27 15:10:52</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[MECHAPOULPE] Mirai Nikki 06 - Fin de partie.mkv</original_filename>
+  <user_note/>
+</episodedetails>

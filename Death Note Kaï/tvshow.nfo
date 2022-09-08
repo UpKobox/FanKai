@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-27 23:24:34 - tinyMediaManager 4.3.3-->
+<tvshow>
+  <title>Death Note Kaï</title>
+  <originaltitle/>
+  <showtitle>Death Note Kaï</showtitle>
+  <sorttitle/>
+  <year>2006</year>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <outline/>
+  <plot>Light Yagami, un jeune étudiant surdoué, ramasse un jour le "Death Note", un carnet abandonné par un dieu de la mort, Ryûk, qui apparemment s'ennuyait dans son monde. Il suffit d'écrire le nom d'une personne dans ce carnet, et celle-ci meurt.</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <thumb aspect="poster">https://static.wikia.nocookie.net/fan-kai/images/0/00/Death_note_kai_affiche.webp/revision/latest?cb=20220717154020&amp;path-prefix=fr</thumb>
+  <thumb aspect="banner">https://artworks.thetvdb.com/banners/graphical/79481-g7.jpg</thumb>
+  <thumb aspect="poster" season="1" type="season">https://artworks.thetvdb.com/banners/v4/series/79481/posters/628dc4e7aaad5.jpg</thumb>
+  <fanart>
+    <thumb>https://artworks.thetvdb.com/banners/fanart/original/79481-11.jpg</thumb>
+  </fanart>
+  <mpaa/>
+  <certification/>
+  <id/>
+  <imdbid/>
+  <tmdbid/>
+  <premiered/>
+  <status>Unknown</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Animation</genre>
+  <genre>Anime</genre>
+  <genre>Crime</genre>
+  <genre>Drama</genre>
+  <genre>Fantasy</genre>
+  <genre>Mystery</genre>
+  <genre>Suspense</genre>
+  <genre>Thriller</genre>
+  <studio>Roro - Fan-Kai</studio>
+  <country/>
+  <actor>
+    <name>Mamoru Miyano</name>
+    <role>Light Yagami</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/292480/61f9414b80f68.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Nakamura Shidō</name>
+    <role>Ryuk</role>
+    <thumb>https://artworks.thetvdb.com/banners/v4/actor/8874664/photo/6149ba4cb9a61.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Aya Hirano</name>
+    <role>Misa Amane</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/292478/61b3506b30e5e.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kimiko Saitou</name>
+    <role>Rem</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/292494/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kappei Yamaguchi</name>
+    <role>L</role>
+    <thumb>https://artworks.thetvdb.com/banners/v4/actor/277084/photo/61ee37862b218.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Naoya Uchida</name>
+    <role>Soichiro Yagami</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/464294/primary.jpg</thumb>
+  </actor>
+  <trailer/>
+  <dateadded>2006-10-04 23:19:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+</tvshow>

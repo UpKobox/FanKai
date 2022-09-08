@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-28 18:31:41 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Gola Mosca</title>
+  <originaltitle/>
+  <showtitle>Reborn! Kaï</showtitle>
+  <season>3</season>
+  <episode>9</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Le dernier duel pour les anneaux, opposant les gardiens des Nuages Gola Mosca et Kyôya Hibari, approche. Mais le père de Tsuna, en mission au quartier général des Vongola en Italie, va faire une surprenante découverte au sujet de ce Gola Mosca : il s'agit en réalité d'une arme développée par l'ancienne armée italienne et recelant un terrible secret...
+
+Ce film couvre les épisodes 53 à 59.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Kadero_san - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-28 18:12:50</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Kadero_san] Reborn! Kaï S03E04.mkv</original_filename>
+  <user_note/>
+</episodedetails>

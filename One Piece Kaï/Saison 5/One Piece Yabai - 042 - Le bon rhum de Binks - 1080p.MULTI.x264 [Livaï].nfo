@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:33:12 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Le bon rhum de Binks</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>5</season>
+  <episode>42</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Luffy, utilisant son Gear Second, commence à se battre contre Moria et sa technique Shadows Asgard lui procurant la force de 1000 ombres. Pendant ce temps, les personnes s'étant fait voler leur ombre par Moria, soit la majorité des personnes présente sur Thriller Bark, se retrouve menacé par l'apparition du soleil...&#13;
+&#13;
+Ce film couvre les épisodes 374 à 381 soit les chapitres 481 à 490.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/4/45/One_piece_ultime_pack_affiche_42.webp/revision/latest/scale-to-width-down/1000?cb=20220811200309&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2022-03-06</premiered>
+  <aired>2022-03-06</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:27</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Yabai - 042 - Le bon rhum de Binks - 1080p.MULTI.x264 [Livaï].mkv</original_filename>
+  <user_note/>
+</episodedetails>

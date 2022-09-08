@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 17:38:31 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>La Clé de la Liberté</title>
+  <originaltitle/>
+  <showtitle>One Piece Kaï</showtitle>
+  <season>4</season>
+  <episode>34</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Franky avait caché les plans de l'arme antique Pluton dans son corps. Il les montre au CP9, expliquant qu'ils existaient uniquement pour être construits en opposition aux réveils éventuels des armes antiques . Ayant réalisé que Robin, n'était pas le démon décrit, il parie le destin du monde sur la capacité des Chapeaux de Paille à la sauver et brûle les plans. Enragé, Spandam jette Franky hors du balcon. Kokoro fait monter Rocketman sur le pont-levis à moitié abaissé. Les Chapeaux de Paille sautent à bord. Frappant Franky en chemin, le train saute par-dessus la cascade et s'écrase dans à l'intérieur de la Tour de la Justice.&#13;
+&#13;
+Ce film couvre les épisodes 284 à 293 soit les chapitres 388 à 408.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/a/ac/One_piece_ultime_pack_affiche_34.webp/revision/latest/scale-to-width-down/1000?cb=20220811200308&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2021-09-16</premiered>
+  <aired>2021-09-16</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Livai - Johker - ZdK - Sacha - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-21 15:51:28</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>One Piece Yabai - 034 - La Clé de la Liberté - 1080p.MULTI.x264 [Johker].mkv</original_filename>
+  <user_note/>
+</episodedetails>

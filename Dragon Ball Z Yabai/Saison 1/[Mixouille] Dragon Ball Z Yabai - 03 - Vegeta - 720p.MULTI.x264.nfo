@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:31 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Vegeta</title>
+  <originaltitle/>
+  <showtitle>Dragon Ball Z Yabai</showtitle>
+  <season>1</season>
+  <episode>3</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Vegeta se préparant pour le combat, Nappa se rend compte qu'il a finalement perdu, et se prépare à attaquer Son Gohan et Krilin, mais Son Goku utilise l'aura de Kaio pour vaincre Nappa. Son Goku apporte à Son Gohan et Krilin de l'aide et des explications sur le l'aura de Kaio et indique qu'il doit être très prudent car cette technique peut détruire tout son corps s'il dépasse le double aura, voire le tuer. Son Goku s'étant défait facilement de Nappa, Végéta tue celui-ci. Son Goku dit à Son Gohan et Krilin de le quitter pour qu'il puisse lutter tout seul contre Vegeta sans distraction. Après avoir déménagé sur un nouveau champ de bataille c'est le début de la lutte, Son Goku se rend compte que le double aura n'est pas assez puissant pour vaincre Végéta et décide d'entrer en action avec le triple aura de Kaio.&#13;
+&#13;
+Ce film couvre les épisodes 13 à 17.</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered>2018-04-11</premiered>
+  <aired>2018-04-11</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Mixouille - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-27 16:13:45</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Mixouille] Dragon Ball Z Yabai - 03 - Vegeta - 720p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

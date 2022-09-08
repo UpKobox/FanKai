@@ -1,0 +1,3 @@
+S1 = Black Lagoon
+S2 = Black Lagoon : Second Barrage
+S3 = Roberta's Blood Trail

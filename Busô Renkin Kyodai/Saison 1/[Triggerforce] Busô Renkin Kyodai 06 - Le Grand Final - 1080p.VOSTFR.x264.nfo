@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:23 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Grand final</title>
+  <originaltitle/>
+  <showtitle>Busô Renkin Kyodai</showtitle>
+  <season>1</season>
+  <episode>6</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Les guerriers alchimistes trouvent et commencent à combattre Victor. Pendant ce temps, Kazuki, Tokiko, Gouta et Papillon arrivent à l'école où ils rencontrent une mystérieuse figure qui se présente sous le nom de Victoria.&#13;
+&#13;
+Ce film couvre les épisodes 22 à 26 soit les chapitres 75 à 81.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/2/2c/Buso_renkin_kyodai_affiche_06.webp/revision/latest/scale-to-width-down/1000?cb=20220810223121&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2021-07-21</premiered>
+  <aired>2021-07-21</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Triggerforce - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-27 22:26:20</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Triggerforce] Busô Renkin Kyodai 06 - Le Grand Final - 1080p.VOSTFR.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-24 22:13:54 - tinyMediaManager 4.3.2-->
+<episodedetails>
+  <title>Sans regrets</title>
+  <originaltitle/>
+  <showtitle>Shingeki No Kyojin Henshû</showtitle>
+  <season>3</season>
+  <episode>3</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Les Haut-Gradés de l'Armée se préparent pour la reconquête du District de Shiganshina et Erwin confis une grande responsabilité à Livaï. Pendant ce temps, Eren montre qu'il a repris confiance en lui depuis sa discussion avec Keith Shadis, mais semble aussi s'éloigner de plus en plus de l'enfant qu'il était avant la chute du mur.
+
+Ce film couvre l'épisode 49 ainsi que les OAV 4 et 5 (Birth of Livaï).</plot>
+  <runtime>0</runtime>
+  <mpaa/>
+  <premiered/>
+  <aired/>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Johker - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-24 18:13:23</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Johker] Shingeki no Kyojin Henshû S03E03.mkv</original_filename>
+  <user_note/>
+</episodedetails>

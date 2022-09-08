@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-30 13:19:54 - tinyMediaManager 4.3.3-->
+<episodedetails>
+  <title>Un chant de glace et de feu</title>
+  <originaltitle/>
+  <showtitle>My Hero Academia Henshû</showtitle>
+  <season>1</season>
+  <episode>5</episode>
+  <displayseason>-1</displayseason>
+  <displayepisode>-1</displayepisode>
+  <id/>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <plot>Après sa qualification pour l'épreuve finale, Izuku est une nouvelle fois interpelé par Shoto. Pour quelle raison ce dernier s'intéresse-t-il autant à lui ? Pourquoi veut-il à tout prix battre Izuku ? Shoto va se mettre à nu et tout raconter à notre héros...Izuku va se rendre compte une nouvelle fois que chacun a des raisons bien personnelles de vouloir devenir le numéro 1...&#13;
+&#13;
+Ce film couvre les épisodes 19 à 25.</plot>
+  <runtime>0</runtime>
+  <thumb>https://static.wikia.nocookie.net/fan-kai/images/7/7e/My_hero_academia_henshu_affiche_05.webp/revision/latest?cb=20220810234522&amp;path-prefix=fr</thumb>
+  <mpaa/>
+  <premiered>2019-05-30</premiered>
+  <aired>2019-05-30</aired>
+  <watched>false</watched>
+  <playcount>0</playcount>
+  <studio>Johker - Fan-Kai</studio>
+  <trailer/>
+  <dateadded>2022-08-20 16:55:07</dateadded>
+  <epbookmark/>
+  <code/>
+  <fileinfo>
+    <streamdetails>
+      <video>
+        <codec>h264</codec>
+        <aspect>1.33</aspect>
+        <width>640</width>
+        <height>480</height>
+        <durationinseconds>15028</durationinseconds>
+        <stereomode/>
+      </video>
+      <audio>
+        <codec>AAC</codec>
+        <language>jpn</language>
+        <channels>2</channels>
+      </audio>
+      <subtitle>
+        <language>eng</language>
+      </subtitle>
+    </streamdetails>
+  </fileinfo>
+  <!--tinyMediaManager meta data-->
+  <source>UNKNOWN</source>
+  <original_filename>[Johker] My Hero Academia Henshū 5 - Un chant de glace et de feu - 1080p.MULTI.x264.mkv</original_filename>
+  <user_note/>
+</episodedetails>

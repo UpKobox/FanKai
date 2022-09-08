@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--created on 2022-08-22 21:38:03 - tinyMediaManager 4.3.2-->
+<tvshow>
+  <title>Slam Dunk Kaï</title>
+  <originaltitle/>
+  <showtitle>Slam Dunk Kaï</showtitle>
+  <sorttitle/>
+  <year>1993</year>
+  <ratings/>
+  <userrating>0.0</userrating>
+  <outline/>
+  <plot>Hanamichi Sakuragi est un grand voyou, rebelle à ses heures et dont la principale caractéristique est d'être malheureux en amour ! Il tombe amoureux de la jolie Haruko qui une très grande fan de basket. Il se jette donc à corps perdu dans ce sport dont il ne connait absolument rien et qu'il n'a jamais aimé ! Mais un amour n'est pas forcément réciproque... C'est ce que Sakuragi va découvrir et c'est ce qui va ensuite le motiver à donner le meilleur de lui-même.</plot>
+  <tagline/>
+  <runtime>0</runtime>
+  <thumb aspect="poster">https://static.wikia.nocookie.net/fan-kai/images/5/56/Slamdunk_kai_affiche.webp/revision/latest?cb=20220115004150&amp;path-prefix=fr</thumb>
+  <thumb aspect="banner">https://artworks.thetvdb.com/banners/graphical/18726-g.jpg</thumb>
+  <thumb aspect="poster" season="1" type="season">https://artworks.thetvdb.com/banners/series/72491/posters/5edd13ca9f054.jpg</thumb>
+  <fanart>
+    <thumb>https://artworks.thetvdb.com/banners/fanart/original/72491-3.jpg</thumb>
+  </fanart>
+  <mpaa/>
+  <certification/>
+  <id/>
+  <imdbid/>
+  <tmdbid/>
+  <premiered/>
+  <status>Unknown</status>
+  <watched>false</watched>
+  <playcount/>
+  <genre>Animation</genre>
+  <genre>Anime</genre>
+  <genre>Comedy</genre>
+  <genre>Drama</genre>
+  <genre>Sport</genre>
+  <studio>Titou - Fan-Kai</studio>
+  <country/>
+  <actor>
+    <name>Takeshi Kusao</name>
+    <role>Hanamichi Sakuragi</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/293320/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Hikaru Midorikawa</name>
+    <role>Kaede Rukawa</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/303114/61502dd30ef96.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Yoku Shioya</name>
+    <role>Ryota Miyagi</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/345282/primary.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Ryoutarou Okiayu</name>
+    <role>Hisashi Mitsui</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/7877658/61f6ae95a4b26.jpg</thumb>
+  </actor>
+  <actor>
+    <name>Kiyoyuki Yanada</name>
+    <role>Takenori Akagi</role>
+    <thumb>https://artworks.thetvdb.com/banners/person/292469/5f19b9e318f7c.jpg</thumb>
+  </actor>
+  <trailer/>
+  <dateadded>1996-10-16 21:15:00</dateadded>
+  <!--tinyMediaManager meta data-->
+  <user_note/>
+</tvshow>
